@@ -16,13 +16,15 @@ group: Hadrosaurier
 ---
 Der **Parasaurolophus** besitzt einen Kamm auf dem Kopf, mit diesem Kamm hat er sich vermutlich mit seinen Artgenossen verständigt. Zum Beispiel: wenn Feinde in der Nähe waren oder die Herde weiter ziehen wollten.
 
+![Parasaurolophuskopf](/img/dinos/parasuarolophus-kopf.jpg)
 
 
- **Parasaurolophen** zogen meistens in Herden. Sie konnten vermutlich sehr schnell rennen. 
+
+ **Parasaurolophen** zogen vermutlich in Herden durch die Waldländer.
 
 
 
 Quellen: 
 
-[Parasaurolophus walkeri by CamusAltamirano on DeviantArt](https://www.deviantart.com/camusaltamirano/art/Parasaurolophus-walkeri-303527751)
-
+* [Parasaurolophus walkeri by CamusAltamirano on DeviantArt](https://www.deviantart.com/camusaltamirano/art/Parasaurolophus-walkeri-303527751)
+* <https://hu.wikipedia.org>
