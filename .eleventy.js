@@ -64,7 +64,7 @@ module.exports = config => {
     /* Shortcodes */
     const imageShortcode = async (src, className, alt, sizes) => {
         let metadata = await Image(src.includes('http') ? src : `./src/${src}`, {
-            widths: [600, 1500, 3000],
+            widths: [null, 400, 800, 1280],
             formats: ['webp', 'jpeg'],
             outputDir: './_site/img/dinos',
             urlPath: '/img/dinos/'
