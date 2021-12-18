@@ -1,8 +1,8 @@
 ---
-title: "Bachiosuarus"
+title: Bachiosuarus
 image: /img/dinos/brachiosuarus.png
 tags:
-  - Herbivore
+  - Herbivore 🌿
   - Jura
   - Lieblingsdino ⭐
 food: herbivor
