@@ -24,8 +24,9 @@ Der Lebensraum des Brachiosaurus waren die Ebenen. Mit seinem langen Hals kam er
 
 
 
-Quellen:
+Bildquellen:
 
-https://www.deviantart.com
+* https://www.deviantart.com
 
-https://commons.wikimedia.org
+*https://commons.wikimedia.org
+*
