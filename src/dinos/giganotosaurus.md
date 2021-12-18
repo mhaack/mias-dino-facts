@@ -1,5 +1,5 @@
 ---
-name: "Giganotosaurus "
+title: Giganotosaurus
 image: /img/dinos/giganotosaurus.jpg
 tags:
   - Trias
