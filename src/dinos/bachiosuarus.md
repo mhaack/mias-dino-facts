@@ -6,12 +6,12 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
-food: Herbivore
+food: herbivor
 location: Nordamerika
 finder: Elmer S. Riggs
 weight: 35.000kg
 size: 28m
-years: 155-140 Millionen Jahre
+years: "155-140 "
 group: Sauropoden
 ---
  Der Brachiosuarus hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
@@ -20,7 +20,7 @@ group: Sauropoden
 
 
 
-Der Lebensraum des Brachiosaurus waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein Brachiosaurus 200kg Blätter und Zweige.
+Der Lebensraum des Brachiosaurus waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein Brachiosaurus ca. 200kg Blätter und Zweige.
 
 
 
