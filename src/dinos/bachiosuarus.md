@@ -1,5 +1,6 @@
 ---
 title: Bachiosuarus
+meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
   - Herbivore 🌿
