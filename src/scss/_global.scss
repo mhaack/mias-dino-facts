@@ -31,10 +31,6 @@ main {
 
 section {
     padding: 30px 0;
-
-    @include mq(medium) {
-        padding: 60px 0;
-    }
 }
 
 a {
