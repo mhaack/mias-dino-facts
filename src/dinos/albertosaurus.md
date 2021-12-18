@@ -13,8 +13,4 @@ size: 9m
 years: 72-69 Millionen
 group: Tyrannosauridae
 ---
-
-
-
-
-https://www.deviantart.com/
+https://www.deviantart.com
