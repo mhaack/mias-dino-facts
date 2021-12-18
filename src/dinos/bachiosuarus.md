@@ -18,15 +18,9 @@ group: Sauropoden
 
 ![Größen Vergleich Brachiosaurus ](/img/dinos/brachiosaurus-vergleich.png)
 
-
-
 Der Lebensraum des Brachiosaurus waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein Brachiosaurus ca. 200kg Blätter und Zweige.
-
-
 
 Bildquellen:
 
-* https://www.deviantart.com
-
-*https://commons.wikimedia.org
-*
+* <https://www.deviantart.com>
+* <https://commons.wikimedia.org>
