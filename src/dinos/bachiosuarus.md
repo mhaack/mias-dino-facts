@@ -15,3 +15,7 @@ years: 155-140
 group: Sauropoden
 ---
 Brachiosuarus hatte einen sehr langen Hals.
+
+
+
+https://www.deviantart.com
