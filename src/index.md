@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Dino-Lexikon
+title: Mia`s Dino-Lexikon
 authorInTitle: false
 metaTitle: Home
 highlightedTag: Lieblingsdino ⭐
