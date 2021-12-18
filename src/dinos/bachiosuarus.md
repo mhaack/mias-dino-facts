@@ -1,5 +1,5 @@
 ---
-title: Bachiosuarus
+title: Brachiosuarus
 meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
