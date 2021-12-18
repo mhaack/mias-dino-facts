@@ -4,7 +4,7 @@ meaning: südliche Riesenechse
 image: /img/dinos/giganotosaurus.jpg
 tags:
   - Karnivore 🥩
-  - Trias 🦴
+  - Kreide 🦴
 food: Karnivore
 location: Argentinien
 finder: Rodolfo Coria
@@ -13,8 +13,13 @@ size: 12,5m
 years: 122-90
 group: Theropoda
 ---
-Der Giganotosaurus war größer als der Tyrannosaurus Rex.
+Der Giganotosaurus war ein starker Räuber der vermutlich in Waldländern Sauropoden gejagt hat. Er ist so schwer 125 Menschen.
+
+![Giganotosaurusskelett](/img/dinos/giganotosaurus-skelett.jpg)
 
 
 
-https://www.deviantart.com
+Quellen:
+
+* <https://www.deviantart.com>
+* <https://commons.wikimedia.org>
