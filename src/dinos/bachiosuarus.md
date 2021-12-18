@@ -6,7 +6,7 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
-food: herbivor
+food: Herbivore
 location: Nordamerika
 finder: Elmer S. Riggs
 weight: 35.000kg
@@ -18,7 +18,7 @@ group: Sauropoden
 
 ![Größen Vergleich Brachiosaurus ](/img/dinos/brachiosaurus-vergleich.png)
 
-Der Lebensraum des **Brachiosaurus** waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige.
+Der Lebensraum des **Brachiosaurus** waren die Ebenen. Mit seinem langen Hals kam er an hohe Nadelbäume heran. Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige.
 
 Quellen:
 
