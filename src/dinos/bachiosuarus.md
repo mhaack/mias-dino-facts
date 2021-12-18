@@ -4,7 +4,7 @@ meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
   - Herbivore 🌿
-  - Jura
+  - Jura 🦴
   - Lieblingsdino ⭐
 food: herbivor
 location: Nordamerika
