@@ -1,5 +1,6 @@
 ---
 title: Giganotosaurus
+meaning: südliche Riesenechse
 image: /img/dinos/giganotosaurus.jpg
 tags:
   - Trias
