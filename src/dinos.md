@@ -1,4 +1,4 @@
 ---
-layout: layouts/recipes-list.njk
+layout: layouts/dino-list.njk
 title: Alle Dinos
 ---

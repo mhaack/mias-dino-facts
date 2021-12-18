@@ -1,32 +1,32 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-    {% recipeimage image, "c-recipe__header-image", title, "100vw" %}
-    <h1 class="c-recipe__title">{{ title }}</h1>
+    {% image image, "c-dino__header-image", title, "100vw" %}
+    <h1 class="c-dino__title">{{ title }}</h1>
     <section>
         <div class="l-container">
-            <div class="c-recipe__recipe-content-wrapper">
-                <div class="c-recipe__tag-list">
+            <div class="c-dino__dino-content-wrapper">
+                <div class="c-dino__tag-list">
                     {% for tag in tags %}
                         <a class="c-tags__tag" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
                     {% endfor %}
                 </div>
-                <div class="c-recipe__ingredients-wrapper" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
+                <div class="c-dino__ingredients-wrapper" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
                     {% if time or not servings == "" %}
-                        <div class="c-recipe__additional-info">
+                        <div class="c-dino__additional-info">
                             {% if time %}
                                 <p>{% include "icons/time.svg" %}{{ time }}</p>
                             {% endif %}
                             {% if not servings == "" %}
                                 <p>
                                     <template x-if="currentServings > 1">
-                                        <button @click="currentServings -= 1" class="c-recipe__serving-button">
+                                        <button @click="currentServings -= 1" class="c-dino__serving-button">
                                             -
                                             <span class="u-sr-only">Remove 1 serving</span>
                                         </button>
                                     </template>
                                     <span x-text="currentServings"></span>
-                                    <button @click="currentServings += 1" class="c-recipe__serving-button">
+                                    <button @click="currentServings += 1" class="c-dino__serving-button">
                                         +
                                         <span class="u-sr-only">Add 1 serving</span>
                                     </button>
@@ -38,7 +38,7 @@
 
                     <h3>{{ site.ingredientsLabel }}</h3>
                     <template x-if="currentServings">
-                        <ul class="c-recipe__ingredients-list">
+                        <ul class="c-dino__ingredients-list">
                             <template x-for="(ingredient, index) in ingredients" :key="index">
                                 <li x-text="adaptQuantity(ingredient, {{servings}}, currentServings)"></li>
                             </template>
@@ -46,7 +46,7 @@
                     </template>
 
                     <template x-if="!currentServings">
-                        <ul class="c-recipe__ingredients-list">
+                        <ul class="c-dino__ingredients-list">
                             {% for ingredient in ingredients %}
                                 <li>{{ ingredient }}</li>
                             {% endfor %}
@@ -54,7 +54,7 @@
                     </template>
                 </div>
 
-                <div class="c-recipe__instructions-wrapper u-free-text">
+                <div class="c-dino__instructions-wrapper u-free-text">
                     {% if sourceLabel and sourceURL %}
                         <p>Source : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a></p>
                     {% endif %}

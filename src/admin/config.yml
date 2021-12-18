@@ -11,6 +11,7 @@ collections:
     create: true
     fields:
       - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bedeutung des Namen", name: "name-meaning", widget: "string", required: false}
       - {label: "Bild", name: "image", widget: "image"}
       - label: "Tags"
         name: "tags"
@@ -61,19 +62,19 @@ collections:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Add author to title", name: "authorInTitle", widget: "boolean"}
         - {label: "Meta title", name: "metaTitle", widget: "string", hint: "used for SEO"}
-        - {label: "Highlighted tag", name: "highlightedTag", widget: "string", hint: "This must correspond to one of your recipes' tag !"}
+        - {label: "Highlighted tag", name: "highlightedTag", widget: "string", hint: "This must correspond to one of your dinos' tag !"}
         - {label: "Title of the highlighted tag section (label)", name: "highlightedTitle", widget: "string"}
-        - {label: "Link text to all recipes with the highlighted tag (label)", name: "highlightedLinkText", widget: "string"}
-    - name: "recipes"
-      label: "All recipes page"
-      file: "src/recipes.md"
+        - {label: "Link text to all dinos with the highlighted tag (label)", name: "highlightedLinkText", widget: "string"}
+    - name: "dinos"
+      label: "All dinos page"
+      file: "src/dinos.md"
       fields:
         - {label: "Title", name: "title", widget: "string"}
     - name: "tags"
       label: "Tags pages"
       file: "src/tag.md"
       fields:
-        - {label: "All recipes (label)", name: "allRecipesLabel", widget: "string"}
+        - {label: "All dinos (label)", name: "allDinosLabel", widget: "string"}
     - name: "about"
       label: "About page"
       file: "src/about.md"

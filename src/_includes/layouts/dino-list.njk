@@ -5,7 +5,6 @@
         <section>
             <div class="l-container">
                 <h1>{{ selectedTag }}{{ title }}</h1>
-
                 {% if not selectedTag %}
                     {% include 'components/taglist.njk' %}
                 {% endif %}
@@ -14,25 +13,25 @@
         <section class="u-bgc-grey-100">
             <div class="l-container">
                 <div class="c-card__wrapper">
-                    {% for recipe in collections.dinos %}
-                        {% if not selectedTag or selectedTag in recipe.data.tags %} {# If we don't have a selectedTag, we are on the all recipes page #}
+                    {% for dino in collections.dinos %}
+                        {% if not selectedTag or selectedTag in dino.data.tags %} {# If we don't have a selectedTag, we are on the all dinos page #}
                             <div class="c-card">
-                                {% recipeimage recipe.data.image, "c-card__image", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                                {% image dino.data.image, "c-card__image", dino.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
                                 <div class="c-card__info">
                                     <div>
-                                        {% for tag in recipe.data.tags %}
+                                        {% for tag in dino.data.tags %}
                                             <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
                                         {% endfor %}
                                     </div>
-                                    {% if recipe.data.time %}
+                                    {% if dino.data.time %}
                                         <div class="card__time">
                                             {% include 'icons/time.svg' %}
-                                            {{ recipe.data.time }}
+                                            {{ dino.data.time }}
                                         </div>
                                     {% endif %}
                                 </div>
-                                <a class="c-card__title-wrapper" href="{{ recipe.url }}">
-                                    <h3 class="c-card__title">{{ recipe.data.title }}</h3>
+                                <a class="c-card__title-wrapper" href="{{ dino.url }}">
+                                    <h3 class="c-card__title">{{ dino.data.title }}</h3>
                                 </a>
                             </div>
                         {% endif %}

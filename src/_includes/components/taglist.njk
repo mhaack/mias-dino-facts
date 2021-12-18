@@ -1,9 +1,9 @@
 <nav>
     <ul class="c-tags">
-        {% if page.fileSlug == "recipes" %}
-            <li class="c-tags__tag c-tag__tag--selected">{{ title }}{{ allRecipesLabel }}</li>
+        {% if page.fileSlug == "dinos" %}
+            <li class="c-tags__tag c-tag__tag--selected">{{ title }}{{ allDinosLabel }}</li>
         {% else %}
-            <li><a class="c-tags__tag" href="/recipes">{{ title }}{{ allRecipesLabel }}</a></li>
+            <li><a class="c-tags__tag" href="/dinos">{{ title }}{{ allDinosLabel }}</a></li>
         {% endif %}
         {% for tagItem in collections.tagList %}
             {% if selectedTag == tagItem %}

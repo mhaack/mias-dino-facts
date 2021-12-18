@@ -3,12 +3,12 @@ permalink: search.json
 ---
 
 [
-    {% for recipe in collections.recipes %}
+    {% for dino in collections.dinos %}
         {
-            "title" : "{{ recipe.data.title }}",
-            "url" : "{{ recipe.url }}",
-            "ingredients" : [{% for ingredient in recipe.data.ingredients %}"{{ingredient}}"{% if not loop.last %},{% endif %}{% endfor %}],
-            "tags" : [{% for tag in recipe.data.tags %}"{{tag}}"{% if not loop.last %},{% endif %}{% endfor %}]
+            "title" : "{{ dino.data.title }}",
+            "url" : "{{ dino.url }}",
+            "ingredients" : [{% for ingredient in dino.data.ingredients %}"{{ingredient}}"{% if not loop.last %},{% endif %}{% endfor %}],
+            "tags" : [{% for tag in dino.data.tags %}"{{tag}}"{% if not loop.last %},{% endif %}{% endfor %}]
         }{% if not loop.last %},{% endif %}
     {% endfor %}
 ]

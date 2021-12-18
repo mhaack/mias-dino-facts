@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: Dies ist das Dino Lexikon von
 authorInTitle: true
 metaTitle: Home
 highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+highlightedTitle: Meine Lieblingsdinosaurier
+highlightedLinkText: Alle Dinosaurier anschauen
 ---

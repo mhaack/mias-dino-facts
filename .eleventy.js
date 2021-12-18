@@ -23,7 +23,7 @@ module.exports = config => {
         collection.getAll().forEach(item => {
           if (!item.data.tags) return;
           item.data.tags
-            .filter(tag => !['recipes'].includes(tag))
+            .filter(tag => !['dino'].includes(tag))
             .forEach(tag => tagsSet.add(tag));
         });
         return Array.from(tagsSet).sort((first, second) => {
@@ -86,7 +86,7 @@ module.exports = config => {
         return Image.generateHTML(metadata, imageAttributes);
     }
 
-    config.addNunjucksAsyncShortcode('recipeimage', imageShortcode);
+    config.addNunjucksAsyncShortcode('image', imageShortcode);
     config.addShortcode('year', () => `${new Date().getFullYear()}`);
 
     return {
