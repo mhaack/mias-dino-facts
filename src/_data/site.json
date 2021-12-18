@@ -1,11 +1,11 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
-    "primaryColor": "#ffdb70",
-    "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients"
+  "primaryColor": "#f9cf4c",
+  "author": "Mia",
+  "name": "Mia`s Dino Fakten ",
+  "searchLabel": "Finde deinen Dino",
+  "servingsLabel": "servings",
+  "searchContainsLabel": "Contains",
+  "secondaryColor": "#32816e",
+  "ingredientsLabel": "Ingredients",
+  "metaDescription": "Mia`s Dinosaurier-Lexikon  "
 }
