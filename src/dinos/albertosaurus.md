@@ -17,8 +17,6 @@ Der **Albertosaurus** war vermutlich ein schneller Läufer, der in den Wäldern 
 
 Der **Albertosaurus** hatte dreieckige Hörner vor den Augen und in seinem Kiefer saßen 60 bananenförmige Zähne. 
 
-
-
-Quellen:
+Quelle:
 
 * <https://www.deviantart.com>
