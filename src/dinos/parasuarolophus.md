@@ -1,9 +1,10 @@
 ---
 title: Parasuarolophus
+meaning: Echse mit andersartigem Kamm
 image: /img/dinos/parasaurolophus.jpg
 tags:
   - Herbivore 🌿
-  - Kreidezeit
+  - Kreide
   - Lieblingsdino ⭐
 food: herbivor
 location: Nordamerika
