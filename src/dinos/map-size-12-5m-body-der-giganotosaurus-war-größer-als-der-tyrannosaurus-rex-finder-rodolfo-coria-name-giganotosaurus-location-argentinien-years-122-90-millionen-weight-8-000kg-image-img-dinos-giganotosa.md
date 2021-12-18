@@ -1,6 +1,9 @@
 ---
 name: "Giganotosaurus "
 image: /img/dinos/giganotosaurus.jpg
+tags:
+  - Trias
+  - Karnivore
 food: karnivor
 location: Argentinien
 finder: Rodolfo Coria
