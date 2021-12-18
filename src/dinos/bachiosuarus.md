@@ -14,11 +14,11 @@ size: 28m
 years: "155-140 "
 group: Sauropoden
 ---
- Der Brachiosuarus hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
+ Der **Brachiosuarus** hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
 
 ![Größen Vergleich Brachiosaurus ](/img/dinos/brachiosaurus-vergleich.png)
 
-Der Lebensraum des Brachiosaurus waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein Brachiosaurus ca. 200kg Blätter und Zweige.
+Der Lebensraum des **Brachiosaurus** waren die Ebenen. Mit seinem langen Hals kam er an höhe Nadelbäume heran. Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige.
 
 Bildquellen:
 
