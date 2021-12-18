@@ -17,14 +17,12 @@
     
             searchResults.forEach(dino => {
                 const matchTitle = dino.title.toLowerCase().includes(searchInput.toLowerCase());
-                const matchIngredient = dino.ingredients.find(ingredient => ingredient.toLowerCase().includes(searchInput.toLowerCase()));
                 const matchTag = dino.tags.find(tag => tag.toLowerCase().includes(searchInput.toLowerCase()));
         
-                if (!matchTitle && !matchIngredient && !matchTag) { return };
+                if (!matchTitle && !matchTag) { return };
         
                 const match = {...dino};
                 if (matchTitle) { match.matchTitle = matchTitle };
-                if (matchIngredient) { match.matchIngredient = matchIngredient };
                 if (matchTag) { match.matchTag = matchTag };
         
                 matches.push(match)
@@ -51,11 +49,6 @@
                                 <div class="c-tags__tag c-tag__tag--selected" x-html="highlightText(match.matchTag, searchInput)"></div>
                             </template>
                         </div>
-                        <template x-if="match.matchIngredient">
-                            <p class="c-search__result-ingredients {{ 'c-search__result-ingredients--home' if homeSearch }}" >
-                                {{ site.searchContainsLabel }}: <span x-html="highlightText(match.matchIngredient, searchInput)"></span>
-                            </p>
-                        </template>
                     </li>
                 </template>
             </ul>
