@@ -10,7 +10,7 @@ collections:
     folder: "src/dinos"
     create: true
     fields:
-      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Name", name: "title", widget: "string" }
       - {
           label: "Bedeutung des Namen",
           name: "meaning",

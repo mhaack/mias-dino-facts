@@ -1,9 +1,10 @@
 ---
-name: Parasuarolophus
+title: Parasuarolophus
 image: /img/dinos/parasaurolophus.jpg
 tags:
   - Herbivore
   - Kreidezeit
+  - Lieblingsdino ⭐
 food: herbivor
 location: Nordamerika
 finder: University of Toronto

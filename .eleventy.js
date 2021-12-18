@@ -61,11 +61,6 @@ module.exports = config => {
         return value.toLowerCase();
     });
 
-    // This workaround is needed so we can transform it back into an array with Alpine (we can't split on "," as it can be included within the items)
-    config.addFilter('arrayToString', function(value) {
-        return value.join('£');
-    });
-
     /* Shortcodes */
     const imageShortcode = async (src, className, alt, sizes) => {
         let metadata = await Image(src.includes('http') ? src : `./src/${src}`, {

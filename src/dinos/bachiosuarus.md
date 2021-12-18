@@ -1,9 +1,10 @@
 ---
-name: "Bachiosuarus "
+title: "Bachiosuarus"
 image: /img/dinos/brachiosuarus.png
 tags:
   - Herbivore
   - Jura
+  - Lieblingsdino ⭐
 food: herbivor
 location: Nordamerika
 finder: Elmer S. Riggs

@@ -11,48 +11,7 @@
                         <a class="c-tags__tag" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
                     {% endfor %}
                 </div>
-                <div class="c-dino__ingredients-wrapper" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
-                    {% if time or not servings == "" %}
-                        <div class="c-dino__additional-info">
-                            {% if time %}
-                                <p>{% include "icons/time.svg" %}{{ time }}</p>
-                            {% endif %}
-                            {% if not servings == "" %}
-                                <p>
-                                    <template x-if="currentServings > 1">
-                                        <button @click="currentServings -= 1" class="c-dino__serving-button">
-                                            -
-                                            <span class="u-sr-only">Remove 1 serving</span>
-                                        </button>
-                                    </template>
-                                    <span x-text="currentServings"></span>
-                                    <button @click="currentServings += 1" class="c-dino__serving-button">
-                                        +
-                                        <span class="u-sr-only">Add 1 serving</span>
-                                    </button>
-                                    <span>{{ site.servingsLabel }}</span>
-                                </p>
-                            {% endif %}
-                        </div>
-                    {% endif %}
 
-                    <h3>{{ site.ingredientsLabel }}</h3>
-                    <template x-if="currentServings">
-                        <ul class="c-dino__ingredients-list">
-                            <template x-for="(ingredient, index) in ingredients" :key="index">
-                                <li x-text="adaptQuantity(ingredient, {{servings}}, currentServings)"></li>
-                            </template>
-                        </ul>
-                    </template>
-
-                    <template x-if="!currentServings">
-                        <ul class="c-dino__ingredients-list">
-                            {% for ingredient in ingredients %}
-                                <li>{{ ingredient }}</li>
-                            {% endfor %}
-                        </ul>
-                    </template>
-                </div>
 
                 <div class="c-dino__instructions-wrapper u-free-text">
                     {% if sourceLabel and sourceURL %}
