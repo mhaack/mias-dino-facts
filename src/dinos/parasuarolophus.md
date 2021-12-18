@@ -4,7 +4,7 @@ meaning: Echse mit andersartigem Kamm
 image: /img/dinos/parasaurolophus.jpg
 tags:
   - Herbivore 🌿
-  - Kreide 🦕
+  - Kreide 🦴
   - Lieblingsdino ⭐
 food: herbivor
 location: Nordamerika
