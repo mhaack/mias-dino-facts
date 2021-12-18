@@ -14,3 +14,7 @@ years: 122-90 Millionen
 group: Theropoda
 ---
 Der Giganotosaurus war größer als der Tyrannosaurus Rex.
+
+
+
+https://www.deviantart.com
