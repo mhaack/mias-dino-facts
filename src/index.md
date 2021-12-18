@@ -5,5 +5,5 @@ authorInTitle: false
 metaTitle: Home
 highlightedTag: Lieblingsdino ⭐
 highlightedTitle: Meine Lieblingsdinosaurier
-highlightedLinkText: Alle Dinosaurier anschauen
+highlightedLinkText: Alle  Lieblingsdinosaurier anschauen
 ---
