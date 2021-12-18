@@ -1,11 +1,10 @@
 {
   "primaryColor": "#f9cf4c",
   "author": "Mia",
-  "name": "Mia`s Dino Fakten ",
+  "name": "Dino Fakten ",
   "searchLabel": "Finde deinen Dino",
-  "servingsLabel": "servings",
   "searchContainsLabel": "Contains",
   "secondaryColor": "#32816e",
   "ingredientsLabel": "Ingredients",
-  "metaDescription": "Mia`s Dinosaurier-Lexikon  "
+  "metaDescription": "Mia`s Dinosaurier-Lexikon"
 }

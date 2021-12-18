@@ -1,32 +1,30 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: "src/img/recipes"
-public_folder: "/img/recipes"
+media_folder: "src/img/dinos"
+public_folder: "/img/dinos"
 
 collections:
   - name: "recipes"
     label: "Recipes"
-    folder: "src/recipes"
+    folder: "src/dinos"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
       - label: "Tags"
         name: "tags"
         widget: "list"
         required: false
         summary: "{{fields.tag}}"
         field: {label: "Tag", name: "tag", widget: "string"}
-      - {label: "Preparation time", name: "time", widget: "string", required: false}
-      - {label: "Number of servings", name: "servings", widget: "number", required: false}
-      - {label: "Source of the recipe", name: "sourceLabel", widget: "string", required: false}
-      - {label: "URL of the source of the recipe", name: "sourceURL", widget: "string", required: false}
-      - label: "Ingredients"
-        name: "ingredients"
-        widget: "list"
-        summary: "{{fields.ingredient}}"
-        field: {label: "Ingredient", name: "ingredient", widget: "string"}
+      - { label: "Ernährung", name: "food", widget: "select", options: ["herbivor", "karnivor", "piscivor", "omnivor"]}
+      - {label: "Fundort", name: "location", widget: "string", required: false}
+      - {label: "Gefunden von", name: "finder", widget: "string", required: false}
+      - {label: "Gewicht", name: "weight", widget: "string", required: false}
+      - {label: "Länge", name: "size", widget: "string", required: false}
+      - {label: "Lebenszeit", name: "years", widget: "string", required: false}
+      - {label: "Gruppe", name: "group", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "settings"
     label: "Settings"
@@ -43,8 +41,6 @@ collections:
           - {label: "Secondary color", name: "secondaryColor", widget: "color", hint: "used for links and focus styles"}
           - {label: "Search (label)", name: "searchLabel", widget: "string"}
           - {label: "Search \"contains\" (label)", name: "searchContainsLabel", widget: "string"}
-          - {label: "Servings (label)", name: "servingsLabel", widget: "string"}
-          - {label: "Ingredients (label)", name: "ingredientsLabel", widget: "string"}
       - name: "nav"
         label: "Navigation"
         delete: false

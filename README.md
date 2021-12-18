@@ -38,6 +38,6 @@ Go to `/admin` to access the admin interface (this also works locally). You'll n
 * `src/_data` contains nav and site settings, also editable from the CMS admin interface.
 * `src/_includes` contains layouts and reusable components (including SVG icons).
 * `src/admin` contains the configuration for editable fields in Netlify CMS.
-* `src/img` contains all images. Note that only images placed in `src/img/recipes` are editable from the CMS admin interface.
+* `src/img` contains all images. Note that only images placed in `src/img/dinos` are editable from the CMS admin interface.
 * `src/recipes` is your main content, with each recipe saved as a markdown file.
 * Each other page is located at the root of `src/` as its own markdown or nunjucks file.

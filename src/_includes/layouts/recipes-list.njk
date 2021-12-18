@@ -14,7 +14,7 @@
         <section class="u-bgc-grey-100">
             <div class="l-container">
                 <div class="c-card__wrapper">
-                    {% for recipe in collections.recipes %}
+                    {% for recipe in collections.dinos %}
                         {% if not selectedTag or selectedTag in recipe.data.tags %} {# If we don't have a selectedTag, we are on the all recipes page #}
                             <div class="c-card">
                                 {% recipeimage recipe.data.image, "c-card__image", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}

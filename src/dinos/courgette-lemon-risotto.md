@@ -1,6 +1,6 @@
 ---
 title: Courgette & lemon risotto
-image: /img/recipes/courgette-lemon-risotto.jpg
+image: /img/dinos/courgette-lemon-risotto.jpg
 tags:
   - Italian 🇮🇹
   - Vegetarian 🌿
