@@ -3,8 +3,8 @@ title: Giganotosaurus
 meaning: südliche Riesenechse
 image: /img/dinos/giganotosaurus.jpg
 tags:
-  - Trias 🐾
   - Karnivore 🥩
+  - " Trias 🦴"
 food: karnivor
 location: Argentinien
 finder: Rodolfo Coria
