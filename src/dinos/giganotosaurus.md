@@ -13,11 +13,9 @@ size: 12,5m
 years: 122-90
 group: Theropoda
 ---
-Der Giganotosaurus war ein starker Räuber der vermutlich in Waldländern Sauropoden gejagt hat. Er ist so schwer 125 Menschen.
+Der **Giganotosaurus** war ein starker Räuber der vermutlich in Waldländern Sauropoden gejagt hat. Er ist so schwer 125 Menschen.
 
 ![Giganotosaurusskelett](/img/dinos/giganotosaurus-skelett.jpg)
-
-
 
 Quellen:
 
