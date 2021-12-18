@@ -6,7 +6,7 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
-food: herbivor
+food: Herbivore
 location: Nordamerika
 finder: Elmer S. Riggs
 weight: 35.000kg

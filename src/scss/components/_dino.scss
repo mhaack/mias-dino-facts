@@ -5,12 +5,20 @@
     min-height: 400px;
 }
 
-.c-dino__title {
-    padding: 20px;
+h1.c-dino__title {
+    padding-top: 20px;
     background-color: var(--color-primary);
 }
+span.c-dino__title {
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: var(--color-primary);
+    @include mq(medium) {
+        margin-top: -10px;
+    }
+}
 
-.c-dino__ingredients-list {
+.c-dino__facts-list {
     li {
         margin-bottom: 12px;
     
@@ -37,11 +45,11 @@
     
     @include mq(medium) {
         display: grid;
-        grid-template-columns: 400px 1fr;
+        grid-template-columns: 300px 1fr;
         grid-template-rows: min-content 1fr;
         grid-template-areas:
-            "ingredients tags"
-            "ingredients instructions";
+            "dino tags"
+            "dino instructions";
     }
 }
 
@@ -58,10 +66,17 @@
 }
 
 
-.c-dino__ingredients-wrapper {
+.c-dino__facts-wrapper {
     @include mq(medium) {
-        grid-area: ingredients;
+        grid-area: dino;
+        margin-left: 1rem
     }
+}
+
+.c-dino__facts-wrapper p {
+    margin-left: 10px;
+    color: var(--color-grey-800);
+    padding-bottom: 10px;
 }
 
 .c-dino__serving-button {
@@ -81,7 +96,7 @@
     }
 }
 
-.c-dino__instructions-wrapper {
+.c-dino__description-wrapper {
     @include mq(medium) {
         grid-area: instructions;
     }

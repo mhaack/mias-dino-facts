@@ -28,7 +28,7 @@ collections:
           label: "Ernährung",
           name: "food",
           widget: "select",
-          options: ["herbivor", "karnivor", "piscivor", "omnivor"],
+          options: ["Herbivore", "Karnivore", "Piscivore", "Omnivore"],
         }
       - {
           label: "Fundort",

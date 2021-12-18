@@ -4,13 +4,13 @@ meaning: südliche Riesenechse
 image: /img/dinos/giganotosaurus.jpg
 tags:
   - Karnivore 🥩
-  - " Trias 🦴"
-food: karnivor
+  - Trias 🦴
+food: Karnivore
 location: Argentinien
 finder: Rodolfo Coria
 weight: 8.000kg
 size: 12,5m
-years: 122-90 Millionen
+years: 122-90
 group: Theropoda
 ---
 Der Giganotosaurus war größer als der Tyrannosaurus Rex.
