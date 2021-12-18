@@ -5,8 +5,8 @@ media_folder: "src/img/dinos"
 public_folder: "/img/dinos"
 
 collections:
-  - name: "recipes"
-    label: "Recipes"
+  - name: "dinos"
+    label: "Dinos"
     folder: "src/dinos"
     create: true
     fields:
