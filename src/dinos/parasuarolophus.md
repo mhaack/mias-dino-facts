@@ -2,7 +2,7 @@
 title: Parasuarolophus
 image: /img/dinos/parasaurolophus.jpg
 tags:
-  - Herbivore
+  - Herbivore 🌿
   - Kreidezeit
   - Lieblingsdino ⭐
 food: herbivor
