@@ -4,6 +4,7 @@ meaning: gut gepanzerter Kopf
 image: /img/dinos/euoplocephalus.jfif
 tags:
   - Herbivore 🌿
+  - Kreide 🦴
 food: Herbivore
 location: Nordamerika
 finder: Lewrence Morris Lambe
