@@ -1,5 +1,5 @@
 ---
-title: Brachiosuarus
+title: Brachiosaurus
 meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
@@ -14,7 +14,7 @@ size: 28m
 years: "155-140 "
 group: Sauropoden
 ---
- Der **Brachiosuarus** hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
+ Der **Brachiosaurus** hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
 
 ![Größen Vergleich Brachiosaurus ](/img/dinos/brachiosaurus-vergleich.png)
 
