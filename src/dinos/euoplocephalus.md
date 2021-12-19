@@ -22,9 +22,7 @@ Auch in den Augenlidern befanden sich Knochenplatten, die die Augen schützten. 
 
 ![Batmobil](/img/dinos/batmobil.jfif)
 
- Auch der **Euoplocephalus** war kräftig, niedrig und mit schweren Platten bedeckt.
-
-
+ Auch der **Euoplocephalus** war kräftig, niedrig und mit schweren Platten bedeckt. Der Euoplocephalus war insgesamt sehr gut geschützt, doch sein weich Bauch war nicht gepanzert.
 
 Quelle:
 
