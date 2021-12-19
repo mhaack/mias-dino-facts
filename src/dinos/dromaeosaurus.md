@@ -4,7 +4,7 @@ meaning: rennende Echse
 image: /img/dinos/dromaeosaurus.png
 tags:
   - Karnivore 🥩
-  - Liebligsdinosaurier ⭐
+  - Liebligsdino ⭐
 food: Karnivore
 location: USA, Kanada
 finder: Barnum Brown und William Diller Matthew
