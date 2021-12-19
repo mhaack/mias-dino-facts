@@ -5,6 +5,7 @@ image: /img/dinos/kosmoceratops.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
+  - Lieblingsdino ⭐
 food: Herbivore
 location: Utah, USA
 finder: Scott Richardson
