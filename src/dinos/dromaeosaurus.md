@@ -5,6 +5,7 @@ image: /img/dinos/dromaeosaurus.png
 tags:
   - Karnivore 🥩
   - Liebligsdino ⭐
+  - Kreide 🦴
 food: Karnivore
 location: USA, Kanada
 finder: Barnum Brown und William Diller Matthew
