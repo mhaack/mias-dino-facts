@@ -61,6 +61,10 @@ module.exports = config => {
         return value.toLowerCase();
     });
 
+    config.addFilter('dateToIso', (dateString) => {
+        return new Date(dateString).toISOString()
+    })
+
     /* Shortcodes */
     const imageShortcode = async (src, className, alt, sizes) => {
         let metadata = await Image(src.includes('http') ? src : `./src/${src}`, {
