@@ -1,7 +1,7 @@
 ---
 title: Futalognkosaurus
 meaning: "riesiger Häuptling der Echsen  "
-image: /img/dinos/futalogkosaurus.jpg
+image: /img/dinos/futalognkosaurus2.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
