@@ -9,6 +9,9 @@ weight: 6kg
 size: 1m
 years: "128"
 group: Oviraptorosauria
+tags:
+  - Herbivore 🌿
+  - Kreide 🦴
 ---
 Quelle:
 
