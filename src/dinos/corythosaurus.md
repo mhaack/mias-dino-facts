@@ -5,6 +5,7 @@ image: /img/dinos/corythosaurus.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
+  - Lieblingsdino ⭐
 food: Herbivore
 location: Nordamerika
 finder: Barnum Brown
