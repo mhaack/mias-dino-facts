@@ -24,7 +24,8 @@ Auch in den Augenlidern befanden sich Knochenplatten, die die Augen schützten. 
 
  Auch der **Euoplocephalus** war kräftig, niedrig und mit schweren Platten bedeckt.
 
+
+
 Quelle:
 
-* <https://www.deviantart.com>
 * <https://www.deviantart.com>
