@@ -4,6 +4,7 @@ meaning: Helmechse
 image: /img/dinos/corythosaurus.jpg
 tags:
   - Herbivore 🌿
+  - Kreide 🦴
 food: Herbivore
 location: Nordamerika
 finder: Barnum Brown
