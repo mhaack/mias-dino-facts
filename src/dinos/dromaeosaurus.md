@@ -14,6 +14,17 @@ size: 2m
 years: 168-66
 group: Dromaeosauridae
 ---
+Der **Dromaeosaurus** hat wahrscheinlich in Waldländern und Ebenen seine Beute gejagt, vermutlich hat er sich wie eine Katze angeschlichen. Er war ungefähr so groß wie der **Velociraptor**, konnte aber vermutlich stärker zubeißen.  
+
+![Dromaeosaurusskelett](/img/dinos/dromaeosaurus-skelett.jpg)
+
+Es wurde nur ein Teil des Schädels einige Knochen gefunden. Das Skelett wurde nach dem Vorbild verwandter **Dromaeosaurier** rekonstruiert.  
+
+
+
+
+
 Quelle:[](http://www.dinodana.com)
 
 * <http://www.dinodana.com>
+* <https://dinosaurierwelt.com>
