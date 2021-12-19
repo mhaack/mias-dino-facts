@@ -10,7 +10,7 @@ module.exports = config => {
     config.addPassthroughCopy({ public: './' });
     config.addPassthroughCopy('src/img');
     config.addPassthroughCopy('src/fonts');
-    config.addPassthroughCopy('src/admin');
+    config.addPassthroughCopy('admin');
 
 
     /* Collections */
