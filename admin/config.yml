@@ -10,48 +10,54 @@ collections:
     folder: "src/dinos"
     create: true
     fields:
-      - { label: "Name", name: "title", widget: "string" }
-      - {
-          label: "Bedeutung des Namen",
-          name: "meaning",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Bild", name: "image", widget: "image" }
+      - label: "Name"
+        name: "title"
+        widget: "string"
+      - label: "Bedeutung des Namen"
+        name: "meaning"
+        widget: "string"
+        required: false
+      - label: "Bild"
+        name: "image"
+        widget: "image"
       - label: "Tags"
         name: "tags"
-        widget: "list"
+        widget: "relation"
+        collection: "tags"
+        value_field: "name"
+        search_fields: ["name"]
+        multiple: true
+      - label: "Ernährung"
+        name: "food"
+        widget: "select"
+        options: ["Herbivore", "Karnivore", "Piscivore", "Omnivore"]
+      - label: "Fundort"
+        name: "location"
+        widget: "string"
         required: false
-        summary: "{{fields.tag}}"
-        field: { label: "Tag", name: "tag", widget: "string" }
-      - {
-          label: "Ernährung",
-          name: "food",
-          widget: "select",
-          options: ["Herbivore", "Karnivore", "Piscivore", "Omnivore"],
-        }
-      - {
-          label: "Fundort",
-          name: "location",
-          widget: "string",
-          required: false,
-        }
-      - {
-          label: "Gefunden von",
-          name: "finder",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Gewicht", name: "weight", widget: "string", required: false }
-      - { label: "Länge", name: "size", widget: "string", required: false }
-      - {
-          label: "Lebenszeit",
-          name: "years",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Gruppe", name: "group", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Gefunden von"
+        name: "finder"
+        widget: "string"
+        required: false
+      - label: "Gewicht"
+        name: "weight"
+        widget: "string"
+        required: false
+      - label: "Länge"
+        name: "size"
+        widget: "string"
+        required: false
+      - label: "Lebenszeit"
+        name: "years"
+        widget: "string"
+        required: false
+      - label: "Gruppe"
+        name: "group"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "settings"
     label: "Settings"
     files:
@@ -156,3 +162,12 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "tags"
+    label: "Tags"
+    folder: "src/tags"
+    create: true
+    identifier_field: "tag"
+    summary: "{{name}}"
+    fields:
+      - { label: "Tag Name mit Symbol", name: "name", widget: string }
+      - { label: "Tag Name ohne Symbol", name: "tag", widget: string }

@@ -13,7 +13,6 @@ module.exports = config => {
     config.addPassthroughCopy('src/fonts');
     config.addPassthroughCopy('admin');
 
-
     /* Collections */
     config.addCollection('dinos', collection => {
         return [...collection.getFilteredByGlob('./src/dinos/*.md')];
