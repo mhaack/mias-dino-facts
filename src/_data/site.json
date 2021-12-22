@@ -6,5 +6,6 @@
   "searchLabel": "Finde deinen Dino",
   "searchContainsLabel": "Contains",
   "secondaryColor": "#32816e",
-  "metaDescription": "Mia`s kleines Dinosaurier-Lexikon"
+  "metaDescription": "Mia`s kleines Dinosaurier-Lexikon",
+  "googleAnalyticsId": "UA-126340503-2"
 }
