@@ -13,6 +13,12 @@ size: 32-34m
 years: 91-98
 group: Sauropoden
 ---
+Vom Futalognkosaurus wurde bis jetzt nur ein einziges Skelett gefunden, das fast zu 70% vollständig ist.
+
+
+
+
+
 Quelle:
 
 * <https://www.deviantart.com>
