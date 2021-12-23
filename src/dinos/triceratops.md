@@ -19,7 +19,7 @@ Der **Triceratops** ist mit dem [Kosmocratops](/dinos/kosmoceratops/) verwand. E
 
 Früher glaubte man die Hörner und das Nackenschild hätten zur Verteidigung gedient, doch heute vermutet man das Hörner und Schild nicht nur zur Verteidigung gedient hat, sondern auch zur Anlockung von Weibchen. 
 
-Quelle:
+Quellen:
 
 * <http://superoceras.blogspot.com>
 * <https://de.wikipedia.org>
