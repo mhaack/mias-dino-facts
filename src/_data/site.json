@@ -1,11 +1,12 @@
 {
-  "url": "https://dino-fakten.de",
-  "primaryColor": "#f9cf4c",
+  "primaryColor": "#ed8121",
+  "googleAnalyticsId": "UA-126340503-2",
   "author": "Mia",
-  "title": "Dino Fakten",
+  "name": "Mia's Dino Fakten",
   "searchLabel": "Finde deinen Dino",
   "searchContainsLabel": "Contains",
+  "url": "https://dino-fakten.de",
   "secondaryColor": "#32816e",
   "metaDescription": "Mia`s kleines Dinosaurier-Lexikon",
-  "googleAnalyticsId": "UA-126340503-2"
+  "title": "Dino Fakten"
 }
