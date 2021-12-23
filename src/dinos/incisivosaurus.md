@@ -17,11 +17,7 @@ Der Incisivosaurus hatte 2 große Schneidezähne vorne am Oberkiefer. Wegen der 
 
 ![Incisivosauruskopf](/img/dinos/incisivosaurus.jpg)
 
-
-
-
-
-Quelle:
+Quellen:
 
 * <http://blogevolved.blogspot.com>
 * <https://nl.wikipedia.org>
