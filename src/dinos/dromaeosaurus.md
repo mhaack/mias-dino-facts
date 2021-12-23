@@ -20,11 +20,7 @@ Der **Dromaeosaurus** hat wahrscheinlich in Waldländern und Ebenen seine Beute 
 
 Es wurde nur ein Teil des Schädels einige Knochen gefunden. Das Skelett wurde nach dem Vorbild verwandter **Dromaeosaurier** rekonstruiert.  
 
-
-
-
-
-Quelle:[](http://www.dinodana.com)
+Quellen:[](http://www.dinodana.com)
 
 * <http://www.dinodana.com>
 * <https://dinosaurierwelt.com>
