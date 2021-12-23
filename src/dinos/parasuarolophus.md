@@ -1,5 +1,5 @@
 ---
-title: Parasuarolophus
+title: Parasaurolophus
 meaning: Echse mit andersartigem Kamm
 image: /img/dinos/parasaurolophus.jpg
 tags:
