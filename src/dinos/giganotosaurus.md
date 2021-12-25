@@ -17,7 +17,14 @@ Der **Giganotosaurus** war ein starker Räuber der vermutlich in Waldländern Sa
 
 ![Giganotosaurusskelett](/img/dinos/giganotosaurus-skelett.jpg)
 
+Im Vergleich mit einem Menschen ist der **Giganotosaurus** riesig.
+
+![Größen Vergleich Giganotosaurus ](/img/dinos/giganotosaurusvergleich.png)
+
+
+
 Quellen:
 
 * <https://www.deviantart.com>
 * <https://commons.wikimedia.org>
+* <https://de.wikipedia.org>
