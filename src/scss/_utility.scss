@@ -44,6 +44,17 @@
     }
 }
 
+.u-left-text {
+    p, h1, h2, h3, h4, h5, h6 {
+        margin-bottom: 18px;
+        text-align: left;
+    }
+
+    img {
+        margin: 20px auto;
+    }
+}
+
 .u-mb-large {
     margin-bottom: 30px;
 }
