@@ -14,19 +14,15 @@ size: 2m
 years: 130-100
 group: Ceratopsia
 ---
-Der **Psittacosaurus** ist mit dem [Triceratops ](/dinos/triceratops/)und dem [Kosmoceratops ](/dinos/kosmoceratops)verwand. Der **Psittacosaurus** hatte einen Schnabel wie ein Papagei.
+Der **Psittacosaurus** ist mit dem [Triceratops ](/dinos/triceratops/)und dem [Kosmoceratops ](/dinos/kosmoceratops)verwand, denn sie gehören alle zu der Ceratopsia Gruppe. Der **Psittacosaurus** hatte einen Schnabel wie ein Papagei.
 
 ![Papagei ](/img/dinos/papagei.jpg)
-
-
 
 Der **Psittacosaurus** hat auch einen Schwanz der mit Stacheln bedeckt war, ähnlich wie bei einem Stachelschwein, mit dem er sich vermutlich verteidigt hat.
 
 ![Stachelschwein](/img/dinos/stachelschwein.jpg)
 
 Vermutlich hat der **Psitacosaurus** Steine gefressen, damit sie die Blätter und andere Pflanzenteile zermahlten. 
-
-
 
 Quellen:
 
