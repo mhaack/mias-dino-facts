@@ -14,20 +14,13 @@ size: 13m
 years: 70-68
 group: Pterosauria
 ---
-Der Quetzalcoatlus hatte riesige Flügel, mit denen er über die anderen Dinosauriern geflogen war. 
+Der **Quetzalcoatlus** hatte riesige Flügel, die eine Spannweite bis zu 13m lang werden konnte. Während er über verschieden große Dinos hinweg flog, hielt er nach kleinen Dinosaurier, Fischen, Krebsen und Weichtieren, als Nahrung Ausschau. Der **Quetzalcoatlus** hatte auch einen sehr großen Schnabel und leichte Knochen, die das Fliegen noch erleichterten. 
 
 ![](/img/dinos/quetzalcoatlus2.jpg)
-
-Er hatte auch einen sehr großen Schnabel und leichte Knochen, die das fliegen noch erleichterte. Während er über verschieden große Dinos hinweg flog, hielt er nach kleinen Dinosaurier Ausschau.
-
-![Baby Dino](/img/dinos/parasaurolophus-baby.jfif)
-
-
 
 
 
 Quellen:
 
 * <http://mesozoicmondays.blogspot.com/2013/03/q-is-for-quetzalcoatlus.html>
-* <https://fr.vikidia.org/wiki/Quetzalcoatlus>
-* <https://www.deviantart.com/whitewings89/art/Baby-Parasaur-2-558354605>
+* [https://fr.vikidia.org/wiki/Quetzalcoatlu](https://fr.vikidia.org/wiki/Quetzalcoatlus)
