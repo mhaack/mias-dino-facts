@@ -17,7 +17,7 @@ Der **Apatosaurus** oder **Brontosaurus**, wie man ihn auch nennt war ein Pflanz
 
 In den USA wurden Fußspuren von einer Herde Sauropoden entdeckt, drunter auch Spuren von **Apatosaurus** und **Diplodocus**
 
-![](/img/dinos/fußspuren.jpeg)
+![Fußabtruck ](/img/dinos/fußspuren.jpeg)
 
 . 
 
