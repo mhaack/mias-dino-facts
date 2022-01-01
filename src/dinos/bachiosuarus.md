@@ -6,6 +6,7 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
+  - Dino des Monats 🗓
 food: Herbivore
 location: Nordamerika
 finder: Elmer S. Riggs
