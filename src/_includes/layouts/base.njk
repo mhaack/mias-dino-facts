@@ -33,7 +33,7 @@
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 
-    {% if site.googleAnalyticsId %}
+    {% if site.googleAnalyticsId and env.isProd %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googleAnalyticsId }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];

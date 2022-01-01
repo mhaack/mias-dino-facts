@@ -9,6 +9,10 @@
       "url": "/dinos/"
     },
     {
+      "text": "Dino des Monats",
+      "url": "/tags/dino-des-monats/"
+    },
+    {
       "text": "Über mich",
       "url": "/about/"
     }
