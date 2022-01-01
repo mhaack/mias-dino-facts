@@ -1,6 +1,6 @@
 ---
 title: Quetzalcoatlus
-meaning: "Gefiederte Gottechse "
+meaning: "Gefiederte Gottesechse "
 image: /img/dinos/quetzalcoatlus.jfif
 tags:
   - Piscivore 🐟
