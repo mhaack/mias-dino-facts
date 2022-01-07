@@ -1,0 +1,26 @@
+---
+title: "Carnotaurus "
+meaning: Fleischfressender Stier
+image: /img/dinos/carnotaurus.png
+tags:
+  - Karnivore 🥩
+  - Kreide 🦴
+  - Lieblingsdino ⭐
+food: Karnivore
+location: Chubut, Argentinien
+finder: Expedition Leitung von Losé Bonaparte
+weight: 1.200kg
+size: 9m
+years: 71-66
+group: Theropoda
+---
+Der erste Carnotaurus wurde 1985 gefunden. Er hatte ein besonderes Merkmal: seine dreieckigen, kurzen Hörner. Sie befanden sich auf seinem Kopf und dienten als Waffe. Daher leitet sich auch sein Name ab.
+
+![Carnotaurusschädel](/img/dinos/carnotaurus-schädel.jpg)
+
+Bei Ausgrabungen man hat neben dem Skelet auch ein Stück versteinerte Hautschuppen entdeckt. Das besondere daran ist, man findet nur selten Hautschuppen von Dinosauriern. 
+
+Quellen:
+
+* <https://www.pngall.com/jurassic-park-png>
+* <https://fr.wikipedia.org/wiki/Carnotaurus>
