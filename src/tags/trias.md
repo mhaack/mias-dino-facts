@@ -1,4 +1,4 @@
 ---
-name: Trias🦴
+name: Trias 🦴
 tag: Trias
 ---
