@@ -14,7 +14,7 @@ size: 1,8-3m
 years: 201-190
 group: Ichthyosauridae
 ---
-Der Ichthyosaurus lebte im Wasser und war kein Dinosaurier sondern ein Meeresreptil. Er konnte sich aufgrund seiner Flossen nicht an Land bewegen. Er musste zum Atmen auftauchen um Luft zu holen. Der Ichthyosaurus ist mit den Delfinen verwand und hatte noch viele andere Nachkommen. Der Ichthyosaurus hatte gute Ohren und super Augen, mit denen er trotz des trüben, dunklen Wassers sehr scharf sehen könnte. Seine Leibspeisen waren Fische und Tintenfische, die er mit seinem guten Gehör aufspürte.
+Der Ichthyosaurus lebte im Wasser und war kein Dinosaurier sondern ein Meeresreptil. Er konnte sich aufgrund seiner Flossen nicht an Land bewegen. Er musste zum Atmen auftauchen um Luft zu holen. Der Ichthyosaurus ist mit den Delfinen verwand und hatte noch viele andere Nachkommen. Der Ichthyosaurus hatte gute Ohren und super Augen, mit denen er trotz des trüben, dunklen Wassers sehr scharf sehen konnte. Seine Leibspeisen waren Fische und Tintenfische, die er mit seinem guten Gehör aufspürte.
 
 Am 11. Januar 2022 wurde in der Tageszeitung [zeit.de](https://www.zeit.de/wissen/umwelt/2022-01/ichthyosaurier-fossil-grossbritannien-fund-palaeontologie) ein Beitrag über einen weiteren Ichthyosaurus, der in Großbritannien entdeckt wurde, veröffentlicht.
 
