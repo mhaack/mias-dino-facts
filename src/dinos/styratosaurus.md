@@ -1,5 +1,5 @@
 ---
-title: Styratosaurus
+title: Styracosaurus
 meaning: Stachelechse
 image: /img/dinos/styracosaurus.jpg
 tags:
