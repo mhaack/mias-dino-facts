@@ -1,5 +1,6 @@
 ---
 title: Amargasaurus
+date: 2022-01-16
 meaning: Reptil der Bitterkeit
 image: /img/dinos/amargasaurus2.0.jfif
 tags:
