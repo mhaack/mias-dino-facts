@@ -19,35 +19,66 @@ bodyClass: c-home
     </section>
 
     {% if collections[highlightedTag] %}
-        <section class="u-bgc-grey-100">
-            <div class="l-container">
-                <h2 class="u-mb-large">{{ highlightedTitle }}</h2>
-                <div class="c-card__wrapper">
-                    {% set favouriteDinos = collections[highlightedTag] | limit(4) %}
-                    {% for dino in favouriteDinos %}
-                        <div class="c-card">
-                            {% image dino.data.image, "c-card__image", dino.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
-                            <div class="c-card__info">
-                                <div>
-                                    {% for tag in dino.data.tags %}
-                                        <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
-                                    {% endfor %}
-                                </div>
-                                {% if dino.data.time %}
-                                    <div class="card__time">
-                                        {% include 'icons/time.svg' %}
-                                        {{ dino.data.time }}
-                                    </div>
-                                {% endif %}
+    <section class="u-bgc-grey-100">
+        <div class="l-container">
+            <h2 class="u-mb-large">{{ highlightedTitle }}</h2>
+            <div class="c-card__wrapper">
+                {% set favouriteDinos = collections[highlightedTag]| reverse | limit(4) %}
+                {% for dino in favouriteDinos %}
+                    <div class="c-card">
+                        {% image dino.data.image, "c-card__image", dino.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                        <div class="c-card__info">
+                            <div>
+                                {% for tag in dino.data.tags %}
+                                    <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
+                                {% endfor %}
                             </div>
-                            <a class="c-card__title-wrapper" href="{{ dino.url }}">
-                                <h3 class="c-card__title">{{ dino.data.title }}</h3>
-                            </a>
+                            {% if dino.data.time %}
+                                <div class="card__time">
+                                    {% include 'icons/time.svg' %}
+                                    {{ dino.data.time }}
+                                </div>
+                            {% endif %}
                         </div>
-                    {% endfor %}
-                </div>
-                <a href="/tags/{{ highlightedTag | noEmoji | slug }}" class="c-home__highlighted-tag-link">{{ highlightedLinkText }}</a>
+                        <a class="c-card__title-wrapper" href="{{ dino.url }}">
+                            <h3 class="c-card__title">{{ dino.data.title }}</h3>
+                        </a>
+                    </div>
+                {% endfor %}
             </div>
-        </section>
+            <a href="/tags/{{ highlightedTag | noEmoji | slug }}" class="c-home__highlighted-tag-link">{{ highlightedLinkText }}</a>
+        </div>
+    </section>
     {% endif %}
+
+    <section class="u-bgc-grey-100">
+    <div class="l-container">
+        <h2 class="u-mb-large">{{ newTitle }}</h2>
+        <div class="c-card__wrapper">
+            {% set newDinos = collections.dinos | reverse | limit(4) %}
+            {% for dino in newDinos %}
+                <div class="c-card">
+                    {% image dino.data.image, "c-card__image", dino.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                    <div class="c-card__info">
+                        <div>
+                            {% for tag in dino.data.tags %}
+                                <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
+                            {% endfor %}
+                        </div>
+                        {% if dino.data.time %}
+                            <div class="card__time">
+                                {% include 'icons/time.svg' %}
+                                {{ dino.data.time }}
+                            </div>
+                        {% endif %}
+                    </div>
+                    <a class="c-card__title-wrapper" href="{{ dino.url }}">
+                        <h3 class="c-card__title">{{ dino.data.title }}</h3>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+        <a href="/dinos/" class="c-home__highlighted-tag-link">{{ allLinkText }}</a>
+    </div>
+</section>
 {% endblock %}

@@ -94,6 +94,16 @@ collections:
               name: "highlightedLinkText",
               widget: "string",
             }
+          - {
+              label: "Title of the new dinos section (label)",
+              name: "newTitle",
+              widget: "string",
+            }
+          - {
+              label: "Link text to all dinos",
+              name: "allLinkText",
+              widget: "string",
+            }
       - name: "dinos"
         label: "All dinos page"
         file: "src/dinos.md"

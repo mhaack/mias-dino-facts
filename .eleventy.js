@@ -38,15 +38,15 @@ module.exports = config => {
 
 
     /* Filters */
-    config.addFilter('console', function(value) {
+    config.addFilter('console', (value) => {
         return util.inspect(value);
     });
 
-    config.addFilter('noEmoji', function(value) {
+    config.addFilter('noEmoji', (value) => {
         return value.replace(emojiRegex, '').trim();
     });
 
-    config.addFilter('onlyEmoji', function(value) {
+    config.addFilter('onlyEmoji', (value) => {
         let match = value.match(emojiRegex);
         // If the string doesn't contain any emoji, instead we output the first letter wrapped in some custom styles
         if (!match) {
@@ -57,13 +57,9 @@ module.exports = config => {
 
     config.addFilter('limit', (arr, limit) => arr.slice(0, limit));
 
-    config.addFilter('lowercase', function(value) {
-        return value.toLowerCase();
-    });
+    config.addFilter('lowercase', (value) => value.toLowerCase());
 
-    config.addFilter('dateToIso', (dateString) => {
-        return new Date(dateString).toISOString()
-    })
+    config.addFilter('dateToIso', (dateString) => new Date(dateString).toISOString());
 
     /* Shortcodes */
     const imageShortcode = async (src, className, alt, sizes) => {
