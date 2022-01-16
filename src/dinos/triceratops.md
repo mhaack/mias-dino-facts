@@ -12,6 +12,7 @@ weight: 7.000kg
 size: 9m
 years: 67-65
 group: Ceratopsia
+date: 2021-12-22
 ---
 Der **Triceratops** ist mit dem [Kosmocratops](/dinos/kosmoceratops/) verwand. Er hatte drei Hörner im Gesicht.
 

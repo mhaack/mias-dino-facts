@@ -11,7 +11,8 @@ finder: Lawrence Lambe
 weight: 3.000kg
 size: 5,2m
 years: 76-72
-group: "Ceratopsia "
+group: Ceratopsia
+date: 2022-01-13
 ---
 Der **Styracosaurus** hat ein großes Nackenschild mit 6 bis zu 60 cm langen Stacheln. Sie dienten wahrscheinlich zum Importieren von Weibchen.
 

@@ -12,6 +12,7 @@ weight: 6kg
 size: 1m
 years: "128"
 group: Oviraptorosauria
+date: 2021-12-19
 ---
 Der **Incisivosaurus** hatte 2 große Schneidezähne vorne am Oberkiefer. Wegen der Zahne bekam er auch seinen Namen "*Schneidezahn-Echse*".
 

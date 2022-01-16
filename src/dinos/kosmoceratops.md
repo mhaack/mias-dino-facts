@@ -1,6 +1,6 @@
 ---
 title: Kosmoceratops
-meaning: "geschmücktes Horngesicht "
+meaning: "geschmücktes Horngesicht"
 image: /img/dinos/kosmoceratops.jpg
 tags:
   - Herbivore 🌿
@@ -13,6 +13,7 @@ weight: 2.500kg
 size: 1,8-5m
 years: 76-72
 group: Ceratopsia
+date: 2021-12-19
 ---
 Der **Kosmoceratops** ist mit dem [Triceratops ](/dinos/triceratops/)verwand. Seinen Namen "*geschmücktes Horngesicht*" bekam er durch die vielen Hörner auf dem Kopf.
 

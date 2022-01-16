@@ -1,6 +1,6 @@
 ---
-title: "Supersaurus "
-meaning: "Überechse "
+title: Supersaurus
+meaning: Überechse
 image: /img/dinos/supersaurus.jfif
 tags:
   - Herbivore 🌿
@@ -12,6 +12,7 @@ weight: 32.000-36.000kg
 size: 33-34m
 years: 152-174
 group: Sauropoden
+date: 2021-12-26
 ---
 Der **Supersaurus** wurde 1985 von James Alvin Jensen gefunden und erstmals beschrieben. Er hatte sehr viele Verwandte, zum Beispiel: der [Brachiosaurus](/dinos/bachiosuarus). Der **Supersaurus** stand auf vier mächtigen, säulenartigen Beinen. 
 
