@@ -1,0 +1,25 @@
+---
+title: Kentrosaurus
+meaning: spitze Echse
+image: /img/dinos/kentrosaurus.jfif
+tags:
+  - Herbivore 🌿
+  - Jura 🦴
+food: Herbivore
+location: Afrika
+finder: der Grabungsexpedition gefunden und beschrieben von Edwin Hennig
+weight: 1.000-3.000kg
+size: 4,5m
+years: 154-152
+group: Stegosauridae
+---
+Der **Kentrosaurus** hatte vom Kopf bis Mitte Rücken Knochenplatten und nach den Knochenplatten kamen Stacheln die sich bis zum Ende seines Schwanzes  zogen. Einen weiteren Stachel hatte er auch, oberhalb seiner Vorderbeine auf jeder Seite.
+
+![Kentrosaurusskelett](/img/dinos/kentrosaurus-skelett.jpg)
+
+Einige Wissenschaftler glauben, das der **Kentrosaurus** zwei Gehirne hatte. Vermutlich hatte er ein kleines im Kopf und ein größeres am Rumpf. Andere Forscher glauben, dass das Gehirn am Rumpf eine Fettreserve war.
+
+Quellen:
+
+* <https://www.deviantart.com/ntamura/art/Kentrosaurus-196352320>
+* <https://de.wikipedia.org/wiki/Datei:Kentrosaurus_IB.jpg>
