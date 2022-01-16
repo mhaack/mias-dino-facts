@@ -1,6 +1,6 @@
 ---
 title: Futalognkosaurus
-meaning: "riesiger Häuptling der Echsen  "
+meaning: "riesiger Häuptling der Echsen"
 image: /img/dinos/futalognkosaurus2.jpg
 tags:
   - Herbivore 🌿
@@ -12,6 +12,7 @@ weight: 43.000-51.000kg
 size: 32-34m
 years: 91-98
 group: Sauropoden
+date: 2021-12-27
 ---
 Der **Futalognkosaurus** war einer der drei größten Dinosaurier die je auf unserem Planeten gelebt haben.
 
