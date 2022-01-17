@@ -2,7 +2,7 @@
 title: Amargasaurus
 date: 2022-01-16
 meaning: Reptil der Bitterkeit
-image: /img/dinos/amargasaurus2.0.jfif
+image: /img/dinos/amargasaurus3.0.jfif
 tags:
   - Herbivore 🌿
   - Kreide 🦴
@@ -15,7 +15,7 @@ size: 9-10m
 years: 130-123
 group: Sauropoden
 ---
-Der Amargasaurus ist wie die anderen Sauropoden, denn er hatte eine doppelte Stachelreihe, die in den Schwanz überlief. Mansche Wissenschaftler glauben das der Amargasaurus ein doppeltes Segel aus Haut gespannt hatte. Man wies nicht wozu das Segel diente, aber vielleicht hat der Amargasaurus es zur Balz genutzt.
+Der **Amargasaurus** ist wie die anderen Sauropoden, denn er hatte eine doppelte Stachelreihe, die in den Schwanz überlief. Mansche Wissenschaftler glauben das der **Amargasaurus** ein doppeltes Segel aus Haut gespannt hatte. Man wies nicht wozu das Segel diente, aber vielleicht hat der **Amargasaurus** es zur Balz genutzt.
 
 ![Amargasaurus mit Haut Segel](/img/dinos/amargasaurus2.0.jfif)
 
