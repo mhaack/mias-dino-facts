@@ -1,10 +1,11 @@
 ---
 title: Diabloceratops
-meaning: "Gesicht mit Teufelshörnern"
+date: 2022-01-15
+meaning: Gesicht mit Teufelshörnern
 image: /img/dinos/diaboloceratops.jfif
 tags:
   - Herbivore 🌿
-  - Trias 🦴
+  - Kreide 🦴
   - Lieblingsdino ⭐
 food: Herbivore
 location: Nordamerika
@@ -13,7 +14,6 @@ weight: 300kg
 size: 3,5m
 years: 83-76
 group: Ceratopsia
-date: 2022-01-15
 ---
 Der **Diabloceratops** hat zwei sehr große Hörner auf seinem Nackenschild, daher bekam er auch den Namen "*Gesicht mit Teufelshörner*" Wie bei dem Triceratops hat der **Diabloceratops** drei etwas kleinere Hörner im Gesicht.
 
