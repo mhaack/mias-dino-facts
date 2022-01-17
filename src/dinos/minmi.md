@@ -14,11 +14,13 @@ size: 3m
 years: 120-115
 group: Ankylosauridae
 ---
-Der **Minmi** war der kleinste der Ankylosaurier und der erste der auf der Südhalbkugel entdeckt wurde. Der **Minmi** hat blattförmige Zahne, bei der Ausgrabung hat man Nahrungsreste gefunden, daher weis man das er kleine Früchte, Blätter und Samen fraß.
+Der **Minmi** war der kleinste der Ankylosaurier und der erste dieser Art, der auf der Südhalbkugel entdeckt wurde. Sein Name leitet sich vom Minmi Crossing, einer Kreuzung nahe der Stadt Roma in Queensland, Australien ab. 
+
+Der **Minmi** hat blattförmige Zähne und ist ein Pflanzenfresser. Bei einer Ausgrabung hat man Nahrungsreste gefunden, daher weis man das er kleine Früchte, Blätter und Samen fraß.
 
 ![Beeren ](/img/dinos/bereen.jpg)
 
-Nicht wie die anderen hatte der **Minmi** einen gepanzerten Bauch, aber auch er hatte einen gepanzerten Rücken.
+Eine Besonderheit des **Minmi** ist sein gepanzerter Bauch. Andere Dinosaurier der  Ankylosauridae Gruppe hatten nur einen gepanzerten Rücken.
 
 ![Minmiskelett](/img/dinos/minmi-skelett.jfif)
 
