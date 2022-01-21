@@ -9,6 +9,10 @@ tags:
   - Lieblingsdino ⭐
 food: Herbivore
 location: Neuquén, Argentinien
+locations:
+  - CAN
+  - ARG
+  - DEU
 finder: Guillermo Rougier
 weight: 2.600kg
 size: 9-10m
