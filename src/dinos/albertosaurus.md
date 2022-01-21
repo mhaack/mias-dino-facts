@@ -1,5 +1,6 @@
 ---
 title: Albertosaurus
+date: 2021-12-18
 meaning: Alberta-Echse
 image: /img/dinos/albertosaurus.jpg
 tags:
@@ -7,12 +8,15 @@ tags:
   - Kreide 🦴
 food: Karnivore
 location: Alberta (Kanada)
+locations:
+  - CAN
+  - ISL
+  - DEU
 finder: Barnum Brown
 weight: 1.300-2.500kg
 size: 9m
 years: 72-69
 group: Tyrannosauridae
-date: 2021-12-18
 ---
 Der **Albertosaurus** war vermutlich ein schneller Läufer, der in den Wäldern unterwegs war. Man vermutet das der **Albertosuarus** im Rudel gelebt hat. 
 
