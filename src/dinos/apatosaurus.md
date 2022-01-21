@@ -1,5 +1,6 @@
 ---
 title: "Apatosaurus "
+date: 2021-12-29
 meaning: Trügerische Echse
 image: /img/dinos/apatosaurus.jfif
 tags:
@@ -7,12 +8,14 @@ tags:
   - Jura 🦴
 food: Herbivore
 location: Nordamerika
+locations:
+  - CAN
+  - USA
 finder: Othniel Charles Marsh
 weight: 30.000-35.000kg
 size: 21-26m
 years: 157-145
 group: Sauropoden
-date: 2021-12-29
 ---
 Der **Apatosaurus** oder **Brontosaurus**, wie man ihn auch nennt war ein Pflanzenfresser. Man vermutet das er sich nicht auf die Hinterbeine gestellt hat um an die Blätter der hohen Bäume zukommen, sondern er stieß die Bäume wahrscheinlich mit seinen mächtigen Vorderbeinen um.
 
