@@ -4,7 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ metaTitle or title }} - {{ site.title }}</title>
+    <meta property="og:title" content="{{ metaTitle or title }} - {{ site.title }}" />
+
     <meta name="description" content="{{ metaDescription or site.metaDescription }}">
+    <meta name="og:description" content="{{ metaDescription or site.metaDescription }}">
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="{{ site.url + page.url }}"/>
+    <meta name="author" content="{{ site.author }}">
 
     {% if ignore %}
     <meta name="robots" content="noindex"/>
@@ -16,8 +23,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
 
     {% if image %}
-      <meta property="og:image" content="{{ image }}" />
-      <meta name="twitter:image" content="{{ image }}" />
+      <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image" content="{{ site.url }}{{ image }}" />
+      <meta name="twitter:image" content="{{ site.url }}{{ image }}" />
       <meta property="og:image:alt" content="Page image for {{ title }}" />
       <meta name="twitter:image:alt" content="Page image for {{ title }}" />
     {% endif %}
