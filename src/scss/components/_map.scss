@@ -1,0 +1,17 @@
+.map-wrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 750px;
+    height: 500px;
+}
+
+.map-buttons {
+    position: relative;
+    margin: 0 auto 1rem auto;
+    button {
+        margin: 0 0.5rem 0.5rem 0;
+    }
+    button:last-child {
+        margin: 0 0 0.5rem 0;
+    }
+}

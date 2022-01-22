@@ -10,7 +10,7 @@ tags:
 food: Herbivore
 location: Neuquén, Argentinien
 locations:
-  - CAN
+  - JPN
   - ARG
   - DEU
 finder: Guillermo Rougier

@@ -13,6 +13,8 @@ size: 32-34m
 years: 91-98
 group: Sauropoden
 date: 2021-12-19
+locations:
+  - ARG
 ---
 Der **Futalognkosaurus** war einer der drei größten Dinosaurier die je auf unserem Planeten gelebt haben.
 
