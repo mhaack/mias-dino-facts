@@ -12,11 +12,13 @@ const map = new Datamap({
             const dino = map.options.data[geography.id];
             if (dino && !dino.name == '') {
                 return (
-                    '<div class="hoverinfo"><strong>Dino: ' +
+                    '<div class="hoverinfo"><div class="hoverinfo__row">' +
+                    '<div class="hoverinfo__column-1"><img src="/img/stegosaurus.png" alt="icon" height="32" width="32"></div>'+
+                    '<div class="hoverinfo__column-2"><strong>' +
                     dino.name +
-                    '</strong><br/>Fundort: ' +
+                    '</strong><br/>' +
                     geography.properties.name +
-                    '</div>'
+                    '</div></div></div>'
                 );
             }
         },

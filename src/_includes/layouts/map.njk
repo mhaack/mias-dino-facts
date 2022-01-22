@@ -8,16 +8,17 @@ bodyClass: c-home
 <section>
     <div class="l-container">
         <h1>{{title}}</h1>
+        <p class="c-map__description">{{description}}</p>
     </div>
 </section>
 <section>
     <div class="l-container">
-        <div class="map-buttons" x-data>
+        <div class="c-map__buttons" x-data>
         {%- for dino in collections.dinos | withLocations -%}
         <button @click="dino('{{dino.data.title}}', '{{dino.url}}', '{{dino.data.locations}}')">{{dino.data.title}}</button>
         {%- endfor -%}
         </div>
-        <div class="map-wrapper" id="map"></div>
+        <div class="c-map__wrapper" id="map"></div>
     </div>
 </section>
 
