@@ -13,6 +13,9 @@ size: 9m
 years: 67-65
 group: Ceratopsia
 date: 2021-12-22
+locations:
+  - CAN
+  - USA
 ---
 Der **Triceratops** ist mit dem [Kosmocratops](/dinos/kosmoceratops/) verwand. Er hatte drei Hörner im Gesicht.
 

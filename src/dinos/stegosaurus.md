@@ -14,6 +14,8 @@ size: 9m
 years: 156-144
 group: Stegosauridae
 date: 2021-12-27
+locations:
+  - USA
 ---
 Der **Stegosaurus** war ein ein Pflanzenfresser und hatte keine Zähne in seinem Schnabel, doch ganz hinten in seinem Maul hatte er reihenweise Zähne, mit denen er Blätter zermahlen konnte.
 

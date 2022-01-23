@@ -14,7 +14,7 @@ bodyClass: c-home
 <section>
     <div class="l-container">
         <div class="c-map__buttons" x-data>
-        {%- for dino in collections.dinos | withLocations -%}
+        {%- for dino in collections.dinos | withLocations | nameAscending -%}
         <button @click="dino('{{dino.data.title}}', '{{dino.url}}', '{{dino.data.locations}}')">{{dino.data.title}}</button>
         {%- endfor -%}
         </div>

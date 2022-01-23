@@ -8,12 +8,14 @@ tags:
   - Kreide 🦴
   - Lieblingsdino ⭐
 food: Herbivore
-location: Nordamerika
+location: Utah, USA
 finder: Geologe Joshua A. Smith
 weight: 300kg
 size: 3,5m
 years: 83-76
 group: Ceratopsia
+locations:
+  - USA
 ---
 Der **Diabloceratops** hat zwei sehr große Hörner auf seinem Nackenschild, daher bekam er auch den Namen "*Gesicht mit Teufelshörner*" Wie bei dem Triceratops hat der **Diabloceratops** drei etwas kleinere Hörner im Gesicht.
 

@@ -14,6 +14,8 @@ size: 2m
 years: 130-100
 group: Ceratopsia
 date: 2021-12-25
+locations:
+  - MNG
 ---
 Der **Psittacosaurus** ist mit dem [Triceratops ](/dinos/triceratops/)und dem [Kosmoceratops ](/dinos/kosmoceratops)verwand, denn sie gehören alle zu der Ceratopsia Gruppe. Der **Psittacosaurus** hatte einen Schnabel wie ein Papagei.
 

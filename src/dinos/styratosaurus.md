@@ -6,13 +6,15 @@ tags:
   - Herbivore 🌿
   - Kreide 🦴
 food: Herbivore
-location: Nordamerika
+location: Alberta, Kanada
 finder: Lawrence Lambe
 weight: 3.000kg
 size: 5,2m
 years: 76-72
 group: Ceratopsia
 date: 2022-01-13
+locations:
+  - CAN
 ---
 Der **Styracosaurus** hat ein großes Nackenschild mit 6 bis zu 60 cm langen Stacheln. Sie dienten wahrscheinlich zum Importieren von Weibchen.
 
