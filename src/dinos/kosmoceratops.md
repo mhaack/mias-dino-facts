@@ -14,6 +14,8 @@ size: 1,8-5m
 years: 76-72
 group: Ceratopsia
 date: 2021-12-19
+locations:
+  - USA
 ---
 Der **Kosmoceratops** ist mit dem [Triceratops ](/dinos/triceratops/)verwand. Seinen Namen "*geschmücktes Horngesicht*" bekam er durch die vielen Hörner auf dem Kopf.
 

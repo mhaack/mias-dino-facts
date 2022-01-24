@@ -14,6 +14,8 @@ size: 9m
 years: 71-66
 group: Theropoda
 date: 2022-01-07
+locations:
+  - ARG
 ---
 Der erste **Carnotaurus** wurde 1985 gefunden. Er hatte ein besonderes Merkmal: seine dreieckigen, kurzen Hörner. Sie befanden sich auf seinem Kopf und dienten als Waffe. Daher leitet sich auch sein Name ab.
 

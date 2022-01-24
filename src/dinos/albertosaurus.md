@@ -10,8 +10,6 @@ food: Karnivore
 location: Alberta (Kanada)
 locations:
   - CAN
-  - ISL
-  - DEU
 finder: Barnum Brown
 weight: 1.300-2.500kg
 size: 9m

@@ -27,6 +27,11 @@ Inhalte fremder Webseiten, auf die wir direkt oder indirekt verweisen, liegen au
 ### Urheberrechte und Markenrechte
 Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteverwalter.
 
+### Bildquellenangaben
+
+* [Dinosaurier Icons erstellt von Freepik - Flaticon](https://www.flaticon.com/de/kostenlose-icons/dinosaurier)
+* [DeviantArt dinosaur graphics from DeviantArt](https://www.deviantart.com/) Lizenz: [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License](http://creativecommons.org/licenses/by-nc-nd/3.0/)
+
 ### Hinweise auf Rechtsverstöße
 Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
 

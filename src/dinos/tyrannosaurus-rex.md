@@ -14,6 +14,9 @@ size: 12m
 years: 67-65
 group: Tyrannosauridae
 date: 2021-12-27
+locations:
+  - CAN
+  - USA
 ---
 Die ersten Entdeckungen eines **Tyrannosaurus Rex** gehen auf Edward Drinker Cope ins Jahr 1892 zurück. Er fand Teile eines Wirbelknochens und nannte die Spezies *Manospondylus gigas*. Erst später wurde seine Entdeckung als **Tyrannosaurus Rex** neu klassifiziert.
 

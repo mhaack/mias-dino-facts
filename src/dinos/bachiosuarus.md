@@ -15,6 +15,9 @@ size: 28m
 years: "155-140 "
 group: Sauropoden
 date: 2021-12-18
+locations:
+  - CAN
+  - USA
 ---
  Der **Brachiosaurus** hatte einen sehr langen Hals und einen langen Schwanz. Der Oberarmknochen war größer als ein Mensch.
 

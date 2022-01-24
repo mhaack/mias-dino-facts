@@ -1,4 +1,4 @@
 ---
 name: Piscivore 🐟
-tag: "Piscivore "
+tag: Piscivore
 ---

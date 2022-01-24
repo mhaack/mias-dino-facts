@@ -38,10 +38,15 @@ collections:
         name: "food"
         widget: "select"
         options: ["Herbivore", "Karnivore", "Piscivore", "Omnivore"]
-      - label: "Fundort"
+      - label: "Erster Fundort"
         name: "location"
         widget: "string"
         required: false
+      - label: "Fundorte (Länder)"
+        name: "locations"
+        widget: "list"
+        required: false
+        multiple: true
       - label: "Gefunden von"
         name: "finder"
         widget: "string"

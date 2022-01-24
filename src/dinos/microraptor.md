@@ -13,14 +13,12 @@ size: 0,8m
 years: 130-122
 group: Dromaeosauridae
 date: 2021-12-23
+locations:
+  - CHN
 ---
 Der **Microraptor** war einer der kleinsten Dinosaurier die je entdeckt wurden. Der **Microraptor** ist vermutlich wie ein Doppeldeckergleiter durch die Wälder geglitten.
 
 ![Doppeldeckergleiter ](/img/dinos/doppeldeckergleiter.jpg)
-
-
-
-
 
 Quellen:
 

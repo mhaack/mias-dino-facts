@@ -14,6 +14,9 @@ size: 10m
 years: 76-72
 group: Hadrosaurier
 date: 2021-12-18
+locations:
+  - CAN
+  - USA
 ---
 Der **Parasaurolophus** besitzt einen Kamm auf dem Kopf, mit diesem Kamm hat er sich vermutlich mit seinen Artgenossen verständigt. Zum Beispiel: wenn Feinde in der Nähe waren oder die Herde weiter ziehen wollten.
 
