@@ -8,6 +8,9 @@ tags:
   - Jura 🦴
 food: Karnivore
 location: USA, Portugal
+locations:
+  - USA
+  - Portugal
 finder: Othniel Charles Marsh
 weight: 1.400-2.000kg
 size: 9-12m
