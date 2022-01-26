@@ -1,5 +1,5 @@
 ---
-title: Mia's Dino Fakten
+title: Mia's Dino-Fakten
 authorInTitle: false
 metaTitle: Home
 highlightedTag: Lieblingsdino ⭐
