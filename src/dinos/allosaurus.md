@@ -17,7 +17,7 @@ size: 9-12m
 years: 156-144
 group: Theropoda
 ---
-Einer der bekanntesten Raubdinosaurier war der Allosaurus. Er war ein guter Jäger, doch Paläontologen vermuten das sein Gebiss zu schwach war, um Knochen zu zerbeißen. Seine Zähne gingen jedoch wie Butter durch Haut und Fleisch. Der Allosaurus hatte wahrscheinlich einen guten Geruchsinn, der die Jagd auf andere Dinosaurier erleichterte.
+Einer der bekanntesten Raubdinosaurier war der **Allosaurus**. Er war ein guter Jäger, doch Paläontologen vermuten das sein Gebiss zu schwach war, um Knochen zu zerbeißen. Seine Zähne gingen jedoch wie Butter durch Haut und Fleisch. Der **Allosaurus** hatte wahrscheinlich einen guten Geruchsinn, der die Jagd auf andere Dinosaurier erleichterte.
 
 Es gab einen besonderen Fund 1991. In diesem Jahr wurde ein Skelett, das zu 95% vollständig war, gefunden.
 
