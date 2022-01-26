@@ -29,7 +29,7 @@ Der **Iguanodon** war ein Pflanzenfresser und vertilgte ca. 100kg Pflanzen am Ta
 
 ![Büsche](/img/dinos/büsche.jfif)
 
-Man vermutet das er in großen Herden, durch die Wälder zog. Ein Beweis dafür wurde  1878 in Belgien in einer Kohlgrube die über 300 Meter Tiefe geliefert, denn es wurden dort 38 individuelle Skelette entdeckt. Louis Dollo hat einige Skelette beschrieben und  konstruiert.
+Man vermutet das er in großen Herden, durch die Wälder zog. Ein Beweis dafür wurde  1878 in Belgien in einer Kohlegrube, die über 300 Meter tief war, geliefert. Es wurden dort 38 individuelle Skelette entdeckt. Louis Dollo hat einige Skelette beschrieben und  konstruiert.
 
 ![](/img/dinos/louis-dollo.jfif)
 
