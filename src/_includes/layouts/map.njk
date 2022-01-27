@@ -13,10 +13,13 @@ bodyClass: c-home
 </section>
 <section>
     <div class="l-container">
-        <div class="c-map__buttons" x-data>
+        <div class="c-map__select" x-data="dinoSelection()">
+        <select @change="select($event)" x-model="selectedDino">
+        <option selected value="none">&gt; Dino auswählen &lt;</option>
         {%- for dino in collections.dinos | withLocations | nameAscending -%}
-        <button @click="dino('{{dino.data.title}}', '{{dino.url}}', '{{dino.data.locations}}')">{{dino.data.title}}</button>
+        <option data-url="{{dino.url}}" data-locations="{{dino.data.locations}}">{{dino.data.title}}</option>
         {%- endfor -%}
+        </select>
         </div>
         <div class="c-map__wrapper" id="map"></div>
     </div>

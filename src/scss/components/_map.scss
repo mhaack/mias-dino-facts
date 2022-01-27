@@ -17,29 +17,20 @@
     }
 }
 
-.c-map__buttons {
+.c-map__select {
     display: flex;
-    gap: 0.5rem;
     justify-content: center;
-    flex-wrap: wrap;
     margin-bottom: 2rem;
-    button {
-        margin: 0;
-        display: inline-flex;
-        padding: 2px 6px;
-        color: var(--color-grey-900);
-        border: 1px solid currentColor;
-        border-radius: 8px;
+    position: relative;
 
-        &:hover {
-            color: var(--color-white);
-            background-color: #ad5857;
-        }
-
-        &:focus {
-            color: var(--color-white);
-            background-color: #f8a900;
-        }
+    select {
+        border: none;
+        height: 2rem;
+        -moz-padding-start: calc(10px - 3px);
+        padding: 0 0.5rem;
+        box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.3);
+        border-radius: 3px;
+        font-size: 16px;
     }
 }
 
