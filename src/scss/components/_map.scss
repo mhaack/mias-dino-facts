@@ -22,15 +22,25 @@
     justify-content: center;
     margin-bottom: 2rem;
     position: relative;
+    margin-top: -2rem;
+
+    @media (max-width: 576px) {
+        margin-bottom: 0;
+    }
 
     select {
-        border: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-color: var(--color-white);
+        border: 1px solid var(--color-grey-500);
         height: 2rem;
         -moz-padding-start: calc(10px - 3px);
         padding: 0 0.5rem;
         box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.3);
         border-radius: 3px;
         font-size: 16px;
+        color: black;
     }
 }
 

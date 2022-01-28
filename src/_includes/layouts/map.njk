@@ -15,7 +15,7 @@ bodyClass: c-home
     <div class="l-container">
         <div class="c-map__select" x-data="dinoSelection()">
         <select @change="select($event)" x-model="selectedDino">
-        <option selected value="none">&gt; Dino auswählen &lt;</option>
+        <option selected value="none">&gt; 🦖 Dino auswählen &lt;</option>
         {%- for dino in collections.dinos | withLocations | nameAscending -%}
         <option data-url="{{dino.url}}" data-locations="{{dino.data.locations}}">{{dino.data.title}}</option>
         {%- endfor -%}
