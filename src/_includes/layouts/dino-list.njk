@@ -13,7 +13,7 @@
         <section class="u-bgc-grey-100">
             <div class="l-container">
                 <div class="c-card__wrapper">
-                    {% for dino in collections.dinos %}
+                    {% for dino in collections.dinos | nameAscending %}
                         {% if dino.data.tags %}
                             {% if not selectedTag or selectedTag in dino.data.tags %} {# If we don't have a selectedTag, we are on the all dinos page #}
                                 <div class="c-card">

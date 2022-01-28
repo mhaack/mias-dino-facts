@@ -64,12 +64,8 @@ module.exports = (config) => {
 
     config.addFilter('dateToIso', (dateString) => new Date(dateString).toISOString());
 
-    config.addFilter('nameAscending', (arr) =>
-        arr.sort((a, b) => {
-            if (a.data.title > b.data.title) return 1;
-            else if (a.data.title < b.data.title) return -1;
-            else return 0;
-        })
+    config.addFilter('nameAscending', (arr) => 
+        arr.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
     );
 
     config.addFilter('withLocations', (arr) => arr.filter((item) => item.data.locations));

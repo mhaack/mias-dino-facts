@@ -13,7 +13,7 @@ const map = new Datamap({
             if (dino && !dino.name == '') {
                 return (
                     '<div class="hoverinfo"><div class="hoverinfo__row">' +
-                    '<div class="hoverinfo__column-1"><img src="/img/stegosaurus.png" alt="icon" height="32" width="32"></div>'+
+                    '<div class="hoverinfo__column-1"><img src="/img/stegosaurus.png" alt="icon" height="32" width="32"></div>' +
                     '<div class="hoverinfo__column-2"><strong>' +
                     dino.name +
                     '</strong><br/>' +
@@ -34,20 +34,32 @@ const map = new Datamap({
     },
 });
 
-function dino(name, cardUrl, locations) {
-    // disable all countries
-    let countriesObj = {};
-    for (const country in map.options.data) {
-        countriesObj[country] = {
-            fillKey: 'defaultFill',
-            name: '',
-            cardUrl: '',
-        };
-    }
+function dinoSelection() {
+    return {
+        selectedDino: '',
+        select(event) {
+            const name = this.selectedDino;
 
-    // enable dino location countries
-    locations.split(',').forEach((country) => {
-        countriesObj[country] = { fillKey: 'dinoLocation', name, cardUrl };
-    });
-    map.updateChoropleth(countriesObj);
+            // disable all countries
+            let countriesObj = {};
+            for (const country in map.options.data) {
+                countriesObj[country] = {
+                    fillKey: 'defaultFill',
+                    name: '',
+                    cardUrl: '',
+                };
+            }
+            if ('none' != name) {
+                const selectedOption = event.target.selectedOptions[0];
+                const cardUrl = selectedOption.dataset.url;
+                const locations = selectedOption.dataset.locations;
+
+                // enable dino location countries
+                locations.split(',').forEach((country) => {
+                    countriesObj[country] = { fillKey: 'dinoLocation', name, cardUrl };
+                });
+            }
+            map.updateChoropleth(countriesObj);
+        },
+    };
 }
