@@ -13,7 +13,7 @@ const map = new Datamap({
             if (dino && !dino.name == '') {
                 return (
                     '<div class="hoverinfo"><div class="hoverinfo__row">' +
-                    '<div class="hoverinfo__column-1"><img src="/img/stegosaurus.png" alt="icon" height="32" width="32"></div>' +
+                    '<div class="hoverinfo__column-1"><img src="/img/icon/stegosaurus.png" alt="icon" height="32" width="32"></div>' +
                     '<div class="hoverinfo__column-2"><strong>' +
                     dino.name +
                     '</strong><br/>' +

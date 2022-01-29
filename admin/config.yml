@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: "src/img/dinos"
+media_folder: "/src/img/dinos"
 public_folder: "/img/dinos"
 locale: de
 
@@ -77,7 +77,15 @@ collections:
         label: "Homepage"
         file: "src/index.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Titel", name: "title", widget: "string" }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img",
+              public_folder: "/img",
+            }
           - {
               label: "Add author to title",
               name: "authorInTitle",
@@ -119,7 +127,15 @@ collections:
         label: "All dinos page"
         file: "src/dinos.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Titel", name: "title", widget: "string" }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img/icon",
+              public_folder: "/img/icon",
+            }
       - name: "tags"
         label: "Tags pages"
         file: "src/tag.md"
@@ -129,12 +145,42 @@ collections:
               name: "allDinosLabel",
               widget: "string",
             }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img/icon",
+              public_folder: "/img/icon",
+            }
       - name: "about"
-        label: "About page"
+        label: "Über mich"
         file: "src/about.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Titel", name: "title", widget: "string" }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img/icon",
+              public_folder: "/img/icon",
+            }
           - { label: "Body", name: "body", widget: "markdown" }
+      - name: "map"
+        label: "Fundorte"
+        file: "src/karte.md"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img/icon",
+              public_folder: "/img/icon",
+            }
+          - { label: "Beschreibung", name: "description", widget: "string" }
   - name: "tags"
     label: "Tags"
     folder: "src/tags"
