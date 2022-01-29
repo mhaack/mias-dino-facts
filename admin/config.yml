@@ -133,8 +133,8 @@ collections:
               name: "icon",
               widget: "image",
               choose_url: false,
-              media_folder: "/src/img/icon",
-              public_folder: "/img/icon",
+              media_folder: "/src/img/icons",
+              public_folder: "/img/icons",
             }
       - name: "tags"
         label: "Tags pages"
@@ -150,8 +150,8 @@ collections:
               name: "icon",
               widget: "image",
               choose_url: false,
-              media_folder: "/src/img/icon",
-              public_folder: "/img/icon",
+              media_folder: "/src/img/icons",
+              public_folder: "/img/icons",
             }
       - name: "about"
         label: "Über mich"
@@ -163,8 +163,8 @@ collections:
               name: "icon",
               widget: "image",
               choose_url: false,
-              media_folder: "/src/img/icon",
-              public_folder: "/img/icon",
+              media_folder: "/src/img/icons",
+              public_folder: "/img/icons",
             }
           - { label: "Body", name: "body", widget: "markdown" }
       - name: "map"
@@ -177,8 +177,8 @@ collections:
               name: "icon",
               widget: "image",
               choose_url: false,
-              media_folder: "/src/img/icon",
-              public_folder: "/img/icon",
+              media_folder: "/src/img/icons",
+              public_folder: "/img/icons",
             }
           - { label: "Beschreibung", name: "description", widget: "string" }
   - name: "tags"
