@@ -1,5 +1,6 @@
 ---
 title: Mia's Dino-Fakten
+icon: /src/img/stegosaurus.png
 authorInTitle: false
 metaTitle: Home
 highlightedTag: Lieblingsdino ⭐
