@@ -3,6 +3,12 @@
     max-width: 1140px;
     padding-left: 18px;
     padding-right: 18px;
+    text-align: center;
+
+    img {
+        height: 64px;
+        display:inline-block;
+    }
 }
 
 .l-header, .l-footer {
