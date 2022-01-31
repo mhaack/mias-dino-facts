@@ -46,6 +46,9 @@ module.exports = (config) => {
     });
 
     config.addFilter('noEmoji', (value) => {
+        if (!value) {
+            return '';
+        }
         return value.replace(emojiRegex, '').trim();
     });
 
@@ -64,9 +67,7 @@ module.exports = (config) => {
 
     config.addFilter('dateToIso', (dateString) => new Date(dateString).toISOString());
 
-    config.addFilter('nameAscending', (arr) => 
-        arr.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
-    );
+    config.addFilter('nameAscending', (arr) => arr.slice().sort((a, b) => a.data.title.localeCompare(b.data.title)));
 
     config.addFilter('withLocations', (arr) => arr.filter((item) => item.data.locations));
 
