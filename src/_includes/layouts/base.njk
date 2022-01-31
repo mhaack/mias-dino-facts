@@ -61,11 +61,13 @@
 
     <main>
         {% block content %}
-            <div class="l-container">
+            <div class="l-container u-text-center">
                 {% if icon %}
                 <img class="l-container__icon" src="{{icon}}" alt="" />
                 {% endif %}
                 <h1>{{title}}</h1>
+            </div>
+            <div class="l-container">
                 {{content | safe}}
             </div>
         {% endblock content %}
