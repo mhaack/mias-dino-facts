@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Über mich
+icon: /img/icons/spinosaurus.png
 bodyClass: u-free-text
 ---
 ![Parasaurolophus den ich gezeichnet habe ](/img/dinos/parasaurolophus2.jpeg)

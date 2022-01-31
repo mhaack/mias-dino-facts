@@ -7,12 +7,12 @@
 }
 
 .u-sr-only {
-    position:absolute;
-    left:-10000px;
-    top:auto;
-    width:1px;
-    height:1px;
-    overflow:hidden;
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
 }
 
 .u-print-only {
@@ -25,7 +25,6 @@
     }
 }
 
-
 .u-bgc-grey-100 {
     background-color: var(--color-grey-100);
 }
@@ -35,23 +34,41 @@
 }
 
 .u-free-text {
-    p, h1, h2, h3, h4, h5, h6 {
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         margin-bottom: 18px;
     }
 
-    img {
-        margin: 20px auto;
+    main {
+        img {
+            margin: 20px auto;
+        }
     }
 }
 
 .u-left-text {
-    p, h1, h2, h3, h4, h5, h6 {
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    ul,
+    ol {
         margin-bottom: 18px;
         text-align: left;
     }
 
-    img {
-        margin: 20px auto;
+    main {
+        img {
+            margin: 20px auto;
+        }
     }
 }
 

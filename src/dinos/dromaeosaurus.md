@@ -6,6 +6,7 @@ tags:
   - Karnivore 🥩
   - Kreide 🦴
   - Lieblingsdino ⭐
+  - Dino des Monats 🗓
 food: Karnivore
 location: USA, Kanada
 finder: Barnum Brown und William Diller Matthew

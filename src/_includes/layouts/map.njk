@@ -1,5 +1,5 @@
 ---
-bodyClass: c-home
+bodyClass: c-map
 ---
 
 {% extends 'layouts/base.njk' %}
@@ -7,6 +7,9 @@ bodyClass: c-home
 {% block content %}
 <section>
     <div class="l-container">
+        {% if icon %}
+        <img class="l-container__icon" src="{{icon}}" alt="" />
+        {% endif %}
         <h1>{{title}}</h1>
         <p class="c-map__description">{{description}}</p>
     </div>
