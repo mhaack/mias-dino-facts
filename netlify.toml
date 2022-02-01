@@ -7,11 +7,3 @@
   for = "/js/*"
     [headers.values]
     Cache-Control = "public, max-age=31536000"
-
-[[redirects]]
-  from = "dinofakten.de/*"
-  to = "https://dino-fakten.de/:splat"
-
-[[redirects]]
-  from = "www.dinofakten.de/*"
-  to = "https://dino-fakten.de/:splat"
