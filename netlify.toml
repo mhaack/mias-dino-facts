@@ -2,3 +2,16 @@
   for = "/fonts/*"
     [headers.values]
     Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/js/*"
+    [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[redirects]]
+  from = "https://dinofakten.de/*"
+  to = "https://dino-fakten.de/:splat"
+
+[[redirects]]
+  from = "https://www.dinofakten.de/*"
+  to = "https://dino-fakten.de/:splat"
