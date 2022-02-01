@@ -9,9 +9,9 @@
     Cache-Control = "public, max-age=31536000"
 
 [[redirects]]
-  from = "https://dinofakten.de/*"
+  from = "dinofakten.de/*"
   to = "https://dino-fakten.de/:splat"
 
 [[redirects]]
-  from = "https://www.dinofakten.de/*"
+  from = "www.dinofakten.de/*"
   to = "https://dino-fakten.de/:splat"
