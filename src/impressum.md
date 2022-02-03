@@ -1,6 +1,7 @@
 --- 
 layout: layouts/base.njk
 ignore: true
+eleventyExcludeFromCollections: true
 bodyClass: u-left-text
 ---
 
