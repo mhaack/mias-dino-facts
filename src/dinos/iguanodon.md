@@ -27,14 +27,26 @@ group: Ornithiopoden
 ---
 Der **Iguanodon** war ein Pflanzenfresser und vertilgte ca. 100kg Pflanzen am Tag.
 
-![Büsche](/img/dinos/büsche.jfif)
+![Iguanodon](/img/dinos/image1.jpeg)
 
 Man vermutet das er in großen Herden, durch die Wälder zog. Ein Beweis dafür wurde  1878 in Belgien in einer Kohlegrube, die über 300 Meter tief war, geliefert. Es wurden dort 38 individuelle Skelette entdeckt. Louis Dollo hat einige Skelette beschrieben und  konstruiert.
 
-![](/img/dinos/louis-dollo.jfif)
+![Louis Dollo](/img/dinos/louis-dollo.jfif)
+
+Bei dem ersten Iguanodon-Fund wurde eine Zeichnung angefertigt, wie der **Iguanodon** in der Erde lag.
+
+![Iguanodon-Fund Skizze](/img/dinos/iguandon-fund.jpeg)
+
+Als das Skelett fast fertig konstruiert war dachte man das der Daumenknochen auf die Nase gehört, wie bei einem Nashorn. Später dachte man das es ein Zahn sei und somit in sein Maul gehört.
+
+![Iguanodon Skizze](/img/dinos/iguanodon-skizze.jpeg)
+
+Als man Herausfand dass das Horn auf der Nase und der spätere Zahn an die Hand gehörte, fand man noch heraus das er nicht immer auf allen Vieren lief. Um an Bäume heran zu kommen und um schnell zu rennen, zum Beispiel auf der Flucht eines Raubsauriers, stellte sich der **Iguanodon** auf seine Hinterbeine.
+
+![Iguanodonskelett](/img/dinos/iguanodon-skelett.jpeg)
 
 Quellen:
 
 * <http://biogeocarlos.blogspot.com/2010/10/los-animalillos-de-las-peliculas-de.html>
-* <https://commons.wikimedia.org/wiki/File:M%C3%83%C2%A4nnliche_und_weibliche_b%C3%83%C2%BCsche_des_sanddorn.jpg>
+* [Herzogliches Museum in Gotha](https://stiftungfriedenstein.de/herzogliches-museum)[](https://commons.wikimedia.org/wiki/File:M%C3%83%C2%A4nnliche_und_weibliche_b%C3%83%C2%BCsche_des_sanddorn.jpg)
 * <https://nl.wikipedia.org/wiki/Louis_dollo>
