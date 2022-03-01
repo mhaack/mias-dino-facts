@@ -1,23 +1,22 @@
 ---
 title: Dromaeosaurus
+date: 2021-12-18
 meaning: rennende Echse
 image: /img/dinos/dromaeosaurus.png
 tags:
   - Karnivore 🥩
   - Kreide 🦴
   - Lieblingsdino ⭐
-  - Dino des Monats 🗓
 food: Karnivore
 location: USA, Kanada
+locations:
+  - CAN
+  - USA
 finder: Barnum Brown und William Diller Matthew
 weight: 15kg
 size: 2m
 years: 168-66
 group: Dromaeosauridae
-date: 2021-12-18
-locations:
-  - CAN
-  - USA
 ---
 Der **Dromaeosaurus** hat wahrscheinlich in Waldländern und Ebenen seine Beute gejagt, vermutlich hat er sich wie eine Katze angeschlichen. Er war ungefähr so groß wie der **Velociraptor**, konnte aber vermutlich stärker zubeißen.  
 
