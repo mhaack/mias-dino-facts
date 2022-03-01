@@ -1,21 +1,22 @@
 ---
 title: Triceratops
+date: 2021-12-22
 meaning: Dreihorngesicht
 image: /img/dinos/triceratops.jfif
 tags:
   - Herbivore 🌿
   - Kreide 🦴
+  - Dino des Monats 🗓
 food: Herbivore
 location: Nordamerika
+locations:
+  - CAN
+  - USA
 finder: Othniel Charles Marsh
 weight: 7.000kg
 size: 9m
 years: 67-65
 group: Ceratopsia
-date: 2021-12-22
-locations:
-  - CAN
-  - USA
 ---
 Der **Triceratops** ist mit dem [Kosmocratops](/dinos/kosmoceratops/) verwand. Er hatte drei Hörner im Gesicht.
 
