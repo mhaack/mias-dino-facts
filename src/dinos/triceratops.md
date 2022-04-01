@@ -6,7 +6,6 @@ image: /img/dinos/triceratops.jfif
 tags:
   - Herbivore 🌿
   - Kreide 🦴
-  - Dino des Monats 🗓
 food: Herbivore
 location: Nordamerika
 locations:
