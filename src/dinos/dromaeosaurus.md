@@ -2,7 +2,7 @@
 title: Dromaeosaurus
 date: 2021-12-18
 dotm:
-  - month: "02.2022"
+  - month: 2022-02-01
 meaning: rennende Echse
 image: /img/dinos/dromaeosaurus.png
 tags:

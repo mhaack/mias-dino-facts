@@ -2,14 +2,13 @@
 title: Ichthyosaurus
 date: 2022-01-12
 dotm:
-  - month: "04.2022"
+  - month: 2022-04-01
 meaning: Fischechse
 image: /img/dinos/ichthyosaurus.jfif
 tags:
   - Piscivore 🐟
   - Jura 🦴
   - Lieblingsdino ⭐
-  - Dino des Monats 🗓
 food: Piscivore
 location: Britische Inseln, Belgien, Deutschland
 locations:
