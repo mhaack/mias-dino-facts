@@ -48,16 +48,6 @@
     border-radius: 50%;
 }
 
-.card__time {
-    display: flex;
-    align-items: center;
-
-    svg {
-        margin-right: 6px;
-        fill: var(--color-grey-900);
-    }
-}
-
 .c-card__title-wrapper {
     flex-grow: 1;
     display: flex;
