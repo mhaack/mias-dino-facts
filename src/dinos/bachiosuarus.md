@@ -2,7 +2,7 @@
 title: Brachiosaurus
 date: 2021-12-18
 dotm:
-  - month: "01.2022"
+  - month: 01/2022
 meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
