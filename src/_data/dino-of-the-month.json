@@ -1,8 +1,26 @@
 {
+  "2021": [
+    {
+      "month": "12",
+      "dino": "microraptor"
+    }
+  ],
   "2022": [
     {
-      "month": "Januar",
-      "dino": "Carnotaurus"
+      "month": "4",
+      "dino": "ichthyosaurus"
+    },
+    {
+      "month": "3",
+      "dino": "triceratops"
+    },
+    {
+      "month": "2",
+      "dino": "dromaeosaurus"
+    },
+    {
+      "month": "1",
+      "dino": "corythosaurus"
     }
   ]
 }
