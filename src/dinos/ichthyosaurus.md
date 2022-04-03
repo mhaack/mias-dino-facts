@@ -1,6 +1,8 @@
 ---
 title: Ichthyosaurus
 date: 2022-01-12
+dotm:
+  - month: 2022-04-03T16:05:05.869Z
 meaning: Fischechse
 image: /img/dinos/ichthyosaurus.jfif
 tags:
