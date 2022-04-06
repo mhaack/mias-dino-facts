@@ -1,7 +1,7 @@
 ---
 title: Allosaurus
 date: 2022-01-25
-meaning: andersartige Echse
+meaning: Andersartige Echse
 image: /img/dinos/allosaurus.jpg
 tags:
   - Karnivore 🥩
