@@ -1,0 +1,62 @@
+{% extends 'layouts/base.njk' %}
+{% block content %}
+    <section>
+        <div class="l-container u-text-center">
+            {% if icon %}
+                <img class="l-container__icon" src="{{ icon }}" alt=""/>
+            {% endif %}
+            <h1>{{ title }}</h1>
+            <p class="c-map__description">{{ description }}</p>
+        </div>
+    </section>
+    <section class="u-bgc-grey-100">
+        <div class="l-container">
+            <div class="c-card__wrapper">
+                {% for dino in collections.dinosOfTheMonth | limit(1) %}
+                    <div class="c-card">
+                        {% image dino.image, "c-card__image", dino.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                        <div class="c-card__info">
+                            <div>
+                                {% for tag in dino.tags %}
+                                    <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
+                                {% endfor %}
+                            </div>
+                            {{ dino.month | dateMonth }}
+                        </div>
+                        <a class="c-card__title-wrapper" href="{{ dino.url }}">
+                            <h3 class="c-card__title">{{ dino.title }}</h3>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="l-container u-text-center">
+            <h2>{{ previousLabel }}</h2>
+            <p class="c-map__description">{{ previousDescription }}</p>
+        </div>
+    </section>
+    <section class="u-bgc-grey-100">
+        <div class="l-container">
+            <div class="c-card__wrapper">
+                {% for dino in collections.dinosOfTheMonth | previousDinos %}
+                    <div class="c-card">
+                        {% image dino.image, "c-card__image", dino.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                        <div class="c-card__info">
+                            <div>
+                                {% for tag in dino.tags %}
+                                    <abbr class="c-card__tag-abbr" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
+                                {% endfor %}
+                            </div>
+                            {{ dino.month | dateMonth }}
+                        </div>
+                        <a class="c-card__title-wrapper" href="{{ dino.url }}">
+                            <h3 class="c-card__title">{{ dino.title }}</h3>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+{% endblock %}

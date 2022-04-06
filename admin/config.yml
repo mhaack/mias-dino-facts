@@ -20,6 +20,17 @@ collections:
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
+      - label: "Dino des Monats"
+        name: "dotm" # dino of then month
+        widget: "list"
+        add_to_top: true
+        fields:
+          - label: "Monat"
+            name: month
+            widget: "datetime"
+            date_format: MM.YYYY
+            format: YYYY-MM-01 # use first day of the month for easy parsing
+            time_format: false
       - label: "Bedeutung des Namen"
         name: "meaning"
         widget: "string"
