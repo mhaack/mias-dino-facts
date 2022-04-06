@@ -3,7 +3,6 @@ title: Triceratops
 date: 2021-12-22
 dotm:
   - month: 2022-03-01
-  - month: 2021-03-01
 meaning: Dreihorngesicht
 image: /img/dinos/triceratops.jfif
 tags:

@@ -14,8 +14,6 @@ size: 10m
 years: 80-72
 group: Hadrosaurier
 date: 2021-12-19
-dotm:
-  - month: 2021-12-01
 locations:
   - CAN
 ---

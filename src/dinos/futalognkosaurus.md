@@ -13,8 +13,6 @@ size: 32-34m
 years: 91-98
 group: Sauropoden
 date: 2021-12-19
-dotm:
-  - month: 2021-10-01
 locations:
   - ARG
 ---
