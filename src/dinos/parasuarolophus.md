@@ -26,5 +26,5 @@ Der **Parasaurolophus** besitzt einen Kamm auf dem Kopf, mit diesem Kamm hat er 
 
 Quellen: 
 
-* https://reyesjoe.blogspot.com/2015/05/parasaurolofo.html
-* <https://hu.wikipedia.org>
+* <https://reyesjoe.blogspot.com/2015/05/parasaurolofo.html>
+* [](https://reyesjoe.blogspot.com/2015/05/parasaurolofo.html)<https://hu.wikipedia.org>
