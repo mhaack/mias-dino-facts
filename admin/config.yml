@@ -14,6 +14,14 @@ collections:
       - label: "Name"
         name: "title"
         widget: "string"
+      - label: "Namenszusatz"
+        name: "namesuffix"
+        widget: "string"
+        required: false
+      - label: "Bedeutung des Namen"
+        name: "meaning"
+        widget: "string"
+        required: false
       - label: "Datum"
         name: "date"
         widget: "datetime"
@@ -31,10 +39,6 @@ collections:
             date_format: MM.YYYY
             format: YYYY-MM-01 # use first day of the month for easy parsing
             time_format: false
-      - label: "Bedeutung des Namen"
-        name: "meaning"
-        widget: "string"
-        required: false
       - label: "Bild"
         name: "image"
         widget: "image"
