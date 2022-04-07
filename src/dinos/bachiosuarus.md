@@ -20,7 +20,13 @@ weight: 35.000kg
 years: "155-140 "
 group: Sauropoden
 ---
-Der **Brachiosaurus** hatte einen sehr langen Hals, mit diesem konnte er die Blätter von den Baumkronen fressen. Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige. Er hatte Zähne die in Form eines Löffels waren, damit er die Pflanzen besser zermahlen konnte.
+Der Name **Brachiosaurus** bedeutet "Armechse" und setzt sich aus den lateinischen Wörtern "bracchium" für Arm und "saurus" für "Echse" zusammen.
+
+Der **Brachiosaurus** hatte einen sehr langen Hals, aber doch war er etwas zu klein, um an die Spitze der großen Nadelbäume heran zukommen. Deshalb stellte er sich beim Fressen auf seine Hinterbeinen.
+
+Es ist davon auszugehen das der **Brachiosaurus** sehr starke Hinterbeine hatte. Er hatte zwar starke Hinterbeine, aber trotzdem waren sie ein bisschen kleiner als die Vorderbeine.
+
+Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige. Er hatte Zähne die in Form eines Löffels waren, damit er die Pflanzen besser zermahlen konnte.
 
 Der **Brachiosaurus** hatte Krallen an den Hinterbeinen mit denen er wahrscheinlich Löscher für Nester grub. Darin legte er seine Eier ab.
 
