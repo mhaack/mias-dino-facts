@@ -1,20 +1,21 @@
 ---
 title: Futalognkosaurus
-meaning: "riesiger Häuptling der Echsen"
+namesuffix: dukei
+meaning: riesiger Häuptling der Echsen
+date: 2021-12-19
 image: /img/dinos/futalognkosaurus2.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
 food: Herbivore
 location: Argentinien, Neuqén
+locations:
+  - ARG
 finder: Jorge Calvo
 weight: 43.000-51.000kg
 size: 32-34m
 years: 91-98
 group: Sauropoden
-date: 2021-12-19
-locations:
-  - ARG
 ---
 Der **Futalognkosaurus** war einer der drei größten Dinosaurier die je auf unserem Planeten gelebt haben.
 
