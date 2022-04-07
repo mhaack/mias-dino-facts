@@ -1,20 +1,21 @@
 ---
 title: Minmi
-date: 2022-01-17
+namesuffix: paravertebra
 meaning: von der Minmi-Kreuzung
+date: 2022-01-17
 image: /img/dinos/minmi.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
 food: Herbivore
 location: Australien
+locations:
+  - AUS
 finder: Ralph Molnar
 weight: 500kg
 size: 3m
 years: 120-115
 group: Ankylosauridae
-locations:
-  - AUS
 ---
 Der **Minmi** war der kleinste der Ankylosaurier und der erste dieser Art, der auf der Südhalbkugel entdeckt wurde. Sein Name leitet sich vom Minmi Crossing, einer Kreuzung nahe der Stadt Roma in Queensland, Australien ab. 
 
