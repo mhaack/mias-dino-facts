@@ -1,7 +1,8 @@
 ---
 title: "Apatosaurus "
-date: 2021-12-29
+namesuffix: ajax
 meaning: Trügerische Echse
+date: 2021-12-29
 image: /img/dinos/apatosaurus.jfif
 tags:
   - Herbivore 🌿
