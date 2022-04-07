@@ -2,7 +2,7 @@
 size: 28m
 dotm:
   - month: 2022-01-01
-title: Brachiosaurus
+title: Brachiosaurus altithorax
 date: 2021-12-18
 meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
