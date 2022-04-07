@@ -1,8 +1,7 @@
 {
-  "name": "my-online-cookbook",
-  "version": "0.1.0",
-  "description": "A starter kit to make your own online recipe cookbook",
-  "main": "index.js",
+  "name": "mias-dino-facts",
+  "version": "0.0.1",
+  "description": "A little 🦖 lexikon.",
   "scripts": {
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
     "dev:11ty": "eleventy --serve",
@@ -11,7 +10,7 @@
     "prod:11ty": "ELEVENTY_ENV=production eleventy",
     "build": "npm-run-all prod:css prod:11ty"
   },
-  "author": "Maël Brunet",
+  "author": "Markus Haack",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
