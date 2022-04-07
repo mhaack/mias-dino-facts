@@ -1,7 +1,8 @@
 ---
 title: Amargasaurus
-date: 2022-01-16
+namesuffix: cazaui
 meaning: Reptil der Bitterkeit
+date: 2022-01-16
 image: /img/dinos/amargasaurus3.0.jfif
 tags:
   - Herbivore 🌿
