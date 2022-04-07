@@ -1,7 +1,8 @@
 ---
-title: Albertosaurus sarcophagus
-date: 2021-12-18
+title: Albertosaurus
+namesuffix: sarcophagus
 meaning: Alberta-Echse
+date: 2021-12-18
 image: /img/dinos/albertosaurus.jpg
 tags:
   - Karnivore 🥩
