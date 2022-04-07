@@ -1,5 +1,5 @@
 ---
-title: Albertosaurus
+title: Albertosaurus sarcophagus
 date: 2021-12-18
 meaning: Alberta-Echse
 image: /img/dinos/albertosaurus.jpg
