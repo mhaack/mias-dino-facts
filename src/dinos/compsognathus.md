@@ -1,7 +1,8 @@
 ---
 title: Compsognathus
-date: 2022-01-26
+namesuffix: longipes
 meaning: eleganter Kiefer
+date: 2022-01-26
 image: /img/dinos/compsognathus.jpg
 tags:
   - Karnivore 🥩
@@ -20,7 +21,7 @@ group: Compsognathidae
 ---
 Der **Compsognathus** war ein kleiner Räuber. Er war etwa so groß wie ein Huhn und hatte einen Schwanz, der ein bisschen länger war, als das doppelte seiner Körpergröße. 
 
-![](/img/dinos/compsognathusskelett.jpg)
+![Skelett](/img/dinos/compsognathusskelett.jpg)
 
 Vermutlich hielt er sich in der Nähe von größeren Dinosauriern, wie zum Beispiel dem [Stegosaurus ](https://dino-fakten.de/dinos/stegosaurus/)auf. Wahrscheinlich zu seinem Schutz. Dennoch war dass für die kleinen Raubdinosaurier nicht ungefährlich, denn sie mussten aufpassen, dass sie nicht zertrampelt wurden.
 
