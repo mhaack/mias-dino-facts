@@ -1,8 +1,8 @@
 {% extends 'layouts/base.njk' %}
 {% block content %}
     {% image image, "c-dino__header-image", title, "100vw" %}
-    <h1 class="c-dino__title">{{ title }}</h1>
-    <span class="c-dino__title">Bedeutung: {{ meaning }}</span>
+    <h1 class="c-dino__title">{{ title }}{% if namesuffix %}<span> {{ namesuffix }}</span>{% endif %}</h1>
+    <span class="c-dino__meaning">Bedeutung: {{ meaning }}</span>
     <section>
         <div class="l-container">
             <div class="c-dino__dino-content-wrapper">
