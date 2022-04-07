@@ -1,7 +1,8 @@
 ---
 title: Iguanodon
-date: 2022-01-26
+namesuffix: bernissartensis
 meaning: Leguanzahn
+date: 2022-01-26
 image: /img/dinos/iguanodon.jfif
 tags:
   - Herbivore 🌿
