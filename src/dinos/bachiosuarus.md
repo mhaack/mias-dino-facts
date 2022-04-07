@@ -1,10 +1,10 @@
 ---
-size: 28m
+title: Brachiosaurus
+namesuffix: altithorax
+meaning: "Armechse "
+date: 2021-12-18
 dotm:
   - month: 2022-01-01
-title: Brachiosaurus altithorax
-date: 2021-12-18
-meaning: "Armechse "
 image: /img/dinos/brachiosuarus.png
 tags:
   - Herbivore 🌿
@@ -17,6 +17,7 @@ locations:
   - USA
 finder: Elmer S. Riggs
 weight: 35.000kg
+size: 28m
 years: "155-140 "
 group: Sauropoden
 ---
