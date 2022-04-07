@@ -18,7 +18,7 @@ group: Tyrannosauridae
 ---
 Der **Albertosaurus** war vermutlich ein schneller Läufer, der in den Wäldern unterwegs war. Man vermutet das der **Albertosuarus** im Rudel gelebt hat. 
 
-![](/img/dinos/albertosaurus-schädel.jfif)
+![Albertosaurusschädel](/img/dinos/albertosaurus-schädel.jfif)
 
 Der **Albertosaurus** hatte dreieckige Hörner vor den Augen und in seinem Kiefer saßen 60 bananenförmige Zähne. 
 
