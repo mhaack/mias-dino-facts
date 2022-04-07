@@ -8,8 +8,11 @@
 h1.c-dino__title {
     padding-top: 20px;
     background-color: var(--color-primary);
+    span {
+        font-weight: 400;
+    }
 }
-span.c-dino__title {
+span.c-dino__meaning {
     text-align: center;
     padding-bottom: 20px;
     background-color: var(--color-primary);
