@@ -1,9 +1,10 @@
 ---
 title: Dromaeosaurus
+namesuffix: albertensis
+meaning: rennende Echse
 date: 2021-12-18
 dotm:
   - month: 2022-02-01
-meaning: rennende Echse
 image: /img/dinos/dromaeosaurus.png
 tags:
   - Karnivore 🥩
