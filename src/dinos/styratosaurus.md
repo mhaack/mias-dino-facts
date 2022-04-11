@@ -1,7 +1,8 @@
 ---
 title: Styracosaurus
-date: 2022-01-13
+namesuffix: albertensis
 meaning: Stachelechse
+date: 2022-01-13
 image: /img/dinos/r.png
 tags:
   - Herbivore 🌿
