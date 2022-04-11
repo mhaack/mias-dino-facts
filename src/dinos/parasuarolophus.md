@@ -1,7 +1,8 @@
 ---
 title: Parasaurolophus
-date: 2021-12-18
+namesuffix: walkeri
 meaning: Echse mit andersartigem Kamm
+date: 2021-12-18
 image: /img/dinos/parasaurolophus-detail-header_thumb-3-.jpg
 tags:
   - Herbivore 🌿
