@@ -1,6 +1,8 @@
 ---
 title: Quetzalcoatlus
+namesuffix: northropi
 meaning: Gefiederte Gottesechse
+date: 2021-12-27
 image: /img/dinos/quetzalcoatlus.jfif
 tags:
   - Piscivore 🐟
@@ -8,15 +10,14 @@ tags:
   - Lieblingsdino ⭐
 food: Piscivore
 location: Nordamerika
+locations:
+  - CAN
+  - USA
 finder: Studenten Douglas A. Lawson
 weight: 200kg
 size: 13m
 years: 70-68
 group: Pterosauria
-date: 2021-12-27
-locations:
-  - CAN
-  - USA
 ---
 Der **Quetzalcoatlus** hatte riesige Flügel, die eine Spannweite bis zu 13m lang werden konnte. Während er über verschieden große Dinos hinweg flog, hielt er nach kleinen Dinosaurier, Fischen, Krebsen und Weichtieren, als Nahrung Ausschau. Der **Quetzalcoatlus** hatte auch einen sehr großen Schnabel und leichte Knochen, die das Fliegen noch erleichterten. 
 
