@@ -1,7 +1,8 @@
 ---
 title: Spinosaurus
-date: 2022-03-12
+namesuffix: aegyptiacus
 meaning: Dornenechse
+date: 2022-03-12
 image: /img/dinos/spinosaurus.jpg
 tags:
   - Piscivore 🐟
