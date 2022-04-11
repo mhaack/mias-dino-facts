@@ -1,9 +1,10 @@
 ---
 title: Triceratops
+namesuffix: horridus
+meaning: Dreihorngesicht
 date: 2021-12-22
 dotm:
   - month: 2022-03-01
-meaning: Dreihorngesicht
 image: /img/dinos/triceratops.jfif
 tags:
   - Herbivore 🌿
