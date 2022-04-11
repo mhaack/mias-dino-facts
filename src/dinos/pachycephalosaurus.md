@@ -1,7 +1,8 @@
 ---
 title: Pachycephalosaurus
-date: 2022-02-17
+namesuffix: wyomingensis
 meaning: Dickköpfige Esche
+date: 2022-02-17
 image: /img/dinos/pachycephalosaurus.jpg
 tags:
   - Herbivore 🌿
