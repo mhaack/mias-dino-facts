@@ -1,7 +1,7 @@
 ---
 title: Kosmoceratops
 namesuffix: richardsoni
-meaning: geschmücktes Horngesicht
+meaning: Geschmücktes Horngesicht
 date: 2021-12-19
 image: /img/dinos/kosmoceratops.jpg
 tags:
