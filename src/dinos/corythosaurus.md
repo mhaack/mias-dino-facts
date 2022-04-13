@@ -16,7 +16,7 @@ finder: Barnum Brown
 weight: 3.500kg
 size: 10m
 years: 80-72
-group: Hadrosaurier
+group: Ornithischia
 ---
 Der **Corythosaurus** hatte wie der [Parasaurolophus ](/dinos/parasuarolophus/)einen Kamm auf dem Kopf, doch bei dem **Corythosaurus** sah der Kamm mehr wie ein Helm aus. Wegen seines Kammes bekam er auch seinen Name, der übersetzt "*Helmechse*" bedeutet. Vermutlich hat er sich über seinen Kamm mit seinen Artgenossen versendigt. Man findet ein ähnliches Verhalten auch bei den **Parasaurolophen**. 
 
