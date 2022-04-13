@@ -1,7 +1,7 @@
 ---
 title: Compsognathus
 namesuffix: longipes
-meaning: eleganter Kiefer
+meaning: Eleganter Kiefer
 date: 2022-01-26
 image: /img/dinos/compsognathus.jpg
 tags:
