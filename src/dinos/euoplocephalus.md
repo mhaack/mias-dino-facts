@@ -1,7 +1,7 @@
 ---
 title: Euoplocephalus
 namesuffix: tutus
-meaning: gut gepanzerter Kopf
+meaning: Gut gepanzerter Kopf
 date: 2021-12-19
 image: /img/dinos/euoplocephalus.jfif
 tags:
@@ -17,7 +17,7 @@ finder: Lewrence Morris Lambe
 weight: 2.500kg
 size: 7m
 years: 76-74
-group: Ornithischia
+group: Ankylosauridae
 ---
 Der **Euoplocephalus** hatte ein Keule am Ende seines Schwanzes, mit der er sich gegen Angreifer gewehrt hat. Er war in den Waldländern unterwegs. Der **Euoplocephalus** hatte einen Schädel, der mit einem Mosaik aus kleinen Platten bedeckt war.
 
