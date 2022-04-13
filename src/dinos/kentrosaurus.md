@@ -1,7 +1,7 @@
 ---
 title: Kentrosaurus
 namesuffix: aethiopicus
-meaning: spitze Echse
+meaning: Spitze Echse
 date: 2022-01-16
 image: /img/dinos/kentrosaurus.jfif
 tags:
@@ -15,7 +15,7 @@ finder: der Grabungsexpedition gefunden und beschrieben von Edwin Hennig
 weight: 1.000-3.000kg
 size: 4,5m
 years: 154-152
-group: Stegosauridae
+group: Stegosauria
 ---
 Der **Kentrosaurus** hatte vom Kopf bis Mitte Rücken Knochenplatten und nach den Knochenplatten kamen Stacheln die sich bis zum Ende seines Schwanzes  zogen. Einen weiteren Stachel hatte er auch, oberhalb seiner Vorderbeine auf jeder Seite.
 
