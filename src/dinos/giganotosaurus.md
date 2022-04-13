@@ -1,7 +1,7 @@
 ---
 title: Giganotosaurus
 namesuffix: carolinii
-meaning: südliche Riesenechse
+meaning: Südliche Riesenechse
 date: 2021-12-25
 image: /img/dinos/giganotosaurus.jpg
 tags:
@@ -15,7 +15,7 @@ finder: Rodolfo Coria
 weight: 8.000kg
 size: 12,5m
 years: 122-90
-group: Theropoda
+group: Carcharodontosauridae
 ---
 Der **Giganotosaurus** war ein starker Räuber der vermutlich in Waldländern Sauropoden gejagt hat. Er ist so schwer wie 125 Menschen.
 
