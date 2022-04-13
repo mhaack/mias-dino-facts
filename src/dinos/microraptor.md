@@ -15,7 +15,7 @@ finder: Forscherteam um Zhonghe Zhou vom Institut für Paläontologie in Peking
 weight: 1,5kg
 size: 0,8m
 years: 130-122
-group: Dromaeosauridae
+group: Theropoda
 ---
 Der **Microraptor** war einer der kleinsten Dinosaurier die je entdeckt wurden. Der **Microraptor** ist vermutlich wie ein Doppeldeckergleiter durch die Wälder geglitten.
 
