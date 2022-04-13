@@ -19,7 +19,7 @@ finder: Barnum Brown und William Diller Matthew
 weight: 15kg
 size: 2m
 years: 168-66
-group: Dromaeosauridae
+group: Theropoda
 ---
 Der **Dromaeosaurus** hat wahrscheinlich in Waldländern und Ebenen seine Beute gejagt, vermutlich hat er sich wie eine Katze angeschlichen. Er war ungefähr so groß wie der **Velociraptor**, konnte aber vermutlich stärker zubeißen.  
 
