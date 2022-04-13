@@ -24,7 +24,7 @@ finder: Gideon Mantell
 weight: 3.500kg
 size: 9-13m
 years: 135-125
-group: Ornithischia
+group: Ornithopoda
 ---
 Der **Iguanodon** war ein Pflanzenfresser und vertilgte ca. 100kg Pflanzen am Tag.
 
