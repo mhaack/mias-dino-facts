@@ -15,7 +15,7 @@ finder: Barnum Brown
 weight: 1.300-2.500kg
 size: 9m
 years: 72-69
-group: Tyrannosauridae
+group: Theropoda
 ---
 Der **Albertosaurus** war vermutlich ein schneller Läufer, der in den Wäldern unterwegs war. Man vermutet das der **Albertosuarus** im Rudel gelebt hat. 
 
