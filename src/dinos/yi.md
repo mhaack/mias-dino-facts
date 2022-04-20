@@ -21,9 +21,9 @@ Der **Yi** wurde von dem chinesischen Landwirt Wang Jianrong auf einem Feld in d
 
 ![Yi Skelett](/img/dinos/yi-skelett.jpg)
 
-Ähnlich wie bei einer Fledermaus haben Forscher an den Armen des **Yi** deutliche Anzeichen von Flughäute entdeckt. Es wurden nicht nur Flughäute sondern auch Reste  von Federn gefunden.
+Ähnlich wie bei einer Fledermaus haben Forscher an den Armen des **Yi** deutliche Anzeichen von Flughäute entdeckt. Es wurden nicht nur Flughäute, sondern auch Reste von Federn gefunden.
 
-Der **Yi** wohnte in Astlöchern und in den Kronen der Baume, er lies sich von dort hinab segeln. Denn er konnte nicht mit den Flügeln schlagen, dass wurde 2020 von T. Alexander Dececchi und seine Kollegen in einer wissenschaftlichen Studie über die Flugeigenschaften des **Yi** bewiesen.
+Der **Yi** wohnte in Astlöchern und in den Kronen der Bäume. Er lies sich von dort hinab segeln, denn er konnte nicht mit den Flügeln schlagen. Diese Eigenschaft wurde 2020 von T. Alexander Dececchi und seinen Kollegen in einer wissenschaftlichen Studie über die Flugeigenschaften des **Yi** bewiesen.
 
 Quellen:
 
