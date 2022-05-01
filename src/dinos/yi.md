@@ -1,6 +1,6 @@
 ---
 title: "Yi "
-namesuffix: pi
+namesuffix: qi
 meaning: "Seltsamer Flügel "
 date: 2022-04-20
 image: /img/dinos/yi-qi.jpg
