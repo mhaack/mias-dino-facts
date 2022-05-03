@@ -25,7 +25,7 @@ Der **Spinosaurus** war größer als der [Tyrannosaurus Rex](/dinos/tyrannosauru
 
 ![Spinosaurus Zeichnung](/img/dinos/spino.jpg)
 
-Das erste Skelett wurde 1912 in Ägypten von Richard Markgraf entdeckt. Das zweite Skelett kurz später 1915 von dem deutschen Paläontologe Ernst Sromer, es wurde jedoch im Zeitenweltkrieg bei einem Bombenangriff zerstört.
+Das erste Skelett wurde 1912 in Ägypten von Richard Markgraf entdeckt. Das zweite Skelett kurz später 1915 von dem deutschen Paläontologe Ernst Sromer, es wurde jedoch im zweiten Weltkrieg bei einem Bombenangriff zerstört.
 
 ![Spinosaurusskelett](/img/dinos/spinosaurus-skelett.jpg)
 
