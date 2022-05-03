@@ -3,7 +3,7 @@ title: Styracosaurus
 namesuffix: albertensis
 meaning: Stachelechse
 date: 2022-01-13
-image: /img/dinos/r.png
+image: /img/dinos/styracosaurus.jpg
 tags:
   - Herbivore 🌿
   - Kreide 🦴
@@ -31,6 +31,6 @@ Der **Styracosaurus** wurde von *Lawrence Lambe* 1913 entdeckt.
 
 Quellen:
 
-* <https://commons.wikimedia.org/wiki/File:Styracosaurus_dinosaur.png>
-* [](https://commons.wikimedia.org/wiki/File:Styracosaurus_dinosaur.png)<https://commons.wikimedia.org/wiki/File:Styracosaurus_albertensis_skull_02.jpg>
+* <https://www.deviantart.com/camusaltamirano/art/Styracosaurus-albertensis-309161031>
+* [](https://www.deviantart.com/camusaltamirano/art/Styracosaurus-albertensis-309161031)[](https://commons.wikimedia.org/wiki/File:Styracosaurus_dinosaur.png)<https://commons.wikimedia.org/wiki/File:Styracosaurus_albertensis_skull_02.jpg>
 * <https://traumador.blogspot.com/2009/01/great-canadian-dinosaur-rush.html>
