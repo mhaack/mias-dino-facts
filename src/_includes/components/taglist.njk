@@ -3,13 +3,13 @@
         {% if page.fileSlug == "dinos" %}
             <li class="c-tags__tag c-tag__tag--selected">{{ title }}{{ allDinosLabel }}</li>
         {% else %}
-            <li><a class="c-tags__tag" href="/dinos">{{ title }}{{ allDinosLabel }}</a></li>
+            <li><a class="c-tags__tag" href="/dinos/">{{ title }}{{ allDinosLabel }}</a></li>
         {% endif %}
         {% for tagItem in collections.tagList %}
             {% if selectedTag == tagItem %}
                 <li class="c-tags__tag c-tag__tag--selected">{{ tagItem }}</li>
             {% else %}
-                <li><a class="c-tags__tag" href="/tags/{{ tagItem | noEmoji | slug }}">{{ tagItem }}</a></li>
+                <li><a class="c-tags__tag" href="/tags/{{ tagItem | noEmoji | slug }}/">{{ tagItem }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>

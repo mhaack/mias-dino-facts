@@ -8,7 +8,7 @@
             <div class="c-dino__dino-content-wrapper">
                 <div class="c-dino__tag-list">
                     {% for tag in tags %}
-                        <a class="c-tags__tag" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
+                        <a class="c-tags__tag" href="/tags/{{ tag | noEmoji | slug }}/">{{ tag }}</a>
                     {% endfor %}
                 </div>
                 <div class="c-dino__facts-wrapper">
