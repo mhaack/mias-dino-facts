@@ -61,6 +61,8 @@ locations:
   - ARE
   - VMN
   - KOR
+  - RUS
+  - JAM
 finder: Joseph Leidy
 weight: 35-45kg
 size: 2,5-3m
