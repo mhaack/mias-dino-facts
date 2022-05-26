@@ -182,6 +182,20 @@ collections:
               public_folder: "/img/icons",
             }
           - { label: "Body", name: "body", widget: "markdown" }
+      - name: "glossar"
+        label: "Glossar"
+        file: "src/glossar.md"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - {
+              label: "Titel Icon",
+              name: "icon",
+              widget: "image",
+              choose_url: false,
+              media_folder: "/src/img/icons",
+              public_folder: "/img/icons",
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - name: "map"
         label: "Fundorte"
         file: "src/karte.md"
