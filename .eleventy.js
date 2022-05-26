@@ -60,7 +60,7 @@ module.exports = (config) => {
                 dinosOfTheMonth.push(dotm);
             });
         });
-        
+
         return dinosOfTheMonth.sort((a, b) => {
             const monthA = DateTime.fromJSDate(a.month);
             const monthB = DateTime.fromJSDate(b.month);
@@ -93,7 +93,17 @@ module.exports = (config) => {
 
     config.addFilter('nameAscending', (arr) => arr.slice().sort((a, b) => a.data.title.localeCompare(b.data.title)));
 
-    config.addFilter('withLocations', (arr) => arr.filter((item) => item.data.locations));
+    config.addFilter('dinoToIndex', (arr) => new Set(arr.map((a) => a.data.title.substring(0, 1))));
+
+    config.addFilter('dinoWithLocations', (arr) => arr.filter((item) => item.data.locations));
+
+    config.addFilter('firstDinoWithLetter', (dino, previousDino) => {
+        const currentDinoFirstLetter = dino.data.title.substring(0, 1);
+        if (previousDino) {
+            return currentDinoFirstLetter != previousDino.data.title.substring(0, 1) ? currentDinoFirstLetter : null;
+        }
+        return currentDinoFirstLetter;
+    });
 
     // special filters for dino of the month
     config.addFilter('previousDinos', (arr) => arr.slice(1, arr.lenght));

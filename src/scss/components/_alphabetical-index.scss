@@ -1,0 +1,31 @@
+.c-index {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.c-index__entry {
+    display: inline-flex;
+    border: 1px solid currentColor;
+    border-radius: 8px;
+    font-size: 1rem;
+    min-width: 2rem;
+
+    &:hover,
+    &:focus {
+        background-color: var(--color-grey-900);
+
+        a {
+            color: var(--color-white);
+        }
+    }
+
+    a {
+        display: block;
+        text-decoration: none;
+        margin: 0 auto;
+        color: var(--color-grey-900);
+    }
+}

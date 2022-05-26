@@ -1,0 +1,9 @@
+<nav>
+    <ul class="c-index">
+        {% for index in collections.dinos | nameAscending | dinoToIndex %}
+            <li class="c-index__entry">
+                <a href="#{{ index | lowercase }}">{{ index }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
