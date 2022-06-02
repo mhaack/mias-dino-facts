@@ -3,6 +3,8 @@ title: Homalocephale
 namesuffix: calathocercos
 meaning: klarer Kopf
 date: 2022-05-12
+dotm:
+  - month: 2022-06-01
 image: /img/dinos/homalocephal.jpg
 tags:
   - Herbivore 🌿
