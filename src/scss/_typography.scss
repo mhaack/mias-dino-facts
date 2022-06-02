@@ -1,23 +1,12 @@
 @font-face {
     font-family: 'Vollkorn';
     font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: local('Vollkorn Regular'),
-        local('Vollkorn-Regular'),
-        url('/fonts/Vollkorn-Regular.woff2') format('woff2'),
-        url('/fonts/Vollkorn-Regular.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Vollkorn';
-    font-style: normal;
     font-weight: 600;
     font-display: swap;
     src: local('Vollkorn SemiBold'),
         local('Vollkorn-SemiBold'),
-        url('/fonts/Vollkorn-SemiBold.woff2') format('woff2'),
-        url('/fonts/Vollkorn-SemiBold.woff') format('woff');
+        url('/fonts/vollkorn-v20-latin-600.woff2') format('woff2'),
+        url('/fonts/vollkorn-v20-latin-600.woff') format('woff');
 }
 
 body {
