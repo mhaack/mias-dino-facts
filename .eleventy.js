@@ -1,4 +1,5 @@
 const Image = require('@11ty/eleventy-img');
+const pluginRss = require('@11ty/eleventy-plugin-rss')
 const util = require('util');
 const path = require('path');
 const { DateTime } = require('luxon');
@@ -11,6 +12,8 @@ const year = DateTime.now().get('year');
 module.exports = (config) => {
     config.setUseGitIgnore(false);
     config.addWatchTarget('./src/_includes/css/main.css');
+
+    config.addPlugin(pluginRss)
 
     config.addPassthroughCopy({ public: './' });
     config.addPassthroughCopy('src/img');

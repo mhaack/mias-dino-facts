@@ -6,6 +6,9 @@
     <title>{{ metaTitle or title }} - {{ site.title }}</title>
     <meta property="og:title" content="{{ metaTitle or title }} - {{ site.title }}" />
 
+    <link rel="preload" href="/fonts/vollkorn-v20-latin-600.woff2" as="font" type="font/woff2" crossorigin> 
+    <link rel="canonical" href={{ page.url | url | absoluteUrl(site.url) }}>
+
     <meta name="description" content="{{ metaDescription or site.metaDescription }}">
     <meta name="og:description" content="{{ metaDescription or site.metaDescription }}">
     <meta property="og:site_name" content="{{ site.name }}"/>
