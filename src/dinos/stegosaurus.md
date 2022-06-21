@@ -3,7 +3,7 @@ title: Stegosaurus
 namesuffix: stenops
 meaning: Dachechse
 date: 2021-12-27
-image: /img/dinos/stegosaurus.jpg
+image: /img/dinos/stegosaurus_armatus_by_camusaltamirano_d538tdw-fullview.jpg
 tags:
   - Herbivore 🌿
   - Jura 🦴
@@ -26,11 +26,7 @@ Der **Stegosaurus** war ein ein Pflanzenfresser und hatte keine Zähne in seinem
 
 ![Stegosaurusskelett](/img/dinos/stegosaurus-skelett.jpg)
 
-
-
-
-
 Quellen: 
 
-* <https://dinorider.blogspot.com/2010/12/walking-with-christmasgiftsaurus.html>
-* <https://commons.wikimedia.org/wiki/File:Stegosaurus_Senckenberg_white_background.jpg>
+* <https://www.deviantart.com/camusaltamirano/art/Stegosaurus-armatus-307781060>
+* [](https://www.deviantart.com/camusaltamirano/art/Stegosaurus-armatus-307781060)<https://commons.wikimedia.org/wiki/File:Stegosaurus_Senckenberg_white_background.jpg>
