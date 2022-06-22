@@ -9,7 +9,7 @@ tags:
   - Kreide 🦴
   - Lieblingsdino ⭐
 food: Karnivore
-location: Cina
+location: China
 locations:
   - CHN
 finder: Stephenq Brusatte und Junchang Lü
@@ -20,7 +20,7 @@ group: Dromaeosauridae
 ---
 Der **Zhenyuanlong** wurde 2015 von einem Bauern in China entdeckt, der beim Einfahren seiner Ernte darüber gestolpert war. Kurz darauf wurden Junchang Lü und Stephen Brusatte in das Museums der nahe gelegenen Fundstelle in Xixian Formation gerufen, um das Skelett zu untersuchen. 
 
-Es ist ein nahe zu vollständiges Skelett vorhanden. Bei dem **Zhenyuanlong** lassen sich Ähnlichkeiten zu anderen verwandten Dinosauriern feststellen, wie den Velociraptor, zum Beispiel: spitze Zähne, ein langer Schwanz und scharfe Klauen. Der **Zhenyuanlong** hatte dünne lange Beine, ähnlich wie bei einem Storch.
+Es ist ein nahezu vollständiges Skelett vorhanden. Bei dem **Zhenyuanlong** lassen sich Ähnlichkeiten zu anderen verwandten Dinosauriern feststellen, wie den Velociraptor, zum Beispiel: spitze Zähne, ein langer Schwanz und scharfe Klauen. Der **Zhenyuanlong** hatte dünne lange Beine, ähnlich wie bei einem Storch.
 
 ![Zhenyuanlong Skelett](/img/dinos/zhenyuanlong-suni.jpg)
 
