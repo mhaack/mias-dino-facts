@@ -3,6 +3,8 @@ title: Maiasaura
 namesuffix: peeblesorum
 meaning: Gute Mutter Echse
 date: 2022-04-19
+dotm:
+  - month: 2022-07-01
 image: /img/dinos/maiasaura.jpg
 tags:
   - Herbivore 🌿
