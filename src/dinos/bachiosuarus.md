@@ -4,6 +4,7 @@ namesuffix: altithorax
 meaning: "Armechse "
 date: 2021-12-18
 dotm:
+  - month: 2022-10-01
   - month: 2022-01-01
 image: /img/dinos/brachiosuarus.png
 tags:
