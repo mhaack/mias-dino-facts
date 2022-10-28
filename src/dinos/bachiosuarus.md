@@ -11,16 +11,17 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
-food: Herbivore
 location: Nordamerika
+finder: Elmer S. Riggs
+size: 28m
+family: Sauropoda
+food: Herbivore
 locations:
   - CAN
   - USA
-finder: Elmer S. Riggs
 weight: 35.000kg
-size: 28m
 years: "155-140 "
-family: Sauropoda
+group: Brachiosauridae
 ---
 Der Name **Brachiosaurus** bedeutet "Armechse" und setzt sich aus den lateinischen Wörtern "bracchium" für Arm und "saurus" für "Echse" zusammen.
 
