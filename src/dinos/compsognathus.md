@@ -17,7 +17,7 @@ finder: Joseph Oberndorfner
 weight: 2kg
 size: 1m
 years: 150-140
-group: Compsognathidae
+family: Compsognathidae
 ---
 Der **Compsognathus** war ein kleiner Räuber. Er war etwa so groß wie ein Huhn und hatte einen Schwanz, der ein bisschen länger war, als das doppelte seiner Körpergröße. 
 

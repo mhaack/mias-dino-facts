@@ -78,8 +78,8 @@ collections:
         name: "years"
         widget: "string"
         required: false
-      - label: "Gruppe"
-        name: "group"
+      - label: "Familie"
+        name: "family"
         widget: "string"
         required: false
       - label: "Body"

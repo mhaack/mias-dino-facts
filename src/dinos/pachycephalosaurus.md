@@ -16,7 +16,7 @@ finder: Charles W. Gilmore
 weight: 450kg
 size: 4,5-5m
 years: 69-66
-group: Pachycephalosauria
+family: Pachycephalosauria
 ---
 Der **Pachycephalosaurus** wurde zum ersten Mal im Jahr 1931 von Charles W. Gilmore entdeckt, doch er wurde zu der Gattung Troodon zugeordnet. Erst 1943 wurde von Barnum Brown und Erich Schlaikjer bewiesen das es sich um eine neue Gattung handelt.
 

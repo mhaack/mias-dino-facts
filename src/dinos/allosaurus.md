@@ -16,7 +16,7 @@ finder: Othniel Charles Marsh
 weight: 1.400-2.000kg
 size: 9-12m
 years: 156-144
-group: Theropoda
+family: Theropoda
 ---
 Einer der bekanntesten Raubdinosaurier war der **Allosaurus**. Er war ein guter Jäger, doch Paläontologen vermuten das sein Gebiss zu schwach war, um Knochen zu zerbeißen. Seine Zähne gingen jedoch wie Butter durch Haut und Fleisch. Der **Allosaurus** hatte wahrscheinlich einen guten Geruchsinn, der die Jagd auf andere Dinosaurier erleichterte.
 

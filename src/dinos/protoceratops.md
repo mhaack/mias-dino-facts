@@ -16,13 +16,13 @@ finder: Roy Chapman Andrews
 weight: 150 kg - 180 kg
 size: 1,8 m - 2m
 years: 85-76
-group: Protoceratopsidae
+family: Protoceratopsidae
 ---
 Der **Protoceratops** wurde von Roy Chapman Andrews 1923 in der Wüste Gobi gefunden. Der Name wird von griechischen Wörtern abgeleitet. **Protoceratops** bedeutet so viel wie „*Erstes Horngesich*t“. Das heißt, das der **Protoceratops** der erste Ceratopsia war.
 
 Es wurden **Protoceratopsier** in allen Altersstufen gefunden, vom Ei bis zum ausgewachsenen Tier. Es ist zu vermuten, das sie sich in Gruppen um ihre jungen kümmerten. Die Nester der **Protoceratopsier** die gefunden wurden, wurden als [Oviraptor ](/dinos/oviraptor/)Nester identifiziert. Doch es wurden auch Nester entdeckt die zu den **Protoceratopsier** gehörten. Es wurde festgestellt, dass die Eier sehr weiche Schalen hatten. Das ist ein besonderes Merkmal der **Protoceratopsier**, da es selten ist dass Dinosaurier weiche Eierschalen hatten.
 
-![Protoceratops Schlüpfling](/img/dinos/protoceratops-schlüpfling.jpg)
+![Protoceratops Schlüpfling](/img/dinos/protoceratops-schluepfling.jpg)
 
 ![Protoceratops adult](/img/dinos/protoceratops-adult.jpg)
 

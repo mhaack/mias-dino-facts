@@ -15,7 +15,7 @@ finder: Henry Fairfield Osborn
 weight: 15kg
 size: "1,8-2m "
 years: 85-76
-group: Dromaeosauridae
+family: Dromaeosauridae
 ---
 Der **Velociraptor** ist ein sehr bekannter Dinosaurier, doch viele Menschen wissen nicht wie klein er tatsächlich wär. Der **Velociraptor** wurde 0,6m hoch und maximal 2m lang, er hatte ein Gewicht von 15kg. In Jurassic Park spielte der **Velociraptor** eine große Rolle, allerdings wurde er in den Filmen doppelt so groß dargestellt.
 

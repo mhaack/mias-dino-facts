@@ -16,7 +16,7 @@ finder: sowjetisch-mongolischen Expeditionsgruppe
 weight: 4.000kg
 size: 8-11m
 years: 76-69
-group: Therizinosauridae
+family: Therizinosauridae
 ---
 Der **Therizinosaurus** wurde in der Wüste Gobi in der Mongolei entdeckt. Im Jahre 1948 wurde das **Therizinosaurusskelett** einer sowjetisch-mongolischen Expeditionsgruppe gefunden. Heute ist es in diesem Gebiet trocken und windig. Doch zur Zeit als der **Therizinosaurus** lebte, könnte diese Gegend wärmer und feuchter gewesen sein. Doch das war vor 76-69 Millionen von Jahren. 
 

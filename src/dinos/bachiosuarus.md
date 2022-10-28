@@ -20,7 +20,7 @@ finder: Elmer S. Riggs
 weight: 35.000kg
 size: 28m
 years: "155-140 "
-group: Sauropoda
+family: Sauropoda
 ---
 Der Name **Brachiosaurus** bedeutet "Armechse" und setzt sich aus den lateinischen Wörtern "bracchium" für Arm und "saurus" für "Echse" zusammen.
 

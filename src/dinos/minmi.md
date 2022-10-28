@@ -15,7 +15,7 @@ finder: Ralph Molnar
 weight: 500kg
 size: 3m
 years: 120-115
-group: Ankylosauria
+family: Ankylosauria
 ---
 Der **Minmi** war der kleinste der Ankylosaurier und der erste dieser Art, der auf der Südhalbkugel entdeckt wurde. Sein Name leitet sich vom Minmi Crossing, einer Kreuzung nahe der Stadt Roma in Queensland, Australien ab. 
 
