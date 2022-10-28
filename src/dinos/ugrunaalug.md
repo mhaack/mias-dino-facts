@@ -18,7 +18,7 @@ size: 9-10m
 years: 69-70
 family: Edmontosaurier
 ---
-Der **Ugrunaalug** wurde in Alaska, entlang der alten Sedimente des Colville River im Liscomb Bone Bed, in einer Fossilien Fundgrube von Gerg Erikson und Patrick Druckenmiller entdeckt. Sie haben damals die Inupiat-Sprecher gefragt, ob sie Hilfe bei der Benennung bekommen könnten. So entstand "*Urunaalug kuukpikensis*". "*Ugru*" heißt so viel wie Pflanzenmahlen, "*Naluk*" bedeutet respektvoll, alt und "*kuukpikensis*"  heißt die Gegend um den Colville River. 
+Der **Ugrunaalug** wurde in Alaska, entlang der alten Sedimente des Colville River im Liscomb Bonebed, in einer Fossilien Fundgrube von Gerg Erikson und Patrick Druckenmiller entdeckt. Sie haben damals die Inupiat-Sprecher gefragt, ob sie Hilfe bei der Benennung bekommen könnten. So entstand "*Urunaalug kuukpikensis*". "*Ugru*" heißt so viel wie Pflanzenmahlen, "*Naluk*" bedeutet respektvoll, alt und "*kuukpikensis*"  heißt die Gegend um den Colville River. 
 
 Bei der Entdeckung wurden circa 9.000 Knochen gefunden.
 
