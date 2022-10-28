@@ -10,15 +10,16 @@ tags:
   - Herbivore 🌿
   - Kreide 🦴
   - Lieblingsdino ⭐
-food: Herbivore
 location: Neuquén, Argentinien
+finder: Guillermo Rougier
+size: 9-10m
+family: Sauropoda
+food: Herbivore
 locations:
   - ARG
-finder: Guillermo Rougier
 weight: 2.600kg
-size: 9-10m
 years: 130-123
-family: Sauropoda
+group: Dicraeosauridae
 ---
 Der **Amargasaurus** ist wie die anderen Sauropoden, denn er hatte eine doppelte Stachelreihe, die in den Schwanz überlief. Mansche Wissenschaftler glauben das der **Amargasaurus** ein doppeltes Segel aus Haut gespannt hatte. Man wies nicht wozu das Segel diente, aber vielleicht hat der **Amargasaurus** es zur Balz genutzt.
 
