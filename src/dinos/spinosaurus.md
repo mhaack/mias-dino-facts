@@ -17,7 +17,7 @@ finder: Richard Markgraf
 weight: "8.000kg "
 size: 12-18m
 years: 112-97
-group: Spinosaurinae
+family: Spinosaurinae
 ---
 Auf dem Rückenskelett hatte der **Spinosaurus** bis zu 1,6m lange Knochen. Zusammen ergaben diese die Form eines großen Segels. Wahrscheinlich half es ihm bei der Jagt nach Fischen im Wasser. Seine Nahrung bestand jedoch nicht nur aus Fisch sondern auch noch aus anderen kleinen Tieren aus dem Wasser. 
 

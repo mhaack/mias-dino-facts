@@ -18,7 +18,7 @@ finder: Othniel Charles Marsh
 weight: 6.000-12.000kg
 size: 9m
 years: 67-65
-group: Ceratopsia
+family: Ceratopsia
 ---
 Der **Triceratops** war das Nashorn unter den Dinosauriern. Zumindest ist er den heutigen Nashörnern sehr ähnlich. **Triceratops** bedeutet auf Deutsch Dreihorngesicht. Er gehört zur Gruppe der Ceratopsia also zu den Sauriern mit Nackenschild und Hörnern. 
 

@@ -66,7 +66,7 @@ finder: Joseph Leidy
 weight: 35-45kg
 size: 2,5-3m
 years: 76-72
-group: Troodontidae
+family: Troodontidae
 ---
 Das **Troodon** war etwa 2,5-3 m lang und das errechnete Gewicht liegt bei 35-45 kg. Wie bei dem **Deinonychus**,hatte das **Troodon** drei Zehen an jedem der zwei Beine, mit einer sichelförmigen Kralle. Eswar ausgestattet mit drei zum Greifen geeigneten Fingern, sowie scharfen, spitzen Zähnen, nach denen es auch benannt ist.
 

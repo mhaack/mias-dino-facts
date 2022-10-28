@@ -16,7 +16,7 @@ finder: Stephenq Brusatte und Junchang Lü
 weight: 10kg
 size: 1,26-1,65m
 years: "126"
-group: Dromaeosauridae
+family: Dromaeosauridae
 ---
 Der **Zhenyuanlong** wurde 2015 von einem Bauern in China entdeckt, der beim Einfahren seiner Ernte darüber gestolpert war. Kurz darauf wurden Junchang Lü und Stephen Brusatte in das Museums der nahe gelegenen Fundstelle in Xixian Formation gerufen, um das Skelett zu untersuchen. 
 

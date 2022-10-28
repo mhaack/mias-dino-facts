@@ -18,7 +18,7 @@ finder: Maryanska & Osmolska
 weight: 30-60kg
 size: 1,8-3m
 years: "70"
-group: Pachycephalosauria
+family: Pachycephalosauria
 ---
 Der **Homalocephale** gehört mit seinen 3 Metern, zu den mittleren Dinosauriern der Gruppe der Pachycephalosauria. Er hat einen flachen, keilförmigen und verdickten Schädel. Der **Homalocephale** hat nur an den Seiten Zähne. Am Oberkiefer haben die Zähne dreieckige Kronen, durch diese Mahlzähne vermutete man, dass er Pflanzen fraß, vielleicht auch manchmal ein paar Insekten.
 

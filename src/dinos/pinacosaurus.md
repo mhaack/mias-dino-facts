@@ -16,7 +16,7 @@ finder: Expeditions Gruppe aus Amerika
 weight: 1.500kg
 size: 5m
 years: 82-76
-group: Ankylosauridae
+family: Ankylosauridae
 ---
 Der **Pinacosaurus** wurde in den 1920er Jahre von einer Expeditions Gruppe des American Museum of Natural History entdeckt. Zur Zeit der **Pinacosaurier**war die mongolische Region Ömnö-Gobi-Aimag und die chinesische Provinz eine heiße, trockene Halbwüste mit wenig Vegetation. Deshalb ist zu vermuten, dass der **Pinacosaurus** Bodenpflanzen fraß.
 

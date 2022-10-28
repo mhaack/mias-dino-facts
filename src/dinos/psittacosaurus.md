@@ -16,7 +16,7 @@ finder: Mitglieder des New Yorker American Museum of Natural History
 weight: 50kg
 size: 2m
 years: 130-100
-group: Ceratopsia
+family: Ceratopsia
 ---
 Der **Psittacosaurus** ist mit dem [Triceratops ](/dinos/triceratops/)und dem [Kosmoceratops ](/dinos/kosmoceratops)verwand, denn sie gehören alle zu der Ceratopsia Gruppe. Der **Psittacosaurus** hatte einen Schnabel wie ein Papagei.
 

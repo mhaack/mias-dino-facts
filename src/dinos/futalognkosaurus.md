@@ -15,7 +15,7 @@ finder: Jorge Calvo
 weight: 43.000-51.000kg
 size: 32-34m
 years: 91-98
-group: Titanosauria
+family: Titanosauria
 ---
 Der **Futalognkosaurus** war einer der drei größten Dinosaurier die je auf unserem Planeten gelebt haben.
 

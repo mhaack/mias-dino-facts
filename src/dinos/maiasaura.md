@@ -18,7 +18,7 @@ finder: "Laurie Trexie "
 weight: 2.000-2.500kg
 size: 7m
 years: 80-75
-group: Hadrosauridae
+family: Hadrosauridae
 ---
 Der **Maiasaura** war ein Herdentier wie viele andere Hadrosaurier. Er zog nicht nur mit einer Herde, sondern brütete auch mit seinen Artgenossen zusammen. Die **Maiasaura** Mütter legten 30-40 Eier in ihre Lehmnester, die wie kleine Vulkane mit großem Krater aussahen.
 

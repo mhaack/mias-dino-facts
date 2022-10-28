@@ -17,7 +17,7 @@ finder: " einer sowjetisch-mongolischen Expeditionsgruppe"
 weight: 12-15kg
 size: 1,3-1,5m
 years: 86-71
-group: Avimimidae
+family: Avimimidae
 ---
 Der **Avimimus** wurde 1973 von einer sowjetisch-mongolischen Expeditionsgruppe in der Wüste Gobi entdeckt. Der Fund umfasste ein fast vollständiges Skelett. Kurz darauf wurde der **Avimimus** von Sergej Kursanow erstmals beschrieben. 1996 wurde ein weiteres, fast vollständiges Skelett gefunden. Durch einige isolierte Knochen konnte 2001 eine weitere Art, die **Avimimus Sp.**, beschrieben werden. 2008 wurde ein "*Bonebed*" gefunden. Ein Bonebed ist eine Sedimentschicht mit vielen fossilen Knochen. Die Sedimentschicht enthielt Überreste von mindestens 10 Exemplaren von **Avimimus Sp.**. Dieser Fund bestätigte, dass es zwei Avimimus-Arten gabt. Es warf auch die Theorie auf, dass der **Avimimus** in Gruppen lebte.
 
