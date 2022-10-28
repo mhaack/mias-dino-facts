@@ -18,9 +18,9 @@ finder: Othniel Charles Marsh
 weight: 6.000-12.000kg
 size: 9m
 years: 67-65
-family: Ceratopsia
+family: Ceratopsidae
 ---
-Der **Triceratops** war das Nashorn unter den Dinosauriern. Zumindest ist er den heutigen Nashörnern sehr ähnlich. **Triceratops** bedeutet auf Deutsch Dreihorngesicht. Er gehört zur Gruppe der Ceratopsia also zu den Sauriern mit Nackenschild und Hörnern. 
+Der **Triceratops** war das Nashorn unter den Dinosauriern. Zumindest ist er den heutigen Nashörnern sehr ähnlich. **Triceratops** bedeutet auf Deutsch Dreihorngesicht. Er gehört zur Familie der Ceratopsidae also zu den Sauriern mit Nackenschild und Hörnern. 
 
 Erste, einzelne Fossilien wurden wahrscheinlich gegen 1870 in der Nähe von Lakewood Gulch westlich von Denver entdeckt. Der Fund lies sich aber nicht zuordnen. Erst im Jahr 1887 fand George Lyman Cannon Jr. an derselben Stelle ein größeres Teil eines Schädels mit zwei Hörnern. Dieser wurden 1889 von Othniel Charles Marsh zum ersten Mal beschrieben und der Gattung **Triceratops** zugeordnet. Bis jetzt gibt es noch kein komplettes Skelett eines **Triceratops**, es wurden bisher nur Einzelteile gefunden. Aus den einzelnen Funden kann das Gesamtskelett gut rekonstruiert werden.
 
