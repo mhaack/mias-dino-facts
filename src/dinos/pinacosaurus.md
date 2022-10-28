@@ -22,7 +22,7 @@ Der **Pinacosaurus** wurde in den 1920er Jahre von einer Expeditions Gruppe des 
 
 Der **Pinacosaurus** ist der bekannteste, asiatische Ankylosaurier. Von den **Pinacosauriern** sind bis jetzt mehr als 15 Individuen bekannt, darunter ein groß Teil noch nicht ausgewachsene Tiere. 
 
-Der **Pinacosaurus** ist leicht gebaut und hat eine kleine Schawanzkeule. Vermutlich war er leichter gestellt als die anderen Ankylosaurier, da es in seinem Umfeld nur kleinere Raptoren gab. Denen konnte er mit seinem leichten Gewicht schneller ausweichen.
+Der **Pinacosaurus** ist leicht gebaut und hat eine kleine Schwanzkeule. Vermutlich war er leichter gestellt als die anderen Ankylosaurier, da es in seinem Umfeld nur kleinere Raptoren gab. Denen konnte er mit seinem leichten Gewicht schneller ausweichen.
 
 Ein charakteristisches  Merkmal der **Pinacosaurier** sind die zusätzlichen Öffnungen im Bereich der Nasenlöcher, die bei keinem anderen Ankylosaurier vor zuweisen sind. Bei dem ersten Fund wurden nur ein Paar zusätzliche Öffnungen gefunden, doch bei weitern wurden auch vier und fünf Paarige Öffnungen datiert.
 
