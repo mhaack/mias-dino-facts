@@ -1,0 +1,34 @@
+---
+title: Avimimus
+namesuffix: portentosus
+meaning: "Ungewöhnlicher Vogelnachahmer "
+date: 2022-10-28
+image: /img/dinos/avimimus.gif
+tags:
+  - Omnivore 🍴
+  - Kreide 🦴
+  - Lieblingsdino ⭐
+food: Omnivore
+location: Mongolei, China
+locations:
+  - MNG
+  - CHN
+finder: " einer sowjetisch-mongolischen Expeditionsgruppe"
+weight: 12-15kg
+size: 1,3-1,5m
+years: 86-71
+group: Avimimidae
+---
+Der **Avimimus** wurde 1973 von einer sowjetisch-mongolischen Expeditionsgruppe in der Wüste Gobi entdeckt.  Der Fund umfasste ein fast vollständiges Skelett. Kurz darauf wurde wurde der **Avimimus** von Sergej Kursanow Erstmals beschrieben. 1996 wurde ein weiteres fast vollständiges Skelett gefunden. Durch einige insolierte Knochen konnte 2001 eine weitere Art, Avimimus Sp. , beschrieben werden. 2008 wurde ein Bonebed gefunden. Ein "*Bonebed*" ist eine Sedimentschicht mit vielen fossielen Knochen. Die Sedimentschicht enthielt Überreste von mindestens 10 Exemplaren von Avimimus sp., dieser Fund bestätigte, das das es zwei Avimimus-Arten gibt. Das Bonebed warf auch die Theorie auf, dass der **Avimimus** in Gruppen lebte.
+
+![Avimimusskelett](/img/dinos/avimimus_skeleton.jpg)
+
+Der **Avimimus** besaß schlanke, lange beine, daraus schließt sich, des er wahrscheinlich ein schneller Läufer war und eine hohe Geschwindigkeit erreichen konnte. Er hatte relativ kurze Arme, die er ähnlich wie bei Vögeln an den Körper anlegen konnte. Die Flügel artigen Arme waren jedoch zu klein um den Körper in der Luft tragen u können. Da der **Avimimus** vermutlich nicht nur Pflanzen fraß, sondern auch Insekten, musste er wahrscheinlich manchmal in die Luft springen um an das ein oder andere Insekt ranzukommen. Da die Arme ähnlich wie bei Vögeln die Flügel wahren und der **Avimimus** sie vermutlich zum springen benötigte, besaßen der **Avimimus** Federn. Der **Avimimus** hatte außerdem noch einen langen Hals und einen kleinen Schädel mit verhältnismäßig großen Augenhöhlen und viel Platz für ein großes Gehirn. Fast alle Knochen des Schädeldachs sind miteinander verbunden. Nur im vorderen Teil des Oberkiefers hatte der **Avimimus** kleine Zähne, der Rest war zahnlos. 
+
+![Avimimusschädel](/img/dinos/avimimus.jpg)
+
+Quellen: 
+
+* <https://dinonews.net/index/avimimus.php>
+* [https://ru.wikipedia.org/](<* https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BC%D0%B8%D0%BC%D1%8B>)
+* <https://es.wikipedia.org/wiki/Avimimus>
