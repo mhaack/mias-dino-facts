@@ -2,8 +2,9 @@
 title: Dromaeosaurus
 namesuffix: albertensis
 meaning: Rennende Echse
-date: 2021-12-18
+date: 2022-01-08
 dotm:
+  - month: 2022-11-01
   - month: 2022-02-01
 image: /img/dinos/dromaeosaurus.png
 tags:
