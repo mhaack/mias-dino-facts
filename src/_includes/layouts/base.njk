@@ -4,18 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ metaTitle or title }} - {{ site.title }}</title>
-    <meta property="og:title" content="{{ metaTitle or title }} - {{ site.title }}" />
-
     <link rel="preload" href="/fonts/vollkorn-v20-latin-600.woff2" as="font" type="font/woff2" crossorigin> 
     <link rel="canonical" href={{ page.url | url | absoluteUrl(site.url) }}>
-
     <meta name="description" content="{{ metaDescription or site.metaDescription }}">
+    <meta property="og:title" content="{{ metaTitle or title }} - {{ site.title }}" />
     <meta name="og:description" content="{{ metaDescription or site.metaDescription }}">
     <meta property="og:site_name" content="{{ site.name }}"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="{{ site.url + page.url }}"/>
     <meta name="author" content="{{ site.author }}">
-
     {% if ignore %}
     <meta name="robots" content="noindex"/>
     {% endif %}
@@ -24,6 +21,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="/feed.xml" />
 
     {% if image %}
       <meta name="twitter:card" content="summary_large_image">
@@ -41,18 +39,15 @@
       {% include "css/main.css" %}
     </style>
 
-    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
-
+    <script defer src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js"></script>
     {% if env.isProd %}
     <script defer data-domain="dino-fakten.de" src="/js/script.js"></script>
     {% endif %}
-
   </head>
   <body class="{{bodyClass}}">
     <header class="l-header">
         {% include "components/navigation.njk" %}
     </header>
-
     <main>
         {% block content %}
             <div class="l-container u-text-center">
@@ -66,7 +61,6 @@
             </div>
         {% endblock content %}
     </main>
-
     <footer class="l-footer">
       {% include "components/footer.njk" %}
     </footer>

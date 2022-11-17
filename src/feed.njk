@@ -1,0 +1,32 @@
+---
+permalink: '/feed.xml'
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.name }}</title>
+  <subtitle>{{ site.metaDescription }}</subtitle>
+  <link href="{{ site.url }}{{ permalink }}" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  {% if collections.dinos | length %}
+    <updated>{{ collections.dinos | rssLastUpdatedDate }}</updated>
+  {% endif %}
+  <id>{{ site.url }}</id>
+  <author>
+    <name>{{ site.author }}</name>
+  </author>
+  {% for dino in collections.dinos %}
+    {% set absoluteUrl %}{{ site.url }}{{ dino.url | url }}{% endset %}
+    <entry>
+      <title>{{ dino.data.title }}</title>
+      <link href="{{ absoluteUrl }}"/>
+      <updated>{{ dino.date | rssDate }}</updated>
+      <id>{{ absoluteUrl }}</id>
+      <content type="html">
+        <![CDATA[
+      {{ dino.templateContent | safe }}
+    ]]>
+      </content>
+    </entry>
+  {% endfor %}
+</feed>
