@@ -18,3 +18,7 @@ years: vor 74-72 Millionen Jahren
 family: Ceratopsidae
 ---
 T﻿est
+
+Q﻿uellen:
+
+* <https://en.wikipedia.org/wiki/Einiosaurus>
