@@ -21,7 +21,7 @@ Der **Einiosaurus** war ein pflanzenfressender Ceratopsier aus der Familie der 
 
 Das Hauptmerkmal eines **Einiosaurus** ist das nach vorn gebogene Nasenhorn auf dem Schädel, zusammen mit dem mächtigen Nackenschild. An der Fundstelle wurde verschiede große Nasenhörner gefunden, so das man annimmt, dass das Nasenhorn mit gewachsen ist. Bei jungen Tieren war es gerade, die Krümmung nach vorn gab es nur bei erwachsenen Tieren.  Nicht alle **Einiosaurus** besaßen ein Nashorn.
 
-//// Horn Photo
+![Einiosaurus Schädel](/img/dinos/einiosaurus_lacm.jpeg)
 
 Das nach vorne gebogenen Nasenhorn, zusammen mit den nach hinten ragenden kleinen Hörnern am Schild, dürfe hauptsächlich als Schmuck, Drohung und zur Erkennung einzelner Arten gewesen sein. Für die Verteidigung war es nicht sehr gut geeignet gewesen sein. Das Schild bot kaum Schutz vor Bissen.\
 **Einiosaurus** hatten kurze Beine und hufähnliche Füße.
