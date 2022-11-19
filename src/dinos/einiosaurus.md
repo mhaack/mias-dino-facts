@@ -17,7 +17,7 @@ size: 5 m
 years: vor 74-72 Millionen Jahren
 family: Ceratopsidae
 ---
-Der **Einiosaurus** war ein pflanzenfressender Ceratopsier aus der Familie der Ceratopsidae. Das erste Exemplar wurde 1985 von Jack Horner in Montana gefunden. Die Ausgrabung dauerte mehrer Jahre und es wurde ein komplette kleine Herde von mindestens 15 Individuen entdeckt. Erst 1994 wurde der Name **Einiosaurus procurvicornis** erstmalig vom kanadischen Paläontologen Scott Donald Sampson auf der jährlichen Society of Vertebrate Paleontology Konferenz verwendet.
+Der **Einiosaurus** war ein pflanzenfressender Ceratopsier aus der Familie der Ceratopsidae. Das erste Exemplar wurde 1985 von Jack Horner in Montana gefunden. Die Ausgrabung dauerte mehrere Jahre und es wurde ein komplette kleine Herde von mindestens 15 Individuen entdeckt. Erst 1994 wurde der Name **Einiosaurus procurvicornis** erstmalig vom kanadischen Paläontologen Scott Donald Sampson auf der jährlichen Society of Vertebrate Paleontology Konferenz verwendet.
 
 Das Hauptmerkmal eines **Einiosaurus** ist das nach vorn gebogene Nasenhorn auf dem Schädel, zusammen mit dem mächtigen Nackenschild. An der Fundstelle wurde verschiede große Nasenhörner gefunden, so das man annimmt, dass das Nasenhorn mit gewachsen ist. Bei jungen Tieren war es gerade, die Krümmung nach vorn gab es nur bei erwachsenen Tieren. Nicht alle **Einiosaurus** besaßen ein Nashorn.
 
