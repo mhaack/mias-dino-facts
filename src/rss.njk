@@ -1,0 +1,27 @@
+---
+permalink: '/index.rss'
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ site.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.name }}</title>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ permalink | absoluteUrl(site.url) }}" rel="self" type="application/rss+xml"/>
+    <description>{{ site.metaDescription }}</description>
+    <language>de</language>
+    {% if collections.dinos | length -%}
+    <pubDate>{{ collections.dinos | getNewestCollectionItemDate | dateToRfc822 }}</pubDate>
+    {%- endif -%}
+    {% for dino in collections.dinos | reverse %}
+    {% set absolutePostUrl = dino.url | absoluteUrl(site.url) -%}
+    <item>
+      <title>{{ dino.data.title }}</title>
+      <link>{{ absolutePostUrl }}</link>
+      <pubDate>{{ dino.date | dateToRfc822 }}</pubDate>
+      <guid>{{ absolutePostUrl }}</guid>
+      <description>{{ dino.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>
