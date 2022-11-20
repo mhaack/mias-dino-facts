@@ -3,30 +3,26 @@ permalink: '/feed.xml'
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ site.url }}">
   <title>{{ site.name }}</title>
   <subtitle>{{ site.metaDescription }}</subtitle>
-  <link href="{{ site.url }}{{ permalink }}" rel="self"/>
+  <link href="{{ permalink | absoluteUrl(site.url) }}" rel="self"/>
   <link href="{{ site.url }}/"/>
   {% if collections.dinos | length %}
-    <updated>{{ collections.dinos | rssLastUpdatedDate }}</updated>
+    <updated>{{ collections.dinos | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   {% endif %}
   <id>{{ site.url }}</id>
   <author>
     <name>{{ site.author }}</name>
   </author>
-  {% for dino in collections.dinos %}
-    {% set absoluteUrl %}{{ site.url }}{{ dino.url | url }}{% endset %}
-    <entry>
-      <title>{{ dino.data.title }}</title>
-      <link href="{{ absoluteUrl }}"/>
-      <updated>{{ dino.date | rssDate }}</updated>
-      <id>{{ absoluteUrl }}</id>
-      <content type="html">
-        <![CDATA[
-      {{ dino.templateContent | safe }}
-    ]]>
-      </content>
-    </entry>
-  {% endfor %}
+  {% for dino in collections.dinos | reverse %}
+  {%- set absolutePostUrl = dino.url | absoluteUrl(site.url) %}
+  <entry>
+    <title>{{ dino.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ dino.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content xml:lang="de" type="html">{{ dino.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
 </feed>
