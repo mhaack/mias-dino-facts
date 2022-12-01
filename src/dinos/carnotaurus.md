@@ -3,6 +3,8 @@ title: Carnotaurus
 namesuffix: sastrei
 meaning: Fleischfressender Stier
 date: 2022-01-07
+dotm:
+  - month: 2022-12-01
 image: /img/dinos/carnotaurus.png
 tags:
   - Karnivore 🥩
