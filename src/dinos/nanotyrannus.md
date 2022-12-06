@@ -16,7 +16,7 @@ size: 5-6m
 years: vor 72 bis 66 Millionen Jahren
 family: Tyrannosauridae
 ---
-Der **Nanotyrannus** war ein kleiner Tyrannosaurier, oft wird er als der kleine Bruder vom Tyrannosaurus Rex bezeichnet. Er lebte vor etwa 80 Millionen Jahren während der Kreidezeit in im heutigen Nordamerika. 
+Der **Nanotyrannus** war ein kleiner Tyrannosaurier, oft wird er als der kleine Bruder vom [Tyrannosaurus Rex](/dinos/tyrannosaurus-rex/) bezeichnet. Er lebte vor etwa 80 Millionen Jahren während der Kreidezeit in im heutigen Nordamerika. 
 
 Der **Nanotyrannus** war vermutlich ein Raubtier und jagte andere Dinosaurier, um zu überleben. Er hatte lange Beine und kräftige Hinterbeine, was darauf hindeutet, dass er schnell laufen und springen konnte und damit ein hervorragender Jäger war. Durch seine kleinere Größe war er schneller und wendiger als ein der Tyrannosaurus Rex. Dies könnte bei der Jagd auf schnellere Beute von Vorteil gewesen sein. Seine kräftigen Kiefer und Zähne deuten auf eine fleischfressende Ernährung hin. Es wird auch vermutet, dass der **Nanotyrannus** in Rudeln gejagt hat, da Zähne von verschiedenen Individuen an einem Ort gefunden wurden.
 
