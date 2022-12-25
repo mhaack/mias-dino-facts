@@ -2,7 +2,7 @@
 title: Sinornithosaurus
 namesuffix: millenii
 meaning: Chinesische Vogelechse
-date: 2022-11-17
+date: 2022-12-24
 image: /img/dinos/sinornithosaurus.jpeg
 tags:
   - Karnivore 🥩
