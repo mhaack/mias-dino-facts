@@ -2,7 +2,7 @@
 title: Nanotyrannus
 namesuffix: ""
 meaning: Kleiner Tyrann
-date: 2022-12-06
+date: 2022-12-26
 image: /img/dinos/nanotyrannus-graphic.jpeg
 tags:
   - Karnivore 🥩
