@@ -3,6 +3,7 @@ title: Ichthyosaurus
 meaning: Fischechse
 date: 2022-01-12
 dotm:
+  - month: 2023-02-01
   - month: 2022-09-01
   - month: 2022-04-01
 image: /img/dinos/ichthyosaurus.jfif
