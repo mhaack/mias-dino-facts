@@ -3,6 +3,8 @@ title: Plateosaurus
 namesuffix: engelhardti
 meaning: " breite Echse"
 date: 2022-01-17
+dotm:
+  - month: 2023-05-01
 image: /img/dinos/plateosaurus.jpg
 tags:
   - Herbivore 🌿
