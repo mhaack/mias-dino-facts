@@ -4,6 +4,8 @@ namesuffix: peeblesorum
 meaning: Gute Mutter Echse
 date: 2022-04-19
 dotm:
+  - month: 2023-06-01
+  - month: 2023-04-01
   - month: 2023-03-01
   - month: 2022-07-01
 image: /img/dinos/maiasaura.jpg
