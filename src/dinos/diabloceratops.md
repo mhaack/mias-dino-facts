@@ -3,6 +3,8 @@ title: Diabloceratops
 namesuffix: eatoni
 meaning: Gesicht mit Teufelshörnern
 date: 2022-01-15
+dotm:
+  - month: 2023-07-01
 image: /img/dinos/diaboloceratops.jfif
 tags:
   - Herbivore 🌿
