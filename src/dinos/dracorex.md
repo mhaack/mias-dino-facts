@@ -14,7 +14,7 @@ locations:
   - USA
 finder: Brian Buckmeier und den Brüdern Steve und Pat Saulsbury
 weight: 45-225 kg
-size: 3m
+size: 3-4m
 years: 67-66
 family: Pachycephalosauridae
 ---
@@ -24,9 +24,9 @@ family: Pachycephalosauridae
 
 ![Dracorexschädel](/img/dinos/4776184268_8f7fc9be37_b.jpg)
 
-Wenn man die Schädelform von Stegoceras (1), **Dracorex** (2), Stygimoloch (3) und Parycephalosaurus (4) miteinander vergleicht, kann man Gemeinsamkeiten feststellen. Bei Stegoceras, Stygimoloch und Parycephalosaurus ist eine Gemeinsamkeit die Wölbung über den Augen. Wenn man sich die Schädel von **Dracorex**, Stygimoloch und Parycephalosaurus ansieht, erkennt man bei allen drei Dinosauriern eine unterschiedliche Form des Schädels. Alle drei haben sie kleine Stacheln, die sich über ihren ganzen Kopf verteilen. Noch konnte die Funktion der Kopfstacheln nicht geklärt werden. Wahrscheinlich waren sie zur Verteidigung gut oder zum Anlocken von Weibchen.
+Wenn man die Schädelform von Stegoceras (1), **Dracorex** (2), Stygimoloch (3) und [Parycephalosaurus](/dinos/pachycephalosaurus/) (4) miteinander vergleicht, kann man Gemeinsamkeiten feststellen. Bei Stegoceras, Stygimoloch und [Parycephalosaurus](/dinos/pachycephalosaurus/) ist eine Gemeinsamkeit die Wölbung über den Augen. Wenn man sich die Schädel von **Dracorex**, Stygimoloch und Parycephalosaurus ansieht, erkennt man bei allen drei Dinosauriern eine unterschiedliche Form des Schädels. Alle drei haben sie kleine Stacheln, die sich über ihren ganzen Kopf verteilen. Noch konnte die Funktion der Kopfstacheln nicht geklärt werden. Wahrscheinlich waren sie zur Verteidigung gut oder zum Anlocken von Weibchen.
 
-![]()
+![vier Pachycephalosauridae im Vergleich](/img/dinos/img_7640.jpg)
 
 Quellen:
 
