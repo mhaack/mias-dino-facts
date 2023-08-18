@@ -17,7 +17,7 @@ size: 5m
 years: 74-66
 family: Ceratopsidae
 ---
-D﻿er **Chasmosaurus** war ein relativ langsames Herdentier, der aber durch sein gigantisches Nackenschild um einiges größer und bedeutsamer wirkte. Der Name "*Lochechse*" bezieht sich auf die zwei großen Löcher in seinem Nackenschild, trotzdem wird er meistens ohne dargestellt. Das Schild diente vermutlich dazu den Hals und die Schultern vor Angriffen zu schützen, oder aber auch um Feinde abzuschrecken und Weibchen anzulocken. 
+D﻿er **Chasmosaurus** war ein relativ langsames Herdentier, der aber durch sein gigantisches Nackenschild um einiges größer und bedeutsamer wirkte. Der Name Chasmosaurus bedeutet "*Lochechse*" und bezieht sich auf die zwei großen Löcher in seinem Nackenschild, trotzdem wird er meistens ohne dargestellt. Das Schild diente vermutlich dazu den Hals und die Schultern vor Angriffen zu schützen, oder aber auch um Feinde abzuschrecken und Weibchen anzulocken. 
 
 ![Chasmosaurus](/img/dinos/chasmosaurus_by_zdenek_burian_1976.jpg)
 
