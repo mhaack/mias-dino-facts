@@ -3,6 +3,8 @@ title: Allosaurus
 namesuffix: fragilis
 meaning: Andersartige Echse
 date: 2022-01-25
+dotm:
+  - month: 2023-09-01
 image: /img/dinos/allosaurus.jpg
 tags:
   - Karnivore 🥩
