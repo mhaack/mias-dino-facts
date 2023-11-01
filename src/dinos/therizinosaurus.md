@@ -3,6 +3,8 @@ title: Therizinosaurus
 namesuffix: cheloniformis
 meaning: Sensenechse
 date: 2022-09-15
+dotm:
+  - month: 2023-11-01
 image: /img/dinos/therizinosaurus.png
 tags:
   - Herbivore 🌿
