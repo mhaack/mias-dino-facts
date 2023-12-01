@@ -3,6 +3,8 @@ title: Stegosaurus
 namesuffix: stenops
 meaning: Dachechse
 date: 2021-12-27
+dotm:
+  - month: 2023-12-01
 image: /img/dinos/stegosaurus_armatus_by_camusaltamirano_d538tdw-fullview.jpg
 tags:
   - Herbivore 🌿
