@@ -4,6 +4,7 @@ namesuffix: formosus
 meaning: Wunden reißender Zahn
 date: 2022-05-26
 dotm:
+  - month: 2024-01-01
   - month: 2023-01-01
 image: /img/dinos/troodon2.0.jpg
 tags:
