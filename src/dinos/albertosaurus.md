@@ -19,7 +19,7 @@ family: Tyrannosauridae
 ---
 Der **Albertosaurus**, ein faszinierender Dinosaurier aus der Familie der Tyrannosauridae, bewohnte vor etwa 72 bis 69 Millionen Jahren die Region, die heute als kanadische Provinz Alberta bekannt ist. Sein wissenschaftlicher Name, **Albertosaurus**, leitet sich von seinem Fundort in Alberta und dem griechischen Wort „*sauros*“, was so viel wie „*Echse*“ bedeutet, ab.
 
-Der **Albertosaurus** war zwar kleiner als die gigantischen Tyrannosauriden wie der Tarbosaurus und der [Tyrannosaurus](/dinos/tyrannosaurus-rex/), erreichte aber dennoch eine stattliche Größe von bis zu neun Metern. Einige Exemplare könnten sogar über zehn Meter Länge erreicht haben. Sein massiver Schädel saß auf einem kurzen, S-förmig gebogenen Hals und maß bei den größten Individuen etwa einen Meter. Die langen Kiefer beherbergten mehr als 60 bananenförmige Zähne. Das Gewicht des **Albertosaurus** wird auf 1,3 bis 2,5 Tonnen geschätzt.
+Der **Albertosaurus** war zwar kleiner als die meisten gigantischen Tyrannosauriden, wie der Tarbosaurus und der [Tyrannosaurus](/dinos/tyrannosaurus-rex/), erreichte aber dennoch eine stattliche Größe von bis zu neun Metern. Einige Exemplare könnten sogar über zehn Meter Länge erreicht haben. Sein massiver Schädel saß auf einem kurzen, S-förmig gebogenen Hals und maß bei den größten Individuen etwa einen Meter. Die langen Kiefer beherbergten mehr als 60 bananenförmige Zähne. Das Gewicht des **Albertosaurus** wird auf 1,3 bis 2,5 Tonnen geschätzt.
 
 ![Albertosaurusskelett](/img/dinos/12025151-skeleton-of-albertosaurus.jpg)
 
