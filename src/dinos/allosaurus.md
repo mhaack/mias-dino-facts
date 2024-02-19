@@ -34,7 +34,7 @@ Bei einigen Skeletten wurden Kampfspuren bemerkt, die nur von Kämpfen zwischen 
 1. Allosaurier waren Einzelgänger und zogen sich ihre Verletzungen bei der Revierverteidigung und der Jagd zu. 
 2. Sie lebten in Herden, um sich gegenseitig Schutz zu geben, verstanden sich untereinander aber nicht so gut, weshalb sie sich bekämpften.
 
-   Keine der beiden Theorien ist bisher bestätigt.
+Keine der beiden Theorien ist bisher bestätigt.
 
 Der bedeutende Fund von "*Big Al*" im Jahr 1991 war eine besondere Entdeckung in der Paläontologie. "*Big Al*" wurde in der Morrison Formation in Wyoming, USA, entdeckt und war ein nahezu vollständiges Skelett eines **Allosaurus fragilis**.
 Was "*Big Al*" besonders bemerkenswert machte, war der außergewöhnlich gute Erhaltungszustand seines Skeletts. Fast alle Knochen waren erhalten und einige waren sogar in ihrer ursprünglichen Position miteinander verbunden, was es den Paläontologen ermöglichte, ein detailliertes Bild davon zu zeichnen, wie dieser Dinosaurier gebaut war.
