@@ -30,10 +30,11 @@
 }
 
 .c-map__selected {
+    height: 150px;
+
     span {
         display: flex;
         justify-content: center;
-        margin-top: 1rem;
     }
     ul {
         padding: 0;
@@ -41,7 +42,7 @@
         gap: 12px;
         justify-content: center;
         flex-wrap: wrap;
-        margin-top: 1rem;
+        margin: 0.5rem 0;
 
         li {
             display: inline-flex;

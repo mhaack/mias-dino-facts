@@ -12,9 +12,11 @@ bodyClass: c-map
         {% endif %}
         <h1>{{title}}</h1>
         <p class="c-map__description">{{description}}</p>
+        <div class="c-map__selected" id="picker">
+            <span></span>
+            <ul></ul>
+        </div>
     </div>
-</section>
-<section>
     <div class="l-container">
         {# <div class="c-map__select" x-data="dinoSelection()">
         <select @change="select($event)" x-model="selectedDino">
@@ -24,11 +26,8 @@ bodyClass: c-map
         {%- endfor -%}
         </select>
         </div> #}
+    
         <div class="c-map__wrapper" id="map"></div>
-        <div class="c-map__selected" id="picker">
-            <span></span>
-            <ul></ul>
-        </div>
     </div>
 </section>
 
