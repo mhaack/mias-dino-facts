@@ -42,9 +42,8 @@ locations:
   - DN
   - IRQ
   - IRN
-  - JPM
   - ISR
-  - JPM
+  - JPN
   - YEM
   - JOR
   - KHM
