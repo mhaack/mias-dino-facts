@@ -1,3 +1,30 @@
+const createLinkedEntry = (name, url) => {
+    const entry = document.createElement('li');
+    const entryLink = document.createElement('a');
+    entryLink.href = url;
+    entryLink.textContent = name;
+    entry.append(entryLink);
+    return entry;
+};
+
+const countrySelected = (geography, country) => {
+    const label = document.querySelector('div#picker span');
+    const wrapper = document.querySelector('div#picker ul');
+    if (country) {
+        label.textContent = `In ${geography.properties.name} gefunden:`;
+
+        if (wrapper) {
+            wrapper.innerHTML = '';
+            country.info?.forEach((dino) => {
+                wrapper.append(createLinkedEntry(dino.name, dino.url));
+            });
+        }
+    } else {
+        label.textContent = '';
+        wrapper.innerHTML = '';
+    }
+};
+
 const map = new Datamap({
     element: document.getElementById('map'),
     projection: 'mercator',
@@ -9,57 +36,18 @@ const map = new Datamap({
         highlightFillColor: '#ad5857',
         highlightBorderWidth: 5,
         popupTemplate: function (geography, data) {
-            const dino = map.options.data[geography.id];
-            if (dino && !dino.name == '') {
-                return (
-                    '<div class="hoverinfo"><div class="hoverinfo__row">' +
-                    '<div class="hoverinfo__column-1"><img src="/img/icons/stegosaurus.png" alt="icon" height="32" width="32"></div>' +
-                    '<div class="hoverinfo__column-2"><strong>' +
-                    dino.name +
-                    '</strong><br/>' +
-                    geography.properties.name +
-                    '</div></div></div>'
-                );
-            }
+            return (
+                data &&
+                data.info &&
+                "<div class='hoverinfo'><strong>" + data.info.map((e) => e.name).join('<br>') + '</strong></div>'
+            );
         },
     },
-    data: {},
+    dataUrl: '/map.json',
     done: function (datamap) {
         datamap.svg.selectAll('.datamaps-subunit').on('click', function (geography) {
-            const dino = map.options.data[geography.id];
-            if (dino && !dino.cardUrl == '') {
-                window.open(dino.cardUrl, '_self');
-            }
+            const country = map.options.data[geography.id];
+            countrySelected(geography, country);
         });
     },
 });
-
-function dinoSelection() {
-    return {
-        selectedDino: '',
-        select(event) {
-            const name = this.selectedDino;
-
-            // disable all countries
-            let countriesObj = {};
-            for (const country in map.options.data) {
-                countriesObj[country] = {
-                    fillKey: 'defaultFill',
-                    name: '',
-                    cardUrl: '',
-                };
-            }
-            if ('none' != name) {
-                const selectedOption = event.target.selectedOptions[0];
-                const cardUrl = selectedOption.dataset.url;
-                const locations = selectedOption.dataset.locations;
-
-                // enable dino location countries
-                locations.split(',').forEach((country) => {
-                    countriesObj[country] = { fillKey: 'dinoLocation', name, cardUrl };
-                });
-            }
-            map.updateChoropleth(countriesObj);
-        },
-    };
-}
