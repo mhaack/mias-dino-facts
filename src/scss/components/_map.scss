@@ -21,7 +21,7 @@
 
 .c-map__wrapper {
     position: relative;
-    margin: 0 auto;
+    margin: 0.5rem  auto;
     height: 512px;
 
     @media (max-width: 576px) {
@@ -30,8 +30,6 @@
 }
 
 .c-map__selected {
-    margin-top: 1rem;
-
     span {
         display: flex;
         justify-content: center;
