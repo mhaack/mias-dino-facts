@@ -13,18 +13,12 @@ bodyClass: c-map
         <h1>{{title}}</h1>
         <p class="c-map__description">{{description}}</p>
     </div>
-</section>
-<section>
-    <div class="l-container">
-        <div class="c-map__select" x-data="dinoSelection()">
-        <select @change="select($event)" x-model="selectedDino">
-        <option selected value="none">&gt; 🦖 Dino auswählen &lt;</option>
-        {%- for dino in collections.dinos | dinoWithLocations | nameAscending -%}
-        <option data-url="{{dino.url}}" data-locations="{{dino.data.locations}}">{{dino.data.title}}</option>
-        {%- endfor -%}
-        </select>
-        </div>
+    <div class="l-container">    
         <div class="c-map__wrapper" id="map"></div>
+        <div class="c-map__selected" id="picker">
+            <span></span>
+            <ul></ul>
+        </div>
     </div>
 </section>
 
