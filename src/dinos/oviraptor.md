@@ -3,6 +3,8 @@ title: Oviraptor
 namesuffix: philoceratops
 meaning: Eierdieb
 date: 2022-08-21
+dotm:
+  - month: 2024-04-01
 image: /img/dinos/oviraptor.png
 tags:
   - Karnivore 🥩
