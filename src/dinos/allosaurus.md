@@ -25,6 +25,8 @@ Der Körperbau des **Allosaurus** war typisch für einen theropoden Dinosaurier.
 
 ![Allosaurusschädel](/img/dinos/img_4281.jpeg)
 
+Fotografie: Imaginario27
+
 Sein Hals war relativ lang und flexibel, welcher es ihm ermöglichte, seine Beute mit seitlichen Bewegungen seines Kopfes zu ergreifen. Die Arme des **Allosaurus** waren im Vergleich zu seinen Hinterbeinen relativ kurz und endeten in drei kräftigen Krallen.
 Die Hinterbeine des **Allosaurus** waren lang und muskulös und ermöglichten ihm, sich schnell und agil zu bewegen. Seine großen Hinterbeine endeten ebenfalls in scharfen Klauen. 
 Der Schwanz des **Allosaurus** war lang und kräftig und diente vermutlich als Ausgleich beim Rennen und gleichzeitig als Waffe gegen potenzielle Angreifer.
@@ -41,6 +43,24 @@ Was "*Big Al*" besonders bemerkenswert machte, war der außergewöhnlich gute Er
 Zusätzlich zu den Verletzungen wies das Skelett von "*Big* *Al*" auch Anzeichen einer Infektion auf, die möglicherweise von einem Biss oder einer anderen Verletzung verursacht wurde.
 
 ![Allosaurusskelett](/img/dinos/allosaurus-skelett.jpg)
+
+\
+Der **Allosaurus** wurde in zahlreichen Gattungen beschrieben, unter anderem **Allosaurus** *fragilis*. Schon 1877 beschrieb Othiniel Charles Marsh den ersten Fund von **Allosaurus**, als **Allosaurus** *fragilis*. Marshs Fund bestand jedoch nur aus zwei Wirbelknochen, einem Zahn und einem Zehenknochen. Die darauffolgenden Neubeschreibungen unterscheiden sich aber meist an den Schädelknochen. Es wurde über eine Zusammenlegung des Gattungen auf den Artnamen **Allosaurus** *fragilis* nachgedacht, dies steht aber noch nicht endgültig festgelegt. \
+\
+Deshalb unterscheidet man unter:
+
+* *Allosaurus fragilis*
+* *Allosaurus jimmadseni*
+* *Allosaurus europaeus*
+* *Allosaurus amplus*
+* *Allosaurus amplus*
+* *Allosaurus lucasi*
+* *Allosaurus maximus*
+
+![Allosaurus fragilis und Allosaurus jimmdseni im Vergleich.](/img/dinos/img_4562.jpeg)
+
+\
+Hier sind **Allosaurus** *fragilis* und **Allosaurus** *jimmadseni* im Vergleich zu sehen. *(Hinten: Allosaurus jimmadseni Vorne: Allosaurus fragilis)*
 
 Quellen:
 
