@@ -28,7 +28,7 @@ Der Körperbau des **Allosaurus** war typisch für einen theropoden Dinosaurier.
 
 Fotografie: Imaginario27
 
-Sein Hals war relativ lang und flexibel, welcher es ihm ermöglichte, seine Beute mit seitlichen Bewegungen seines Kopfes zu ergreifen. Die Arme des **Allosaurus** waren im Vergleich zu seinen Hinterbeinen relativ kurz und endeten in drei kräftigen Krallen.
+Sein Hals war relativ lang und flexibel, was es ihm ermöglichte, seine Beute mit seitlichen Bewegungen seines Kopfes zu ergreifen. Die Arme des **Allosaurus** waren im Vergleich zu seinen Hinterbeinen relativ kurz und endeten in drei kräftigen Krallen.
 Die Hinterbeine des **Allosaurus** waren lang und muskulös und ermöglichten ihm, sich schnell und agil zu bewegen. Seine großen Hinterbeine endeten ebenfalls in scharfen Klauen. 
 Der Schwanz des **Allosaurus** war lang und kräftig und diente vermutlich als Ausgleich beim Rennen und gleichzeitig als Waffe gegen potenzielle Angreifer. 
 
