@@ -23,7 +23,7 @@ Der **Edmontosaurus** ist einer der größten seiner Art. Er wurde bis zu 12-13m
 
 ![Edmontosauruszeichnung](/img/dinos/img_0949.jpeg)
 
-Vom **Edmontosaurus** sind Fossilmumien bekannt. Das bedeutet, dass die Weichteile des toten Dinosauriers vor dem Verwesen getrocknet sind und dann von Sand verschüttet wurden. Nach einiger Zeit ist das Skelett dann versteinert. Dadurch kann man auch versteinerte Abdrücke, zum Beispiel von der Haut finden. Durch die Abdrücke der Haut, weiß man das sie große Knoten hatte.
+Vom **Edmontosaurus** sind Fossilmumien bekannt. Das bedeutet, dass die Weichteile des toten Dinosauriers vor dem Verwesen getrocknet sind und dann von Sand verschüttet wurden. Nach einiger Zeit ist das Skelett dann versteinert. Dadurch kann man auch versteinerte Abdrücke, zum Beispiel von der Haut, finden. Durch die Abdrücke der Haut, weiß man das sie große Knoten hatte.
 
 ![Hautabdruck Edmontosaurus ](/img/dinos/img_1401.jpeg)
 
