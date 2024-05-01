@@ -3,6 +3,8 @@ title: Dracorex
 namesuffix: Drachenkönig von Hogwarts
 meaning: hogwartsia
 date: 2023-08-18
+dotm:
+  - month: 2024-05-01
 image: /img/dinos/dracorex_bw.jpg
 tags:
   - Herbivore 🌿
