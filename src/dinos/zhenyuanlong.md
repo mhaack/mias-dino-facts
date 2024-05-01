@@ -24,7 +24,7 @@ Es ist ein nahezu vollständiges Skelett vorhanden. Bei dem **Zhenyuanlong** las
 
 ![Zhenyuanlong Skelett](/img/dinos/zhenyuanlong-suni.jpg)
 
-Der **Zhenyuanlong** war am ganzen Körper mit Federn bedeckt, in dem gefundenen Gestein konnte man gute Abdrücke der Federn erkennen. Er hatte auch welche an seien Armen, mit denen er aber vermutlich nicht fliegen konnte.
+Der **Zhenyuanlong** war am ganzen Körper mit Federn bedeckt, in dem gefundenen Gestein konnte man gute Abdrücke der Federn erkennen. Er hatte auch welche an seinen Armen, mit denen er aber vermutlich nicht fliegen konnte.
 
 Das Skelett des **Zhenyuanlong** wird im *Jinzhou Palaeontological Museum* ausgestellt.
 
