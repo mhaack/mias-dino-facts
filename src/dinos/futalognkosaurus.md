@@ -8,7 +8,7 @@ tags:
   - Herbivore 🌿
   - Kreide 🦴
 food: Herbivore
-location: Argentinien, Neuqén
+location: Argentinien
 locations:
   - ARG
 finder: Jorge Calvo
@@ -17,16 +17,11 @@ size: 32-34m
 years: 91-98
 family: Titanosauria
 ---
-Der **Futalognkosaurus** war einer der drei größten Dinosaurier die je auf unserem Planeten gelebt haben.
+Futalognkosaurus, einer der größten Giganten seiner Zeit. Er lebt vor etwas 91-98 Millionen Jahren, Oberkreide, im heutigen Argentinien. Dort wurde der Futalognkosaurus auch entdeckt, in Neuquén Argentinien.
 
-![Futalognkosaurusskelett](/img/dinos/futalognkosaurus.jpg)
-
- Er lebte vor ca. 88 Millionen Jahren in Patagonien, im heutigem Südamerika in tropischen Wäldern.  
-
-![Tropenwald](/img/dinos/tropenwald.png)
+![](/img/dinos/neuquen_in_argentina_-falkland_hatched-.svg)
 
 Quelle:
 
-* <https://www.deviantart.com/spinoinwonderland/art/Futalognkosaurus-dukei-750450335>
-* <https://www.skeletaldrawing.com/home/sauropod-gallery-overhauled>
-* <https://alleideen.com/tipps-fur-weltreisen/>
+* [https://www.deviantart.com/spinoinwonderland/art/Futalognkosaurus-dukei-750450335 ](https://www.deviantart.com/spinoinwonderland/art/Futalognkosaurus-dukei-750450335)
+* [https://commons.wikimedia.org/wiki/File:Neuquen*in_Argentina*%28%2BFalkland_hatched%29.svg](<* https://commons.wikimedia.org/wiki/File:Neuquen*in_Argentina*%28%2BFalkland_hatched%29.svg>)
