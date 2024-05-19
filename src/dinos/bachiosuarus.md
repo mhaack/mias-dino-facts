@@ -11,33 +11,23 @@ tags:
   - Herbivore 🌿
   - Jura 🦴
   - Lieblingsdino ⭐
-location: Nordamerika
-finder: Elmer S. Riggs
-size: 28m
-family: Sauropoda
 food: Herbivore
+location: Nordamerika
 locations:
   - CAN
   - USA
-weight: 35.000kg
+finder: Elmer S. Riggs
+weight: 28.000-44.000kg
+size: 23-28m
 years: "155-140 "
+family: Sauropoda
 group: Brachiosauridae
 ---
-Der Name **Brachiosaurus** bedeutet "Armechse" und setzt sich aus den lateinischen Wörtern "bracchium" für Arm und "saurus" für "Echse" zusammen.
+Der Name **Brachiosaurus** bedeutet "Armechse" und setzt sich aus den lateinischen Wörtern "bracchium" für Arm und "saurus" für "Echse" zusammen. Der Name bezieht sich auf seine sehr großen Vorderbeine.
 
-Der **Brachiosaurus** hatte einen sehr langen Hals, aber doch war er etwas zu klein, um an die Spitze der großen Nadelbäume heran zukommen. Deshalb stellte er sich beim Fressen auf seine Hinterbeinen.
+Wie auf vielen ältere Darstellungen zu sehen stellte der Brachiosaurus sich auf seine Hinterbeine um noch höher in die Baumkronen zu gelangen. Es stellte sich jedoch heraus, dass dies ein Irrtum ist und der Brachiosaurus  sich nicht auf seine Hinterbeine stellen konnte. Diese wahren zu schwach um das ganze Gewicht dieses Giganten tragen zu können. Tatsächlich waren es die Vorderbeine, die das meiste des Gewichts trugen. Der Unterarmknochen der Vorderbeine des Brachiosaurus sind 1,80 Meter lang und der Oberarmknochen sogar 2,10 Meter lang. somit war er groß genug und musste sich nicht auf die Hinterbeine stellen um in die Baumkronen zu ragen.
 
-Es ist davon auszugehen das der **Brachiosaurus** sehr starke Hinterbeine hatte. Er hatte zwar starke Hinterbeine, aber trotzdem waren sie ein bisschen kleiner als die Vorderbeine.
-
-Am Tag verschlag ein **Brachiosaurus** ca. 200kg Blätter und Zweige. Er hatte Zähne die in Form eines Löffels waren, damit er die Pflanzen besser zermahlen konnte.
-
-Der **Brachiosaurus** hatte Krallen an den Hinterbeinen mit denen er wahrscheinlich Löscher für Nester grub. Darin legte er seine Eier ab.
-
-![Brachiosaurusnest](/img/dinos/brachio-nest.jpg)
-
-Man hat Fußspuren gefunden, bei denen man erkennen konnte das die Abdrücke der Vorderbeine ähnlich wie bei Pferden waren und die Abdrücke der Hinterbeine waren mehr wie ein Kreis.
-
-![Fußabtrücke](/img/dinos/image0.jpeg)
+Der Brachiosaurus hatte auch im Verglich mit anderen Sauropoden einen sehr großen Schädel mit voluminösen Nasenhöhlen. U
 
 Quellen:
 
