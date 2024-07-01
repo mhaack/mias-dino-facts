@@ -3,6 +3,8 @@ title: Kentrosaurus
 namesuffix: aethiopicus
 meaning: Spitze Echse
 date: 2022-01-16
+dotm:
+  - month: 2024-07-01
 image: /img/dinos/kentrosaurus.jfif
 tags:
   - Herbivore 🌿
