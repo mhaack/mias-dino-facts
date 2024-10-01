@@ -4,6 +4,7 @@ namesuffix: fragilis
 meaning: Andersartige Echse
 date: 2022-01-25
 dotm:
+  - month: 2024-10-01
   - month: 2023-09-01
 image: /img/dinos/allosaurus.jpg
 tags:
