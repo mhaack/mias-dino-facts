@@ -8,7 +8,6 @@ tags:
   - Trias 🦴
   - Jura 🦴
   - Karnivore 🥩
-  - Lieblingsdino ⭐
 food: Karnivore
 location: USA, China,
 locations:
@@ -34,7 +33,7 @@ So viele Skelette einer Art an einem Ort, lässt vermuten, dass **Coelophysis** 
 
 ![Sandsteine der Ghost Ranch](/img/dinos/10105344244_996711bd3d_b.jpg)
 
-1998 wurde ein Schädel des **Coelophysis** aus dem Carnegie Museum of Natural History, Pittsburgh, mit dem Raumschiff Endeavour mit ins Weltall genommen. Zusammen mit dem Maiasaura ist er der einzige Dinosaurier, der mit ins All gebracht wurde.
+1998 wurde ein Schädel des **Coelophysis** aus dem Carnegie Museum of Natural History, Pittsburgh, mit dem Raumschiff Endeavour mit ins Weltall genommen. Zusammen mit dem [Maiasaura ](/dinos/maiasaura/)ist er der einzige Dinosaurier, der mit ins All gebracht wurde.
 
 Quellen:
 
