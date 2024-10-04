@@ -39,3 +39,5 @@ So viele Skelette einer Art an einem Ort, lässt vermuten, dass **Coelophysis** 
 Quellen:
 
 * <https://archosaurmusings.wordpress.com/2010/10/01/interview-with-jeff-martz/>
+* <https://en.m.wikipedia.org/wiki/File:Coelophysis_cast.jpg>
+* [](https://en.m.wikipedia.org/wiki/File:Coelophysis_cast.jpg)<https://www.flickr.com/photos/22711505@N05/10105344244>
